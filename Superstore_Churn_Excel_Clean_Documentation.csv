@@ -1,0 +1,2001 @@
+customer_id,customer_name,city,state,region,customer_segment,signup_date,age_group
+CUST00001,Customer_1,Lucknow,Uttar Pradesh,North,Regular,2022-11-06,26-35
+CUST00002,Customer_2,Delhi,Delhi,North,VIP,2022-08-09,26-35
+CUST00003,Customer_3,Mumbai,Maharashtra,West,Premium,2022-02-20,46-55
+CUST00004,Customer_4,Indore,Madhya Pradesh,Central,Regular,2022-12-26,26-35
+CUST00005,Customer_5,Chennai,Tamil Nadu,South,New,2022-02-28,26-35
+CUST00006,Customer_6,Hyderabad,Telangana,South,New,2022-12-02,36-45
+CUST00007,Customer_7,Hyderabad,Telangana,South,New,2022-11-30,26-35
+CUST00008,Customer_8,Bangalore,Karnataka,South,Premium,2022-10-10,36-45
+CUST00009,Customer_9,Indore,Madhya Pradesh,Central,Regular,2022-04-21,18-25
+CUST00010,Customer_10,Delhi,Delhi,North,Premium,2022-08-09,26-35
+CUST00011,Customer_11,Lucknow,Uttar Pradesh,North,New,2022-08-20,18-25
+CUST00012,Customer_12,Indore,Madhya Pradesh,Central,VIP,2022-04-27,18-25
+CUST00013,Customer_13,Patna,Bihar,East,Premium,2022-07-31,46-55
+CUST00014,Customer_14,Jaipur,Rajasthan,North,New,2022-06-23,18-25
+CUST00015,Customer_15,Delhi,Delhi,North,New,2022-08-21,26-35
+CUST00016,Customer_16,Surat,Gujarat,West,New,2022-07-24,26-35
+CUST00017,Customer_17,Pune,Maharashtra,West,Regular,2022-08-01,26-35
+CUST00018,Customer_18,Mumbai,Maharashtra,West,Regular,2022-02-18,46-55
+CUST00019,Customer_19,Mumbai,Maharashtra,West,Regular,2022-06-10,18-25
+CUST00020,Customer_20,Delhi,Delhi,North,New,2022-08-07,36-45
+CUST00021,Customer_21,Hyderabad,Telangana,South,Regular,2022-06-10,55+
+CUST00022,Customer_22,Hyderabad,Telangana,South,New,2022-12-07,36-45
+CUST00023,Customer_23,Jaipur,Rajasthan,North,New,2022-05-11,46-55
+CUST00024,Customer_24,Surat,Gujarat,West,Regular,2022-07-11,18-25
+CUST00025,Customer_25,Mumbai,Maharashtra,West,Regular,2022-03-20,26-35
+CUST00026,Customer_26,Jaipur,Rajasthan,North,Premium,2022-12-18,26-35
+CUST00027,Customer_27,Hyderabad,Telangana,South,New,2022-08-31,36-45
+CUST00028,Customer_28,Indore,Madhya Pradesh,Central,Regular,2022-02-04,55+
+CUST00029,Customer_29,Lucknow,Uttar Pradesh,North,Regular,2022-02-16,26-35
+CUST00030,Customer_30,Indore,Madhya Pradesh,Central,New,2022-02-13,36-45
+CUST00031,Customer_31,Jaipur,Rajasthan,North,Regular,2022-02-17,18-25
+CUST00032,Customer_32,Pune,Maharashtra,West,New,2022-08-10,36-45
+CUST00033,Customer_33,Hyderabad,Telangana,South,New,2022-02-19,26-35
+CUST00034,Customer_34,Ahmedabad,Gujarat,West,VIP,2022-07-10,55+
+CUST00035,Customer_35,Surat,Gujarat,West,VIP,2022-03-08,36-45
+CUST00036,Customer_36,Chennai,Tamil Nadu,South,Premium,2022-10-12,26-35
+CUST00037,Customer_37,Bhopal,Madhya Pradesh,Central,Regular,2022-01-31,18-25
+CUST00038,Customer_38,Nagpur,Maharashtra,West,New,2022-10-28,18-25
+CUST00039,Customer_39,Mumbai,Maharashtra,West,Regular,2022-10-15,26-35
+CUST00040,Customer_40,Bhopal,Madhya Pradesh,Central,Regular,2022-10-15,26-35
+CUST00041,Customer_41,Bhopal,Madhya Pradesh,Central,New,2022-06-18,46-55
+CUST00042,Customer_42,Bangalore,Karnataka,South,Regular,2022-12-10,36-45
+CUST00043,Customer_43,Indore,Madhya Pradesh,Central,New,2022-03-04,26-35
+CUST00044,Customer_44,Pune,Maharashtra,West,VIP,2022-07-30,18-25
+CUST00045,Customer_45,Kolkata,West Bengal,East,New,2022-07-01,46-55
+CUST00046,Customer_46,Chennai,Tamil Nadu,South,Regular,2022-12-07,36-45
+CUST00047,Customer_47,Bangalore,Karnataka,South,Regular,2022-08-05,18-25
+CUST00048,Customer_48,Hyderabad,Telangana,South,Regular,2022-01-27,36-45
+CUST00049,Customer_49,Bhopal,Madhya Pradesh,Central,Regular,2022-05-28,26-35
+CUST00050,Customer_50,Kolkata,West Bengal,East,New,2022-11-04,18-25
+CUST00051,Customer_51,Delhi,Delhi,North,VIP,2022-06-09,26-35
+CUST00052,Customer_52,Delhi,Delhi,North,Premium,2022-06-30,26-35
+CUST00053,Customer_53,Pune,Maharashtra,West,VIP,2022-02-23,18-25
+CUST00054,Customer_54,Delhi,Delhi,North,Premium,2022-10-23,46-55
+CUST00055,Customer_55,Kolkata,West Bengal,East,Regular,2022-09-17,46-55
+CUST00056,Customer_56,Nagpur,Maharashtra,West,VIP,2022-04-19,36-45
+CUST00057,Customer_57,Kolkata,West Bengal,East,New,2022-03-21,26-35
+CUST00058,Customer_58,Surat,Gujarat,West,New,2022-12-03,26-35
+CUST00059,Customer_59,Chennai,Tamil Nadu,South,New,2022-09-04,36-45
+CUST00060,Customer_60,Bhopal,Madhya Pradesh,Central,Regular,2022-04-25,26-35
+CUST00061,Customer_61,Mumbai,Maharashtra,West,Regular,2022-02-25,18-25
+CUST00062,Customer_62,Indore,Madhya Pradesh,Central,New,2022-06-29,26-35
+CUST00063,Customer_63,Ahmedabad,Gujarat,West,Premium,2022-10-12,46-55
+CUST00064,Customer_64,Jaipur,Rajasthan,North,Regular,2022-07-08,26-35
+CUST00065,Customer_65,Delhi,Delhi,North,New,2022-02-28,18-25
+CUST00066,Customer_66,Patna,Bihar,East,Regular,2022-05-23,36-45
+CUST00067,Customer_67,Pune,Maharashtra,West,New,2022-10-21,26-35
+CUST00068,Customer_68,Delhi,Delhi,North,Premium,2022-04-26,26-35
+CUST00069,Customer_69,Jaipur,Rajasthan,North,New,2022-08-08,18-25
+CUST00070,Customer_70,Chennai,Tamil Nadu,South,VIP,2022-10-15,26-35
+CUST00071,Customer_71,Nagpur,Maharashtra,West,Premium,2022-11-15,36-45
+CUST00072,Customer_72,Lucknow,Uttar Pradesh,North,New,2022-11-11,26-35
+CUST00073,Customer_73,Surat,Gujarat,West,New,2022-12-12,26-35
+CUST00074,Customer_74,Patna,Bihar,East,Premium,2022-11-26,46-55
+CUST00075,Customer_75,Nagpur,Maharashtra,West,Premium,2022-10-13,46-55
+CUST00076,Customer_76,Kolkata,West Bengal,East,Premium,2022-01-14,46-55
+CUST00077,Customer_77,Surat,Gujarat,West,Premium,2022-11-08,26-35
+CUST00078,Customer_78,Hyderabad,Telangana,South,New,2022-12-03,26-35
+CUST00079,Customer_79,Indore,Madhya Pradesh,Central,Regular,2022-12-22,55+
+CUST00080,Customer_80,Delhi,Delhi,North,New,2022-05-17,36-45
+CUST00081,Customer_81,Mumbai,Maharashtra,West,Premium,2022-01-15,18-25
+CUST00082,Customer_82,Lucknow,Uttar Pradesh,North,Regular,2022-04-03,18-25
+CUST00083,Customer_83,Hyderabad,Telangana,South,Regular,2022-05-20,26-35
+CUST00084,Customer_84,Bhopal,Madhya Pradesh,Central,New,2022-12-26,46-55
+CUST00085,Customer_85,Chennai,Tamil Nadu,South,Regular,2022-06-08,26-35
+CUST00086,Customer_86,Delhi,Delhi,North,Regular,2022-06-23,26-35
+CUST00087,Customer_87,Nagpur,Maharashtra,West,Premium,2022-06-29,18-25
+CUST00088,Customer_88,Hyderabad,Telangana,South,Regular,2022-01-04,36-45
+CUST00089,Customer_89,Nagpur,Maharashtra,West,Premium,2022-04-03,46-55
+CUST00090,Customer_90,Delhi,Delhi,North,Regular,2022-03-15,26-35
+CUST00091,Customer_91,Pune,Maharashtra,West,New,2022-10-17,36-45
+CUST00092,Customer_92,Chennai,Tamil Nadu,South,Premium,2022-12-03,55+
+CUST00093,Customer_93,Ahmedabad,Gujarat,West,Premium,2022-07-25,26-35
+CUST00094,Customer_94,Lucknow,Uttar Pradesh,North,Regular,2022-02-05,26-35
+CUST00095,Customer_95,Nagpur,Maharashtra,West,Premium,2022-03-14,26-35
+CUST00096,Customer_96,Kolkata,West Bengal,East,Regular,2022-11-21,36-45
+CUST00097,Customer_97,Bangalore,Karnataka,South,Regular,2022-01-16,36-45
+CUST00098,Customer_98,Kolkata,West Bengal,East,Regular,2022-02-16,36-45
+CUST00099,Customer_99,Kolkata,West Bengal,East,New,2022-09-29,36-45
+CUST00100,Customer_100,Hyderabad,Telangana,South,New,2022-04-21,26-35
+CUST00101,Customer_101,Lucknow,Uttar Pradesh,North,New,2022-07-12,46-55
+CUST00102,Customer_102,Chennai,Tamil Nadu,South,Regular,2022-08-03,26-35
+CUST00103,Customer_103,Indore,Madhya Pradesh,Central,Regular,2022-08-21,18-25
+CUST00104,Customer_104,Patna,Bihar,East,Regular,2022-06-24,36-45
+CUST00105,Customer_105,Lucknow,Uttar Pradesh,North,VIP,2022-03-22,36-45
+CUST00106,Customer_106,Lucknow,Uttar Pradesh,North,New,2022-07-09,26-35
+CUST00107,Customer_107,Delhi,Delhi,North,Regular,2022-06-09,46-55
+CUST00108,Customer_108,Surat,Gujarat,West,Premium,2022-06-16,46-55
+CUST00109,Customer_109,Lucknow,Uttar Pradesh,North,New,2022-10-18,26-35
+CUST00110,Customer_110,Bangalore,Karnataka,South,New,2022-11-02,55+
+CUST00111,Customer_111,Jaipur,Rajasthan,North,New,2022-02-13,18-25
+CUST00112,Customer_112,Indore,Madhya Pradesh,Central,New,2022-01-27,26-35
+CUST00113,Customer_113,Hyderabad,Telangana,South,VIP,2022-03-21,18-25
+CUST00114,Customer_114,Bangalore,Karnataka,South,Premium,2022-03-22,46-55
+CUST00115,Customer_115,Ahmedabad,Gujarat,West,Regular,2022-11-13,36-45
+CUST00116,Customer_116,Pune,Maharashtra,West,Premium,2022-01-26,18-25
+CUST00117,Customer_117,Chennai,Tamil Nadu,South,Premium,2022-12-12,26-35
+CUST00118,Customer_118,Patna,Bihar,East,New,2022-02-11,36-45
+CUST00119,Customer_119,Lucknow,Uttar Pradesh,North,Premium,2022-05-20,18-25
+CUST00120,Customer_120,Indore,Madhya Pradesh,Central,Regular,2022-08-15,46-55
+CUST00121,Customer_121,Jaipur,Rajasthan,North,Premium,2022-12-05,46-55
+CUST00122,Customer_122,Hyderabad,Telangana,South,Premium,2022-08-06,26-35
+CUST00123,Customer_123,Lucknow,Uttar Pradesh,North,Regular,2022-09-06,55+
+CUST00124,Customer_124,Kolkata,West Bengal,East,New,2022-11-07,26-35
+CUST00125,Customer_125,Nagpur,Maharashtra,West,New,2022-08-15,55+
+CUST00126,Customer_126,Bhopal,Madhya Pradesh,Central,Regular,2022-08-01,36-45
+CUST00127,Customer_127,Bhopal,Madhya Pradesh,Central,Premium,2022-05-20,36-45
+CUST00128,Customer_128,Mumbai,Maharashtra,West,Premium,2022-04-21,18-25
+CUST00129,Customer_129,Hyderabad,Telangana,South,New,2022-09-20,46-55
+CUST00130,Customer_130,Nagpur,Maharashtra,West,Regular,2022-02-28,26-35
+CUST00131,Customer_131,Mumbai,Maharashtra,West,Regular,2022-06-26,18-25
+CUST00132,Customer_132,Bhopal,Madhya Pradesh,Central,New,2022-08-09,18-25
+CUST00133,Customer_133,Kolkata,West Bengal,East,New,2022-02-26,36-45
+CUST00134,Customer_134,Pune,Maharashtra,West,Regular,2022-05-26,26-35
+CUST00135,Customer_135,Chennai,Tamil Nadu,South,VIP,2022-12-14,36-45
+CUST00136,Customer_136,Delhi,Delhi,North,Regular,2022-12-14,46-55
+CUST00137,Customer_137,Hyderabad,Telangana,South,Regular,2022-10-31,18-25
+CUST00138,Customer_138,Patna,Bihar,East,Premium,2022-09-07,36-45
+CUST00139,Customer_139,Surat,Gujarat,West,Regular,2022-09-27,18-25
+CUST00140,Customer_140,Patna,Bihar,East,VIP,2022-12-08,46-55
+CUST00141,Customer_141,Indore,Madhya Pradesh,Central,VIP,2022-06-07,46-55
+CUST00142,Customer_142,Kolkata,West Bengal,East,New,2022-01-24,26-35
+CUST00143,Customer_143,Hyderabad,Telangana,South,Regular,2022-04-23,36-45
+CUST00144,Customer_144,Lucknow,Uttar Pradesh,North,Regular,2022-07-22,26-35
+CUST00145,Customer_145,Ahmedabad,Gujarat,West,New,2022-11-03,26-35
+CUST00146,Customer_146,Pune,Maharashtra,West,New,2022-01-29,46-55
+CUST00147,Customer_147,Patna,Bihar,East,Regular,2022-01-04,26-35
+CUST00148,Customer_148,Patna,Bihar,East,Regular,2022-04-15,26-35
+CUST00149,Customer_149,Lucknow,Uttar Pradesh,North,New,2022-06-04,26-35
+CUST00150,Customer_150,Ahmedabad,Gujarat,West,New,2022-04-19,46-55
+CUST00151,Customer_151,Bangalore,Karnataka,South,VIP,2022-03-12,26-35
+CUST00152,Customer_152,Chennai,Tamil Nadu,South,New,2022-05-11,18-25
+CUST00153,Customer_153,Bangalore,Karnataka,South,New,2022-05-29,36-45
+CUST00154,Customer_154,Hyderabad,Telangana,South,Regular,2022-06-17,46-55
+CUST00155,Customer_155,Indore,Madhya Pradesh,Central,VIP,2022-03-03,18-25
+CUST00156,Customer_156,Jaipur,Rajasthan,North,New,2022-01-04,26-35
+CUST00157,Customer_157,Jaipur,Rajasthan,North,Regular,2022-09-12,18-25
+CUST00158,Customer_158,Chennai,Tamil Nadu,South,Premium,2022-08-09,26-35
+CUST00159,Customer_159,Indore,Madhya Pradesh,Central,New,2022-03-31,26-35
+CUST00160,Customer_160,Surat,Gujarat,West,Premium,2022-03-08,36-45
+CUST00161,Customer_161,Pune,Maharashtra,West,Regular,2022-07-14,36-45
+CUST00162,Customer_162,Patna,Bihar,East,Regular,2022-09-30,36-45
+CUST00163,Customer_163,Surat,Gujarat,West,Regular,2022-12-27,26-35
+CUST00164,Customer_164,Pune,Maharashtra,West,Regular,2022-04-28,46-55
+CUST00165,Customer_165,Kolkata,West Bengal,East,New,2022-09-14,26-35
+CUST00166,Customer_166,Hyderabad,Telangana,South,Premium,2022-10-14,55+
+CUST00167,Customer_167,Bangalore,Karnataka,South,Regular,2022-12-09,36-45
+CUST00168,Customer_168,Jaipur,Rajasthan,North,New,2022-07-01,18-25
+CUST00169,Customer_169,Ahmedabad,Gujarat,West,New,2022-02-06,36-45
+CUST00170,Customer_170,Delhi,Delhi,North,Regular,2022-07-23,26-35
+CUST00171,Customer_171,Bhopal,Madhya Pradesh,Central,Regular,2022-01-22,36-45
+CUST00172,Customer_172,Mumbai,Maharashtra,West,New,2022-08-12,18-25
+CUST00173,Customer_173,Nagpur,Maharashtra,West,Regular,2022-01-10,18-25
+CUST00174,Customer_174,Delhi,Delhi,North,New,2022-08-24,46-55
+CUST00175,Customer_175,Bangalore,Karnataka,South,Regular,2022-02-09,26-35
+CUST00176,Customer_176,Lucknow,Uttar Pradesh,North,New,2022-06-10,46-55
+CUST00177,Customer_177,Bangalore,Karnataka,South,Regular,2022-10-22,26-35
+CUST00178,Customer_178,Bhopal,Madhya Pradesh,Central,Regular,2022-08-08,36-45
+CUST00179,Customer_179,Lucknow,Uttar Pradesh,North,VIP,2022-10-21,36-45
+CUST00180,Customer_180,Pune,Maharashtra,West,New,2022-07-27,26-35
+CUST00181,Customer_181,Surat,Gujarat,West,Regular,2022-12-30,26-35
+CUST00182,Customer_182,Delhi,Delhi,North,New,2022-11-24,26-35
+CUST00183,Customer_183,Pune,Maharashtra,West,VIP,2022-08-02,18-25
+CUST00184,Customer_184,Pune,Maharashtra,West,Premium,2022-05-29,26-35
+CUST00185,Customer_185,Surat,Gujarat,West,New,2022-02-28,36-45
+CUST00186,Customer_186,Ahmedabad,Gujarat,West,Regular,2022-07-27,46-55
+CUST00187,Customer_187,Jaipur,Rajasthan,North,Premium,2022-01-11,46-55
+CUST00188,Customer_188,Chennai,Tamil Nadu,South,Regular,2022-06-16,36-45
+CUST00189,Customer_189,Jaipur,Rajasthan,North,Regular,2022-03-29,36-45
+CUST00190,Customer_190,Nagpur,Maharashtra,West,New,2022-11-13,36-45
+CUST00191,Customer_191,Mumbai,Maharashtra,West,New,2022-08-24,26-35
+CUST00192,Customer_192,Lucknow,Uttar Pradesh,North,Premium,2022-12-20,46-55
+CUST00193,Customer_193,Indore,Madhya Pradesh,Central,VIP,2022-07-05,36-45
+CUST00194,Customer_194,Delhi,Delhi,North,Regular,2022-02-15,36-45
+CUST00195,Customer_195,Lucknow,Uttar Pradesh,North,Regular,2022-08-12,18-25
+CUST00196,Customer_196,Patna,Bihar,East,Regular,2022-02-24,26-35
+CUST00197,Customer_197,Jaipur,Rajasthan,North,Premium,2022-05-05,26-35
+CUST00198,Customer_198,Bhopal,Madhya Pradesh,Central,Premium,2022-08-12,46-55
+CUST00199,Customer_199,Chennai,Tamil Nadu,South,Premium,2022-10-29,26-35
+CUST00200,Customer_200,Bhopal,Madhya Pradesh,Central,Premium,2022-07-25,26-35
+CUST00201,Customer_201,Lucknow,Uttar Pradesh,North,Regular,2022-09-26,55+
+CUST00202,Customer_202,Kolkata,West Bengal,East,New,2022-02-10,18-25
+CUST00203,Customer_203,Delhi,Delhi,North,New,2022-07-22,26-35
+CUST00204,Customer_204,Chennai,Tamil Nadu,South,Premium,2022-06-08,18-25
+CUST00205,Customer_205,Pune,Maharashtra,West,Regular,2022-06-23,36-45
+CUST00206,Customer_206,Bangalore,Karnataka,South,New,2022-04-24,46-55
+CUST00207,Customer_207,Ahmedabad,Gujarat,West,New,2022-06-20,26-35
+CUST00208,Customer_208,Mumbai,Maharashtra,West,Regular,2022-03-28,46-55
+CUST00209,Customer_209,Indore,Madhya Pradesh,Central,New,2022-02-09,26-35
+CUST00210,Customer_210,Patna,Bihar,East,New,2022-09-19,46-55
+CUST00211,Customer_211,Indore,Madhya Pradesh,Central,Regular,2022-11-21,36-45
+CUST00212,Customer_212,Chennai,Tamil Nadu,South,Regular,2022-02-28,46-55
+CUST00213,Customer_213,Jaipur,Rajasthan,North,Regular,2022-09-29,18-25
+CUST00214,Customer_214,Bhopal,Madhya Pradesh,Central,New,2022-09-19,55+
+CUST00215,Customer_215,Bangalore,Karnataka,South,Premium,2022-04-10,36-45
+CUST00216,Customer_216,Jaipur,Rajasthan,North,New,2022-06-28,26-35
+CUST00217,Customer_217,Patna,Bihar,East,Regular,2022-06-29,46-55
+CUST00218,Customer_218,Delhi,Delhi,North,Premium,2022-11-27,26-35
+CUST00219,Customer_219,Nagpur,Maharashtra,West,Regular,2022-03-17,46-55
+CUST00220,Customer_220,Lucknow,Uttar Pradesh,North,Premium,2022-05-01,18-25
+CUST00221,Customer_221,Chennai,Tamil Nadu,South,Regular,2022-02-22,36-45
+CUST00222,Customer_222,Nagpur,Maharashtra,West,Regular,2022-03-16,26-35
+CUST00223,Customer_223,Lucknow,Uttar Pradesh,North,New,2022-05-12,18-25
+CUST00224,Customer_224,Jaipur,Rajasthan,North,Regular,2022-04-12,26-35
+CUST00225,Customer_225,Surat,Gujarat,West,New,2022-03-30,18-25
+CUST00226,Customer_226,Hyderabad,Telangana,South,New,2022-11-05,26-35
+CUST00227,Customer_227,Bangalore,Karnataka,South,VIP,2022-03-20,26-35
+CUST00228,Customer_228,Kolkata,West Bengal,East,Regular,2022-12-02,36-45
+CUST00229,Customer_229,Bhopal,Madhya Pradesh,Central,Premium,2022-02-08,26-35
+CUST00230,Customer_230,Bangalore,Karnataka,South,Regular,2022-04-01,26-35
+CUST00231,Customer_231,Jaipur,Rajasthan,North,Premium,2022-11-18,36-45
+CUST00232,Customer_232,Bhopal,Madhya Pradesh,Central,Regular,2022-09-10,18-25
+CUST00233,Customer_233,Patna,Bihar,East,Regular,2022-08-26,46-55
+CUST00234,Customer_234,Jaipur,Rajasthan,North,Regular,2022-10-16,46-55
+CUST00235,Customer_235,Patna,Bihar,East,New,2022-10-24,36-45
+CUST00236,Customer_236,Mumbai,Maharashtra,West,Premium,2022-08-18,36-45
+CUST00237,Customer_237,Surat,Gujarat,West,New,2022-12-15,46-55
+CUST00238,Customer_238,Kolkata,West Bengal,East,New,2022-10-17,18-25
+CUST00239,Customer_239,Ahmedabad,Gujarat,West,Regular,2022-11-26,18-25
+CUST00240,Customer_240,Mumbai,Maharashtra,West,New,2022-11-22,26-35
+CUST00241,Customer_241,Delhi,Delhi,North,VIP,2022-11-16,36-45
+CUST00242,Customer_242,Patna,Bihar,East,VIP,2022-06-15,18-25
+CUST00243,Customer_243,Kolkata,West Bengal,East,VIP,2022-11-18,36-45
+CUST00244,Customer_244,Patna,Bihar,East,Regular,2022-06-11,55+
+CUST00245,Customer_245,Nagpur,Maharashtra,West,New,2022-03-19,46-55
+CUST00246,Customer_246,Bhopal,Madhya Pradesh,Central,VIP,2022-08-14,26-35
+CUST00247,Customer_247,Chennai,Tamil Nadu,South,Regular,2022-02-04,18-25
+CUST00248,Customer_248,Hyderabad,Telangana,South,VIP,2022-08-29,46-55
+CUST00249,Customer_249,Mumbai,Maharashtra,West,VIP,2022-08-15,36-45
+CUST00250,Customer_250,Hyderabad,Telangana,South,Premium,2022-11-20,18-25
+CUST00251,Customer_251,Patna,Bihar,East,New,2022-06-05,18-25
+CUST00252,Customer_252,Surat,Gujarat,West,Regular,2022-05-21,46-55
+CUST00253,Customer_253,Delhi,Delhi,North,Premium,2022-10-30,36-45
+CUST00254,Customer_254,Delhi,Delhi,North,Regular,2022-01-29,46-55
+CUST00255,Customer_255,Indore,Madhya Pradesh,Central,New,2022-06-30,46-55
+CUST00256,Customer_256,Ahmedabad,Gujarat,West,Regular,2022-09-17,36-45
+CUST00257,Customer_257,Nagpur,Maharashtra,West,VIP,2022-02-07,26-35
+CUST00258,Customer_258,Delhi,Delhi,North,Regular,2022-06-08,26-35
+CUST00259,Customer_259,Bhopal,Madhya Pradesh,Central,Regular,2022-08-25,26-35
+CUST00260,Customer_260,Jaipur,Rajasthan,North,New,2022-08-20,26-35
+CUST00261,Customer_261,Bhopal,Madhya Pradesh,Central,Regular,2022-01-20,36-45
+CUST00262,Customer_262,Bangalore,Karnataka,South,VIP,2022-01-30,36-45
+CUST00263,Customer_263,Bangalore,Karnataka,South,New,2022-07-08,46-55
+CUST00264,Customer_264,Lucknow,Uttar Pradesh,North,Regular,2022-05-27,26-35
+CUST00265,Customer_265,Ahmedabad,Gujarat,West,Premium,2022-02-09,36-45
+CUST00266,Customer_266,Jaipur,Rajasthan,North,Premium,2022-11-27,36-45
+CUST00267,Customer_267,Bangalore,Karnataka,South,Regular,2022-02-16,36-45
+CUST00268,Customer_268,Chennai,Tamil Nadu,South,Premium,2022-11-11,36-45
+CUST00269,Customer_269,Jaipur,Rajasthan,North,Regular,2022-11-01,26-35
+CUST00270,Customer_270,Nagpur,Maharashtra,West,New,2022-09-17,26-35
+CUST00271,Customer_271,Surat,Gujarat,West,Premium,2022-07-16,18-25
+CUST00272,Customer_272,Pune,Maharashtra,West,Premium,2022-08-25,26-35
+CUST00273,Customer_273,Hyderabad,Telangana,South,Premium,2022-10-25,26-35
+CUST00274,Customer_274,Patna,Bihar,East,VIP,2022-10-11,36-45
+CUST00275,Customer_275,Jaipur,Rajasthan,North,Regular,2022-01-22,55+
+CUST00276,Customer_276,Bhopal,Madhya Pradesh,Central,Regular,2022-08-19,36-45
+CUST00277,Customer_277,Indore,Madhya Pradesh,Central,Premium,2022-10-20,36-45
+CUST00278,Customer_278,Indore,Madhya Pradesh,Central,Regular,2022-11-30,26-35
+CUST00279,Customer_279,Hyderabad,Telangana,South,Premium,2022-04-07,36-45
+CUST00280,Customer_280,Indore,Madhya Pradesh,Central,Premium,2022-06-14,18-25
+CUST00281,Customer_281,Chennai,Tamil Nadu,South,Premium,2022-11-06,26-35
+CUST00282,Customer_282,Pune,Maharashtra,West,Regular,2022-09-01,26-35
+CUST00283,Customer_283,Lucknow,Uttar Pradesh,North,Regular,2022-09-14,26-35
+CUST00284,Customer_284,Lucknow,Uttar Pradesh,North,New,2022-03-19,18-25
+CUST00285,Customer_285,Kolkata,West Bengal,East,Regular,2022-02-01,18-25
+CUST00286,Customer_286,Ahmedabad,Gujarat,West,New,2022-08-19,26-35
+CUST00287,Customer_287,Patna,Bihar,East,Regular,2022-02-22,55+
+CUST00288,Customer_288,Jaipur,Rajasthan,North,Regular,2022-06-25,26-35
+CUST00289,Customer_289,Ahmedabad,Gujarat,West,New,2023-01-01,26-35
+CUST00290,Customer_290,Delhi,Delhi,North,Regular,2022-02-13,18-25
+CUST00291,Customer_291,Hyderabad,Telangana,South,New,2022-09-16,36-45
+CUST00292,Customer_292,Hyderabad,Telangana,South,New,2022-11-27,26-35
+CUST00293,Customer_293,Delhi,Delhi,North,Premium,2022-03-30,26-35
+CUST00294,Customer_294,Kolkata,West Bengal,East,Regular,2022-01-21,26-35
+CUST00295,Customer_295,Mumbai,Maharashtra,West,New,2022-05-07,18-25
+CUST00296,Customer_296,Surat,Gujarat,West,Regular,2022-12-29,18-25
+CUST00297,Customer_297,Jaipur,Rajasthan,North,Premium,2022-08-13,26-35
+CUST00298,Customer_298,Hyderabad,Telangana,South,New,2022-08-13,18-25
+CUST00299,Customer_299,Surat,Gujarat,West,Regular,2022-09-26,18-25
+CUST00300,Customer_300,Hyderabad,Telangana,South,New,2022-09-25,26-35
+CUST00301,Customer_301,Mumbai,Maharashtra,West,New,2022-11-09,46-55
+CUST00302,Customer_302,Delhi,Delhi,North,Regular,2022-03-23,36-45
+CUST00303,Customer_303,Indore,Madhya Pradesh,Central,Regular,2022-07-06,26-35
+CUST00304,Customer_304,Lucknow,Uttar Pradesh,North,Regular,2022-07-10,26-35
+CUST00305,Customer_305,Mumbai,Maharashtra,West,Premium,2022-05-25,46-55
+CUST00306,Customer_306,Hyderabad,Telangana,South,VIP,2022-07-18,26-35
+CUST00307,Customer_307,Delhi,Delhi,North,Regular,2022-07-29,18-25
+CUST00308,Customer_308,Patna,Bihar,East,Regular,2022-06-23,36-45
+CUST00309,Customer_309,Mumbai,Maharashtra,West,Premium,2022-12-14,18-25
+CUST00310,Customer_310,Nagpur,Maharashtra,West,New,2022-11-03,26-35
+CUST00311,Customer_311,Kolkata,West Bengal,East,Regular,2022-01-27,26-35
+CUST00312,Customer_312,Delhi,Delhi,North,New,2022-11-20,46-55
+CUST00313,Customer_313,Jaipur,Rajasthan,North,New,2022-11-28,26-35
+CUST00314,Customer_314,Hyderabad,Telangana,South,VIP,2022-06-21,36-45
+CUST00315,Customer_315,Chennai,Tamil Nadu,South,Premium,2022-02-03,55+
+CUST00316,Customer_316,Lucknow,Uttar Pradesh,North,Regular,2022-06-18,18-25
+CUST00317,Customer_317,Ahmedabad,Gujarat,West,Regular,2022-02-18,26-35
+CUST00318,Customer_318,Hyderabad,Telangana,South,New,2022-10-13,26-35
+CUST00319,Customer_319,Jaipur,Rajasthan,North,New,2022-12-14,26-35
+CUST00320,Customer_320,Bangalore,Karnataka,South,New,2022-07-17,26-35
+CUST00321,Customer_321,Indore,Madhya Pradesh,Central,Regular,2022-05-26,46-55
+CUST00322,Customer_322,Patna,Bihar,East,Premium,2022-05-10,36-45
+CUST00323,Customer_323,Patna,Bihar,East,Regular,2022-12-03,36-45
+CUST00324,Customer_324,Surat,Gujarat,West,New,2022-11-05,26-35
+CUST00325,Customer_325,Surat,Gujarat,West,VIP,2022-03-18,46-55
+CUST00326,Customer_326,Ahmedabad,Gujarat,West,Premium,2022-06-20,55+
+CUST00327,Customer_327,Hyderabad,Telangana,South,Regular,2022-02-11,46-55
+CUST00328,Customer_328,Bhopal,Madhya Pradesh,Central,Regular,2022-10-26,18-25
+CUST00329,Customer_329,Ahmedabad,Gujarat,West,Regular,2022-12-06,36-45
+CUST00330,Customer_330,Bhopal,Madhya Pradesh,Central,New,2022-03-14,18-25
+CUST00331,Customer_331,Pune,Maharashtra,West,Regular,2022-06-29,26-35
+CUST00332,Customer_332,Hyderabad,Telangana,South,Premium,2022-06-08,18-25
+CUST00333,Customer_333,Delhi,Delhi,North,New,2022-12-02,36-45
+CUST00334,Customer_334,Delhi,Delhi,North,New,2022-12-24,36-45
+CUST00335,Customer_335,Lucknow,Uttar Pradesh,North,New,2022-12-06,18-25
+CUST00336,Customer_336,Pune,Maharashtra,West,New,2022-07-20,26-35
+CUST00337,Customer_337,Kolkata,West Bengal,East,Premium,2022-03-08,26-35
+CUST00338,Customer_338,Pune,Maharashtra,West,Premium,2022-11-01,26-35
+CUST00339,Customer_339,Pune,Maharashtra,West,Regular,2022-12-29,18-25
+CUST00340,Customer_340,Ahmedabad,Gujarat,West,New,2022-02-13,26-35
+CUST00341,Customer_341,Nagpur,Maharashtra,West,Regular,2022-06-08,36-45
+CUST00342,Customer_342,Indore,Madhya Pradesh,Central,Regular,2022-10-14,18-25
+CUST00343,Customer_343,Mumbai,Maharashtra,West,New,2022-07-12,18-25
+CUST00344,Customer_344,Lucknow,Uttar Pradesh,North,Regular,2022-11-26,26-35
+CUST00345,Customer_345,Lucknow,Uttar Pradesh,North,Regular,2022-06-18,46-55
+CUST00346,Customer_346,Lucknow,Uttar Pradesh,North,Regular,2022-03-07,36-45
+CUST00347,Customer_347,Delhi,Delhi,North,Regular,2022-12-10,36-45
+CUST00348,Customer_348,Mumbai,Maharashtra,West,New,2022-12-26,26-35
+CUST00349,Customer_349,Pune,Maharashtra,West,Regular,2022-12-17,36-45
+CUST00350,Customer_350,Indore,Madhya Pradesh,Central,Regular,2022-09-27,18-25
+CUST00351,Customer_351,Kolkata,West Bengal,East,Regular,2022-02-17,36-45
+CUST00352,Customer_352,Bhopal,Madhya Pradesh,Central,Premium,2022-11-27,46-55
+CUST00353,Customer_353,Nagpur,Maharashtra,West,Regular,2022-12-10,36-45
+CUST00354,Customer_354,Delhi,Delhi,North,New,2022-08-05,46-55
+CUST00355,Customer_355,Hyderabad,Telangana,South,New,2022-09-18,36-45
+CUST00356,Customer_356,Hyderabad,Telangana,South,Regular,2022-07-05,18-25
+CUST00357,Customer_357,Hyderabad,Telangana,South,New,2022-01-10,46-55
+CUST00358,Customer_358,Jaipur,Rajasthan,North,Regular,2022-07-05,18-25
+CUST00359,Customer_359,Ahmedabad,Gujarat,West,VIP,2022-06-08,26-35
+CUST00360,Customer_360,Bangalore,Karnataka,South,Regular,2022-04-03,18-25
+CUST00361,Customer_361,Pune,Maharashtra,West,Regular,2022-04-20,18-25
+CUST00362,Customer_362,Bangalore,Karnataka,South,Regular,2022-06-24,26-35
+CUST00363,Customer_363,Chennai,Tamil Nadu,South,Regular,2022-09-06,26-35
+CUST00364,Customer_364,Ahmedabad,Gujarat,West,Regular,2022-04-09,26-35
+CUST00365,Customer_365,Hyderabad,Telangana,South,VIP,2022-04-26,36-45
+CUST00366,Customer_366,Nagpur,Maharashtra,West,Regular,2022-03-12,18-25
+CUST00367,Customer_367,Patna,Bihar,East,VIP,2022-03-21,18-25
+CUST00368,Customer_368,Delhi,Delhi,North,VIP,2022-02-09,36-45
+CUST00369,Customer_369,Ahmedabad,Gujarat,West,New,2022-06-01,26-35
+CUST00370,Customer_370,Bhopal,Madhya Pradesh,Central,New,2022-02-21,36-45
+CUST00371,Customer_371,Nagpur,Maharashtra,West,New,2022-09-17,36-45
+CUST00372,Customer_372,Nagpur,Maharashtra,West,New,2022-10-04,46-55
+CUST00373,Customer_373,Jaipur,Rajasthan,North,New,2022-09-27,36-45
+CUST00374,Customer_374,Delhi,Delhi,North,Regular,2022-01-20,26-35
+CUST00375,Customer_375,Mumbai,Maharashtra,West,New,2022-12-05,36-45
+CUST00376,Customer_376,Lucknow,Uttar Pradesh,North,Regular,2022-06-22,26-35
+CUST00377,Customer_377,Jaipur,Rajasthan,North,Premium,2022-11-13,26-35
+CUST00378,Customer_378,Nagpur,Maharashtra,West,New,2022-03-09,36-45
+CUST00379,Customer_379,Mumbai,Maharashtra,West,Premium,2022-11-02,26-35
+CUST00380,Customer_380,Delhi,Delhi,North,New,2022-07-12,36-45
+CUST00381,Customer_381,Patna,Bihar,East,New,2022-03-20,46-55
+CUST00382,Customer_382,Bhopal,Madhya Pradesh,Central,Regular,2022-03-25,46-55
+CUST00383,Customer_383,Nagpur,Maharashtra,West,Regular,2022-04-03,46-55
+CUST00384,Customer_384,Hyderabad,Telangana,South,Premium,2022-12-21,26-35
+CUST00385,Customer_385,Bangalore,Karnataka,South,Premium,2022-11-16,26-35
+CUST00386,Customer_386,Pune,Maharashtra,West,Premium,2022-03-26,36-45
+CUST00387,Customer_387,Ahmedabad,Gujarat,West,New,2022-08-13,26-35
+CUST00388,Customer_388,Ahmedabad,Gujarat,West,New,2022-01-23,36-45
+CUST00389,Customer_389,Hyderabad,Telangana,South,Premium,2022-07-30,36-45
+CUST00390,Customer_390,Nagpur,Maharashtra,West,Premium,2022-07-06,36-45
+CUST00391,Customer_391,Pune,Maharashtra,West,VIP,2022-12-13,26-35
+CUST00392,Customer_392,Patna,Bihar,East,Regular,2022-05-02,18-25
+CUST00393,Customer_393,Mumbai,Maharashtra,West,Regular,2022-08-16,26-35
+CUST00394,Customer_394,Bangalore,Karnataka,South,Premium,2022-11-09,18-25
+CUST00395,Customer_395,Pune,Maharashtra,West,Regular,2022-05-26,46-55
+CUST00396,Customer_396,Mumbai,Maharashtra,West,VIP,2022-08-18,26-35
+CUST00397,Customer_397,Pune,Maharashtra,West,Premium,2022-04-30,18-25
+CUST00398,Customer_398,Chennai,Tamil Nadu,South,Regular,2022-10-01,18-25
+CUST00399,Customer_399,Patna,Bihar,East,Premium,2022-05-03,36-45
+CUST00400,Customer_400,Bhopal,Madhya Pradesh,Central,Premium,2022-06-08,36-45
+CUST00401,Customer_401,Bhopal,Madhya Pradesh,Central,New,2022-08-29,26-35
+CUST00402,Customer_402,Ahmedabad,Gujarat,West,VIP,2022-04-10,18-25
+CUST00403,Customer_403,Chennai,Tamil Nadu,South,Regular,2022-07-08,26-35
+CUST00404,Customer_404,Pune,Maharashtra,West,Premium,2022-12-14,26-35
+CUST00405,Customer_405,Indore,Madhya Pradesh,Central,Regular,2022-10-20,36-45
+CUST00406,Customer_406,Indore,Madhya Pradesh,Central,Premium,2022-08-14,36-45
+CUST00407,Customer_407,Bhopal,Madhya Pradesh,Central,Regular,2022-08-25,26-35
+CUST00408,Customer_408,Jaipur,Rajasthan,North,New,2022-05-25,26-35
+CUST00409,Customer_409,Lucknow,Uttar Pradesh,North,VIP,2022-07-15,55+
+CUST00410,Customer_410,Indore,Madhya Pradesh,Central,New,2022-09-15,26-35
+CUST00411,Customer_411,Ahmedabad,Gujarat,West,Regular,2022-09-28,36-45
+CUST00412,Customer_412,Bangalore,Karnataka,South,VIP,2022-08-03,18-25
+CUST00413,Customer_413,Hyderabad,Telangana,South,VIP,2022-03-24,26-35
+CUST00414,Customer_414,Chennai,Tamil Nadu,South,Regular,2022-04-13,18-25
+CUST00415,Customer_415,Hyderabad,Telangana,South,Regular,2022-11-06,26-35
+CUST00416,Customer_416,Mumbai,Maharashtra,West,Regular,2022-03-12,55+
+CUST00417,Customer_417,Surat,Gujarat,West,New,2022-05-09,26-35
+CUST00418,Customer_418,Indore,Madhya Pradesh,Central,Regular,2022-01-27,18-25
+CUST00419,Customer_419,Jaipur,Rajasthan,North,Regular,2022-11-25,18-25
+CUST00420,Customer_420,Mumbai,Maharashtra,West,Premium,2022-09-04,26-35
+CUST00421,Customer_421,Indore,Madhya Pradesh,Central,Premium,2022-07-10,18-25
+CUST00422,Customer_422,Kolkata,West Bengal,East,Premium,2022-10-11,18-25
+CUST00423,Customer_423,Mumbai,Maharashtra,West,New,2022-02-22,36-45
+CUST00424,Customer_424,Mumbai,Maharashtra,West,Regular,2022-12-31,26-35
+CUST00425,Customer_425,Surat,Gujarat,West,New,2022-09-22,26-35
+CUST00426,Customer_426,Ahmedabad,Gujarat,West,Regular,2022-03-05,46-55
+CUST00427,Customer_427,Jaipur,Rajasthan,North,Regular,2022-05-26,18-25
+CUST00428,Customer_428,Patna,Bihar,East,Premium,2022-02-12,55+
+CUST00429,Customer_429,Nagpur,Maharashtra,West,Regular,2022-03-24,26-35
+CUST00430,Customer_430,Jaipur,Rajasthan,North,New,2022-05-20,46-55
+CUST00431,Customer_431,Bangalore,Karnataka,South,New,2022-08-19,36-45
+CUST00432,Customer_432,Mumbai,Maharashtra,West,Premium,2022-09-20,46-55
+CUST00433,Customer_433,Jaipur,Rajasthan,North,Regular,2022-03-17,55+
+CUST00434,Customer_434,Delhi,Delhi,North,New,2022-08-12,26-35
+CUST00435,Customer_435,Nagpur,Maharashtra,West,New,2022-02-16,55+
+CUST00436,Customer_436,Bangalore,Karnataka,South,Premium,2022-04-24,26-35
+CUST00437,Customer_437,Delhi,Delhi,North,New,2022-08-19,26-35
+CUST00438,Customer_438,Surat,Gujarat,West,Premium,2022-06-28,26-35
+CUST00439,Customer_439,Delhi,Delhi,North,Premium,2022-01-14,26-35
+CUST00440,Customer_440,Lucknow,Uttar Pradesh,North,New,2022-08-01,18-25
+CUST00441,Customer_441,Nagpur,Maharashtra,West,New,2022-01-28,36-45
+CUST00442,Customer_442,Hyderabad,Telangana,South,VIP,2022-07-22,26-35
+CUST00443,Customer_443,Pune,Maharashtra,West,Regular,2022-09-15,36-45
+CUST00444,Customer_444,Delhi,Delhi,North,Regular,2022-07-11,46-55
+CUST00445,Customer_445,Patna,Bihar,East,Premium,2022-05-01,26-35
+CUST00446,Customer_446,Surat,Gujarat,West,VIP,2022-07-17,26-35
+CUST00447,Customer_447,Hyderabad,Telangana,South,VIP,2022-02-11,26-35
+CUST00448,Customer_448,Surat,Gujarat,West,Premium,2022-07-11,18-25
+CUST00449,Customer_449,Surat,Gujarat,West,Regular,2022-04-25,18-25
+CUST00450,Customer_450,Mumbai,Maharashtra,West,New,2022-01-15,26-35
+CUST00451,Customer_451,Surat,Gujarat,West,Premium,2022-06-13,26-35
+CUST00452,Customer_452,Delhi,Delhi,North,Regular,2022-02-20,55+
+CUST00453,Customer_453,Pune,Maharashtra,West,Regular,2023-01-01,36-45
+CUST00454,Customer_454,Lucknow,Uttar Pradesh,North,VIP,2022-11-29,26-35
+CUST00455,Customer_455,Surat,Gujarat,West,New,2022-06-21,36-45
+CUST00456,Customer_456,Surat,Gujarat,West,Regular,2022-03-16,18-25
+CUST00457,Customer_457,Jaipur,Rajasthan,North,New,2022-03-12,26-35
+CUST00458,Customer_458,Kolkata,West Bengal,East,Regular,2022-01-20,36-45
+CUST00459,Customer_459,Patna,Bihar,East,New,2022-05-27,26-35
+CUST00460,Customer_460,Chennai,Tamil Nadu,South,New,2022-08-30,26-35
+CUST00461,Customer_461,Hyderabad,Telangana,South,New,2022-12-23,55+
+CUST00462,Customer_462,Lucknow,Uttar Pradesh,North,Regular,2022-03-13,46-55
+CUST00463,Customer_463,Indore,Madhya Pradesh,Central,Premium,2022-12-28,36-45
+CUST00464,Customer_464,Kolkata,West Bengal,East,Regular,2022-08-29,36-45
+CUST00465,Customer_465,Hyderabad,Telangana,South,VIP,2022-08-18,36-45
+CUST00466,Customer_466,Chennai,Tamil Nadu,South,Regular,2022-11-12,26-35
+CUST00467,Customer_467,Pune,Maharashtra,West,New,2022-01-03,26-35
+CUST00468,Customer_468,Bangalore,Karnataka,South,Premium,2022-02-10,18-25
+CUST00469,Customer_469,Lucknow,Uttar Pradesh,North,New,2022-01-10,26-35
+CUST00470,Customer_470,Lucknow,Uttar Pradesh,North,VIP,2022-05-12,26-35
+CUST00471,Customer_471,Chennai,Tamil Nadu,South,New,2022-04-21,26-35
+CUST00472,Customer_472,Ahmedabad,Gujarat,West,VIP,2022-03-18,55+
+CUST00473,Customer_473,Kolkata,West Bengal,East,New,2022-10-08,46-55
+CUST00474,Customer_474,Patna,Bihar,East,Premium,2022-11-08,36-45
+CUST00475,Customer_475,Bhopal,Madhya Pradesh,Central,Regular,2022-09-28,26-35
+CUST00476,Customer_476,Patna,Bihar,East,VIP,2022-08-05,46-55
+CUST00477,Customer_477,Delhi,Delhi,North,New,2022-02-26,18-25
+CUST00478,Customer_478,Mumbai,Maharashtra,West,Regular,2022-05-28,36-45
+CUST00479,Customer_479,Ahmedabad,Gujarat,West,VIP,2022-05-02,18-25
+CUST00480,Customer_480,Surat,Gujarat,West,Regular,2022-06-04,36-45
+CUST00481,Customer_481,Surat,Gujarat,West,Regular,2022-03-04,26-35
+CUST00482,Customer_482,Delhi,Delhi,North,Regular,2022-01-25,46-55
+CUST00483,Customer_483,Delhi,Delhi,North,Regular,2022-05-03,46-55
+CUST00484,Customer_484,Jaipur,Rajasthan,North,Regular,2022-08-03,18-25
+CUST00485,Customer_485,Hyderabad,Telangana,South,Regular,2022-11-24,26-35
+CUST00486,Customer_486,Jaipur,Rajasthan,North,VIP,2022-11-15,55+
+CUST00487,Customer_487,Chennai,Tamil Nadu,South,New,2022-08-23,26-35
+CUST00488,Customer_488,Bangalore,Karnataka,South,New,2022-02-02,46-55
+CUST00489,Customer_489,Patna,Bihar,East,VIP,2022-02-26,36-45
+CUST00490,Customer_490,Kolkata,West Bengal,East,Premium,2022-09-13,26-35
+CUST00491,Customer_491,Patna,Bihar,East,Regular,2022-11-02,26-35
+CUST00492,Customer_492,Delhi,Delhi,North,Regular,2022-10-02,26-35
+CUST00493,Customer_493,Patna,Bihar,East,New,2022-01-09,36-45
+CUST00494,Customer_494,Hyderabad,Telangana,South,New,2022-11-20,26-35
+CUST00495,Customer_495,Kolkata,West Bengal,East,Regular,2022-09-21,26-35
+CUST00496,Customer_496,Chennai,Tamil Nadu,South,Regular,2022-10-22,26-35
+CUST00497,Customer_497,Bangalore,Karnataka,South,Regular,2022-05-04,36-45
+CUST00498,Customer_498,Ahmedabad,Gujarat,West,New,2022-03-15,46-55
+CUST00499,Customer_499,Nagpur,Maharashtra,West,VIP,2022-05-30,55+
+CUST00500,Customer_500,Jaipur,Rajasthan,North,VIP,2022-08-08,26-35
+CUST00501,Customer_501,Indore,Madhya Pradesh,Central,Regular,2022-01-01,46-55
+CUST00502,Customer_502,Chennai,Tamil Nadu,South,Regular,2022-11-11,36-45
+CUST00503,Customer_503,Surat,Gujarat,West,Regular,2022-06-30,36-45
+CUST00504,Customer_504,Bhopal,Madhya Pradesh,Central,Premium,2022-05-04,55+
+CUST00505,Customer_505,Lucknow,Uttar Pradesh,North,Regular,2022-10-20,26-35
+CUST00506,Customer_506,Jaipur,Rajasthan,North,New,2022-08-02,18-25
+CUST00507,Customer_507,Mumbai,Maharashtra,West,VIP,2022-04-06,46-55
+CUST00508,Customer_508,Lucknow,Uttar Pradesh,North,Premium,2022-12-07,26-35
+CUST00509,Customer_509,Nagpur,Maharashtra,West,VIP,2022-12-09,46-55
+CUST00510,Customer_510,Jaipur,Rajasthan,North,Premium,2022-02-13,46-55
+CUST00511,Customer_511,Chennai,Tamil Nadu,South,Regular,2022-09-26,18-25
+CUST00512,Customer_512,Patna,Bihar,East,Regular,2022-07-04,46-55
+CUST00513,Customer_513,Lucknow,Uttar Pradesh,North,VIP,2022-02-04,26-35
+CUST00514,Customer_514,Delhi,Delhi,North,Premium,2022-09-27,26-35
+CUST00515,Customer_515,Patna,Bihar,East,New,2022-10-06,36-45
+CUST00516,Customer_516,Bangalore,Karnataka,South,New,2022-09-17,46-55
+CUST00517,Customer_517,Chennai,Tamil Nadu,South,Regular,2022-09-17,18-25
+CUST00518,Customer_518,Delhi,Delhi,North,Premium,2022-10-11,26-35
+CUST00519,Customer_519,Patna,Bihar,East,VIP,2022-01-11,36-45
+CUST00520,Customer_520,Delhi,Delhi,North,New,2022-07-19,36-45
+CUST00521,Customer_521,Indore,Madhya Pradesh,Central,Regular,2022-08-29,36-45
+CUST00522,Customer_522,Jaipur,Rajasthan,North,Regular,2022-01-23,18-25
+CUST00523,Customer_523,Bangalore,Karnataka,South,VIP,2022-11-22,26-35
+CUST00524,Customer_524,Chennai,Tamil Nadu,South,Premium,2022-07-18,26-35
+CUST00525,Customer_525,Chennai,Tamil Nadu,South,Premium,2022-07-11,46-55
+CUST00526,Customer_526,Surat,Gujarat,West,Regular,2022-05-10,26-35
+CUST00527,Customer_527,Hyderabad,Telangana,South,Regular,2022-01-09,26-35
+CUST00528,Customer_528,Indore,Madhya Pradesh,Central,New,2022-07-02,55+
+CUST00529,Customer_529,Kolkata,West Bengal,East,New,2022-02-04,18-25
+CUST00530,Customer_530,Hyderabad,Telangana,South,Premium,2022-06-26,55+
+CUST00531,Customer_531,Lucknow,Uttar Pradesh,North,Premium,2022-05-04,36-45
+CUST00532,Customer_532,Lucknow,Uttar Pradesh,North,VIP,2022-12-03,46-55
+CUST00533,Customer_533,Nagpur,Maharashtra,West,VIP,2022-11-18,26-35
+CUST00534,Customer_534,Chennai,Tamil Nadu,South,Regular,2022-02-23,18-25
+CUST00535,Customer_535,Jaipur,Rajasthan,North,Premium,2022-10-25,36-45
+CUST00536,Customer_536,Ahmedabad,Gujarat,West,VIP,2022-06-20,46-55
+CUST00537,Customer_537,Chennai,Tamil Nadu,South,Premium,2022-03-10,36-45
+CUST00538,Customer_538,Patna,Bihar,East,New,2022-01-23,18-25
+CUST00539,Customer_539,Patna,Bihar,East,Regular,2022-06-30,36-45
+CUST00540,Customer_540,Nagpur,Maharashtra,West,New,2022-10-07,36-45
+CUST00541,Customer_541,Mumbai,Maharashtra,West,VIP,2022-06-23,36-45
+CUST00542,Customer_542,Delhi,Delhi,North,Regular,2022-11-26,36-45
+CUST00543,Customer_543,Lucknow,Uttar Pradesh,North,New,2022-03-31,46-55
+CUST00544,Customer_544,Pune,Maharashtra,West,Regular,2022-12-17,36-45
+CUST00545,Customer_545,Nagpur,Maharashtra,West,Regular,2022-08-26,18-25
+CUST00546,Customer_546,Chennai,Tamil Nadu,South,Regular,2022-12-23,26-35
+CUST00547,Customer_547,Mumbai,Maharashtra,West,New,2022-09-03,18-25
+CUST00548,Customer_548,Mumbai,Maharashtra,West,Regular,2022-11-20,26-35
+CUST00549,Customer_549,Kolkata,West Bengal,East,Regular,2022-04-04,26-35
+CUST00550,Customer_550,Bhopal,Madhya Pradesh,Central,Premium,2022-03-11,18-25
+CUST00551,Customer_551,Bangalore,Karnataka,South,Regular,2022-02-02,26-35
+CUST00552,Customer_552,Lucknow,Uttar Pradesh,North,Premium,2022-08-23,18-25
+CUST00553,Customer_553,Chennai,Tamil Nadu,South,Regular,2022-01-19,46-55
+CUST00554,Customer_554,Bangalore,Karnataka,South,Regular,2022-05-31,46-55
+CUST00555,Customer_555,Indore,Madhya Pradesh,Central,Premium,2022-04-14,18-25
+CUST00556,Customer_556,Ahmedabad,Gujarat,West,Regular,2022-01-23,55+
+CUST00557,Customer_557,Jaipur,Rajasthan,North,New,2022-04-13,26-35
+CUST00558,Customer_558,Indore,Madhya Pradesh,Central,New,2022-01-22,26-35
+CUST00559,Customer_559,Pune,Maharashtra,West,Premium,2022-06-11,18-25
+CUST00560,Customer_560,Jaipur,Rajasthan,North,Regular,2022-06-08,26-35
+CUST00561,Customer_561,Mumbai,Maharashtra,West,Premium,2022-09-21,36-45
+CUST00562,Customer_562,Delhi,Delhi,North,New,2022-07-23,36-45
+CUST00563,Customer_563,Delhi,Delhi,North,New,2022-10-06,18-25
+CUST00564,Customer_564,Patna,Bihar,East,New,2022-08-31,18-25
+CUST00565,Customer_565,Indore,Madhya Pradesh,Central,Regular,2022-05-10,26-35
+CUST00566,Customer_566,Patna,Bihar,East,Regular,2022-01-19,26-35
+CUST00567,Customer_567,Bangalore,Karnataka,South,Regular,2022-11-28,26-35
+CUST00568,Customer_568,Jaipur,Rajasthan,North,Regular,2022-04-08,26-35
+CUST00569,Customer_569,Mumbai,Maharashtra,West,VIP,2022-05-27,46-55
+CUST00570,Customer_570,Nagpur,Maharashtra,West,Regular,2022-07-02,46-55
+CUST00571,Customer_571,Kolkata,West Bengal,East,Regular,2022-01-25,26-35
+CUST00572,Customer_572,Surat,Gujarat,West,Premium,2022-12-02,46-55
+CUST00573,Customer_573,Jaipur,Rajasthan,North,Regular,2022-06-19,26-35
+CUST00574,Customer_574,Bangalore,Karnataka,South,Regular,2022-05-20,26-35
+CUST00575,Customer_575,Pune,Maharashtra,West,Premium,2022-03-05,26-35
+CUST00576,Customer_576,Bangalore,Karnataka,South,VIP,2022-07-08,36-45
+CUST00577,Customer_577,Mumbai,Maharashtra,West,New,2022-08-12,55+
+CUST00578,Customer_578,Chennai,Tamil Nadu,South,VIP,2022-07-24,36-45
+CUST00579,Customer_579,Kolkata,West Bengal,East,Regular,2022-08-14,26-35
+CUST00580,Customer_580,Patna,Bihar,East,New,2022-07-17,36-45
+CUST00581,Customer_581,Patna,Bihar,East,Regular,2022-06-23,18-25
+CUST00582,Customer_582,Bhopal,Madhya Pradesh,Central,VIP,2022-04-06,46-55
+CUST00583,Customer_583,Nagpur,Maharashtra,West,Regular,2022-09-12,26-35
+CUST00584,Customer_584,Mumbai,Maharashtra,West,Regular,2022-12-21,26-35
+CUST00585,Customer_585,Patna,Bihar,East,Regular,2022-09-12,36-45
+CUST00586,Customer_586,Kolkata,West Bengal,East,New,2022-07-08,36-45
+CUST00587,Customer_587,Hyderabad,Telangana,South,New,2022-09-23,18-25
+CUST00588,Customer_588,Lucknow,Uttar Pradesh,North,New,2022-05-17,36-45
+CUST00589,Customer_589,Hyderabad,Telangana,South,New,2022-02-12,26-35
+CUST00590,Customer_590,Lucknow,Uttar Pradesh,North,New,2022-08-06,36-45
+CUST00591,Customer_591,Delhi,Delhi,North,New,2022-02-10,46-55
+CUST00592,Customer_592,Kolkata,West Bengal,East,Regular,2022-08-09,46-55
+CUST00593,Customer_593,Bhopal,Madhya Pradesh,Central,New,2022-11-05,36-45
+CUST00594,Customer_594,Jaipur,Rajasthan,North,Regular,2022-04-03,26-35
+CUST00595,Customer_595,Patna,Bihar,East,Premium,2022-10-07,18-25
+CUST00596,Customer_596,Nagpur,Maharashtra,West,Regular,2022-05-31,36-45
+CUST00597,Customer_597,Pune,Maharashtra,West,Regular,2022-06-14,26-35
+CUST00598,Customer_598,Surat,Gujarat,West,New,2022-02-22,26-35
+CUST00599,Customer_599,Indore,Madhya Pradesh,Central,New,2022-02-10,26-35
+CUST00600,Customer_600,Bangalore,Karnataka,South,New,2022-06-17,18-25
+CUST00601,Customer_601,Patna,Bihar,East,New,2022-12-05,36-45
+CUST00602,Customer_602,Patna,Bihar,East,New,2022-06-01,18-25
+CUST00603,Customer_603,Hyderabad,Telangana,South,New,2022-06-06,36-45
+CUST00604,Customer_604,Nagpur,Maharashtra,West,New,2022-08-17,26-35
+CUST00605,Customer_605,Bangalore,Karnataka,South,New,2022-11-05,18-25
+CUST00606,Customer_606,Bhopal,Madhya Pradesh,Central,Regular,2022-08-07,26-35
+CUST00607,Customer_607,Bhopal,Madhya Pradesh,Central,New,2022-03-27,18-25
+CUST00608,Customer_608,Bangalore,Karnataka,South,Regular,2022-12-20,26-35
+CUST00609,Customer_609,Patna,Bihar,East,Regular,2022-08-16,36-45
+CUST00610,Customer_610,Pune,Maharashtra,West,Regular,2022-06-29,18-25
+CUST00611,Customer_611,Mumbai,Maharashtra,West,New,2022-08-17,46-55
+CUST00612,Customer_612,Bangalore,Karnataka,South,Premium,2022-01-22,18-25
+CUST00613,Customer_613,Indore,Madhya Pradesh,Central,Regular,2022-06-30,26-35
+CUST00614,Customer_614,Patna,Bihar,East,New,2022-11-11,36-45
+CUST00615,Customer_615,Kolkata,West Bengal,East,Premium,2022-08-11,26-35
+CUST00616,Customer_616,Bhopal,Madhya Pradesh,Central,VIP,2022-05-21,18-25
+CUST00617,Customer_617,Patna,Bihar,East,New,2022-11-24,26-35
+CUST00618,Customer_618,Pune,Maharashtra,West,New,2022-01-30,26-35
+CUST00619,Customer_619,Bhopal,Madhya Pradesh,Central,Premium,2022-02-08,46-55
+CUST00620,Customer_620,Lucknow,Uttar Pradesh,North,Premium,2022-12-10,26-35
+CUST00621,Customer_621,Nagpur,Maharashtra,West,New,2022-11-23,36-45
+CUST00622,Customer_622,Indore,Madhya Pradesh,Central,New,2022-07-27,46-55
+CUST00623,Customer_623,Bhopal,Madhya Pradesh,Central,Regular,2022-07-06,26-35
+CUST00624,Customer_624,Hyderabad,Telangana,South,Regular,2022-09-20,46-55
+CUST00625,Customer_625,Chennai,Tamil Nadu,South,Regular,2022-12-14,26-35
+CUST00626,Customer_626,Bangalore,Karnataka,South,Regular,2022-03-23,55+
+CUST00627,Customer_627,Bhopal,Madhya Pradesh,Central,Regular,2022-01-16,18-25
+CUST00628,Customer_628,Indore,Madhya Pradesh,Central,Premium,2022-03-15,36-45
+CUST00629,Customer_629,Delhi,Delhi,North,New,2022-11-08,26-35
+CUST00630,Customer_630,Pune,Maharashtra,West,New,2022-12-14,26-35
+CUST00631,Customer_631,Nagpur,Maharashtra,West,Premium,2022-08-13,36-45
+CUST00632,Customer_632,Mumbai,Maharashtra,West,Premium,2022-01-18,36-45
+CUST00633,Customer_633,Nagpur,Maharashtra,West,Regular,2022-03-06,18-25
+CUST00634,Customer_634,Ahmedabad,Gujarat,West,Regular,2022-02-04,18-25
+CUST00635,Customer_635,Hyderabad,Telangana,South,New,2022-05-01,36-45
+CUST00636,Customer_636,Hyderabad,Telangana,South,Regular,2022-11-27,36-45
+CUST00637,Customer_637,Nagpur,Maharashtra,West,Regular,2022-07-07,55+
+CUST00638,Customer_638,Patna,Bihar,East,New,2022-07-05,36-45
+CUST00639,Customer_639,Ahmedabad,Gujarat,West,New,2022-07-16,55+
+CUST00640,Customer_640,Kolkata,West Bengal,East,Regular,2022-10-18,36-45
+CUST00641,Customer_641,Chennai,Tamil Nadu,South,New,2022-01-17,26-35
+CUST00642,Customer_642,Nagpur,Maharashtra,West,Regular,2022-11-06,18-25
+CUST00643,Customer_643,Bhopal,Madhya Pradesh,Central,New,2022-03-20,36-45
+CUST00644,Customer_644,Nagpur,Maharashtra,West,Regular,2022-12-14,36-45
+CUST00645,Customer_645,Hyderabad,Telangana,South,New,2022-08-19,18-25
+CUST00646,Customer_646,Hyderabad,Telangana,South,Premium,2022-07-09,26-35
+CUST00647,Customer_647,Mumbai,Maharashtra,West,Regular,2022-07-10,55+
+CUST00648,Customer_648,Lucknow,Uttar Pradesh,North,Regular,2022-08-16,26-35
+CUST00649,Customer_649,Hyderabad,Telangana,South,Premium,2022-02-09,26-35
+CUST00650,Customer_650,Pune,Maharashtra,West,Regular,2022-10-21,26-35
+CUST00651,Customer_651,Kolkata,West Bengal,East,New,2022-03-12,26-35
+CUST00652,Customer_652,Chennai,Tamil Nadu,South,Regular,2022-09-29,26-35
+CUST00653,Customer_653,Nagpur,Maharashtra,West,Regular,2022-07-07,26-35
+CUST00654,Customer_654,Delhi,Delhi,North,Premium,2022-07-23,18-25
+CUST00655,Customer_655,Bhopal,Madhya Pradesh,Central,Regular,2022-06-10,36-45
+CUST00656,Customer_656,Chennai,Tamil Nadu,South,New,2022-11-29,26-35
+CUST00657,Customer_657,Kolkata,West Bengal,East,New,2022-05-23,46-55
+CUST00658,Customer_658,Lucknow,Uttar Pradesh,North,Regular,2022-05-08,46-55
+CUST00659,Customer_659,Jaipur,Rajasthan,North,Regular,2022-02-28,26-35
+CUST00660,Customer_660,Pune,Maharashtra,West,Regular,2022-01-14,36-45
+CUST00661,Customer_661,Lucknow,Uttar Pradesh,North,Regular,2022-04-06,26-35
+CUST00662,Customer_662,Nagpur,Maharashtra,West,VIP,2022-09-13,46-55
+CUST00663,Customer_663,Jaipur,Rajasthan,North,Regular,2022-09-23,26-35
+CUST00664,Customer_664,Kolkata,West Bengal,East,New,2022-07-18,36-45
+CUST00665,Customer_665,Mumbai,Maharashtra,West,New,2022-10-15,36-45
+CUST00666,Customer_666,Delhi,Delhi,North,New,2022-03-02,26-35
+CUST00667,Customer_667,Patna,Bihar,East,New,2022-05-15,18-25
+CUST00668,Customer_668,Chennai,Tamil Nadu,South,New,2022-05-14,36-45
+CUST00669,Customer_669,Bangalore,Karnataka,South,New,2022-12-27,36-45
+CUST00670,Customer_670,Surat,Gujarat,West,New,2022-08-17,26-35
+CUST00671,Customer_671,Chennai,Tamil Nadu,South,New,2022-04-20,36-45
+CUST00672,Customer_672,Mumbai,Maharashtra,West,Premium,2022-11-10,26-35
+CUST00673,Customer_673,Delhi,Delhi,North,New,2022-05-27,36-45
+CUST00674,Customer_674,Surat,Gujarat,West,Regular,2022-12-22,18-25
+CUST00675,Customer_675,Pune,Maharashtra,West,Regular,2022-09-09,46-55
+CUST00676,Customer_676,Kolkata,West Bengal,East,VIP,2022-04-13,26-35
+CUST00677,Customer_677,Indore,Madhya Pradesh,Central,New,2022-03-04,26-35
+CUST00678,Customer_678,Bhopal,Madhya Pradesh,Central,Regular,2022-03-11,18-25
+CUST00679,Customer_679,Kolkata,West Bengal,East,VIP,2022-02-07,18-25
+CUST00680,Customer_680,Pune,Maharashtra,West,Premium,2022-08-20,26-35
+CUST00681,Customer_681,Surat,Gujarat,West,Premium,2022-03-30,26-35
+CUST00682,Customer_682,Jaipur,Rajasthan,North,New,2023-01-01,46-55
+CUST00683,Customer_683,Delhi,Delhi,North,New,2022-08-16,18-25
+CUST00684,Customer_684,Pune,Maharashtra,West,Regular,2022-02-14,26-35
+CUST00685,Customer_685,Patna,Bihar,East,VIP,2022-12-16,26-35
+CUST00686,Customer_686,Surat,Gujarat,West,Regular,2022-06-13,18-25
+CUST00687,Customer_687,Hyderabad,Telangana,South,Regular,2022-12-08,18-25
+CUST00688,Customer_688,Chennai,Tamil Nadu,South,New,2022-06-27,26-35
+CUST00689,Customer_689,Mumbai,Maharashtra,West,Premium,2022-12-30,26-35
+CUST00690,Customer_690,Indore,Madhya Pradesh,Central,New,2022-02-03,26-35
+CUST00691,Customer_691,Pune,Maharashtra,West,Regular,2022-10-09,26-35
+CUST00692,Customer_692,Mumbai,Maharashtra,West,Regular,2022-10-05,36-45
+CUST00693,Customer_693,Jaipur,Rajasthan,North,Regular,2022-05-29,18-25
+CUST00694,Customer_694,Patna,Bihar,East,New,2022-06-03,26-35
+CUST00695,Customer_695,Bhopal,Madhya Pradesh,Central,New,2022-03-22,55+
+CUST00696,Customer_696,Jaipur,Rajasthan,North,Regular,2022-12-31,26-35
+CUST00697,Customer_697,Lucknow,Uttar Pradesh,North,New,2022-12-30,36-45
+CUST00698,Customer_698,Indore,Madhya Pradesh,Central,Regular,2022-12-25,26-35
+CUST00699,Customer_699,Indore,Madhya Pradesh,Central,New,2022-11-23,36-45
+CUST00700,Customer_700,Indore,Madhya Pradesh,Central,Regular,2022-03-31,36-45
+CUST00701,Customer_701,Lucknow,Uttar Pradesh,North,Regular,2022-07-05,26-35
+CUST00702,Customer_702,Hyderabad,Telangana,South,New,2022-09-18,55+
+CUST00703,Customer_703,Kolkata,West Bengal,East,Regular,2022-04-25,18-25
+CUST00704,Customer_704,Pune,Maharashtra,West,New,2022-03-04,18-25
+CUST00705,Customer_705,Delhi,Delhi,North,New,2022-04-13,36-45
+CUST00706,Customer_706,Lucknow,Uttar Pradesh,North,VIP,2022-03-13,46-55
+CUST00707,Customer_707,Patna,Bihar,East,Regular,2022-05-02,18-25
+CUST00708,Customer_708,Kolkata,West Bengal,East,Premium,2022-09-10,26-35
+CUST00709,Customer_709,Surat,Gujarat,West,New,2022-01-14,18-25
+CUST00710,Customer_710,Kolkata,West Bengal,East,Regular,2022-07-04,26-35
+CUST00711,Customer_711,Lucknow,Uttar Pradesh,North,Premium,2022-10-11,36-45
+CUST00712,Customer_712,Nagpur,Maharashtra,West,Regular,2022-10-21,26-35
+CUST00713,Customer_713,Delhi,Delhi,North,Regular,2022-07-08,26-35
+CUST00714,Customer_714,Indore,Madhya Pradesh,Central,Regular,2022-08-28,26-35
+CUST00715,Customer_715,Patna,Bihar,East,Regular,2022-10-10,18-25
+CUST00716,Customer_716,Chennai,Tamil Nadu,South,VIP,2022-03-08,26-35
+CUST00717,Customer_717,Jaipur,Rajasthan,North,Premium,2022-11-10,36-45
+CUST00718,Customer_718,Chennai,Tamil Nadu,South,VIP,2022-02-14,55+
+CUST00719,Customer_719,Lucknow,Uttar Pradesh,North,New,2022-02-03,46-55
+CUST00720,Customer_720,Pune,Maharashtra,West,Premium,2022-06-08,18-25
+CUST00721,Customer_721,Kolkata,West Bengal,East,VIP,2022-07-23,46-55
+CUST00722,Customer_722,Pune,Maharashtra,West,New,2022-09-03,36-45
+CUST00723,Customer_723,Indore,Madhya Pradesh,Central,New,2022-09-27,36-45
+CUST00724,Customer_724,Chennai,Tamil Nadu,South,Premium,2022-07-30,26-35
+CUST00725,Customer_725,Jaipur,Rajasthan,North,Regular,2022-07-29,26-35
+CUST00726,Customer_726,Bangalore,Karnataka,South,Premium,2022-10-22,26-35
+CUST00727,Customer_727,Hyderabad,Telangana,South,New,2022-02-07,18-25
+CUST00728,Customer_728,Pune,Maharashtra,West,Premium,2022-03-06,26-35
+CUST00729,Customer_729,Lucknow,Uttar Pradesh,North,New,2022-06-12,26-35
+CUST00730,Customer_730,Pune,Maharashtra,West,New,2022-11-25,26-35
+CUST00731,Customer_731,Lucknow,Uttar Pradesh,North,New,2022-02-07,36-45
+CUST00732,Customer_732,Indore,Madhya Pradesh,Central,Premium,2022-08-19,26-35
+CUST00733,Customer_733,Patna,Bihar,East,Regular,2022-08-27,18-25
+CUST00734,Customer_734,Bangalore,Karnataka,South,Regular,2022-12-15,55+
+CUST00735,Customer_735,Surat,Gujarat,West,Regular,2022-09-22,46-55
+CUST00736,Customer_736,Surat,Gujarat,West,Premium,2022-06-26,36-45
+CUST00737,Customer_737,Chennai,Tamil Nadu,South,Regular,2022-03-07,55+
+CUST00738,Customer_738,Pune,Maharashtra,West,Premium,2022-10-10,26-35
+CUST00739,Customer_739,Jaipur,Rajasthan,North,Regular,2022-11-24,55+
+CUST00740,Customer_740,Nagpur,Maharashtra,West,Regular,2022-10-28,18-25
+CUST00741,Customer_741,Mumbai,Maharashtra,West,Regular,2022-04-04,26-35
+CUST00742,Customer_742,Chennai,Tamil Nadu,South,Regular,2022-03-08,26-35
+CUST00743,Customer_743,Chennai,Tamil Nadu,South,Premium,2022-08-10,18-25
+CUST00744,Customer_744,Hyderabad,Telangana,South,Regular,2022-09-15,18-25
+CUST00745,Customer_745,Pune,Maharashtra,West,New,2022-01-29,36-45
+CUST00746,Customer_746,Bhopal,Madhya Pradesh,Central,Premium,2022-03-05,36-45
+CUST00747,Customer_747,Surat,Gujarat,West,Regular,2022-09-23,36-45
+CUST00748,Customer_748,Surat,Gujarat,West,Regular,2022-03-20,18-25
+CUST00749,Customer_749,Lucknow,Uttar Pradesh,North,VIP,2022-06-05,46-55
+CUST00750,Customer_750,Kolkata,West Bengal,East,Regular,2022-03-26,36-45
+CUST00751,Customer_751,Ahmedabad,Gujarat,West,New,2022-03-24,26-35
+CUST00752,Customer_752,Ahmedabad,Gujarat,West,VIP,2022-06-15,36-45
+CUST00753,Customer_753,Ahmedabad,Gujarat,West,Regular,2022-12-30,26-35
+CUST00754,Customer_754,Lucknow,Uttar Pradesh,North,Regular,2022-04-26,26-35
+CUST00755,Customer_755,Hyderabad,Telangana,South,New,2022-06-27,46-55
+CUST00756,Customer_756,Jaipur,Rajasthan,North,Premium,2022-09-23,26-35
+CUST00757,Customer_757,Ahmedabad,Gujarat,West,Regular,2022-05-26,26-35
+CUST00758,Customer_758,Bhopal,Madhya Pradesh,Central,Regular,2022-02-10,46-55
+CUST00759,Customer_759,Patna,Bihar,East,Premium,2022-05-09,36-45
+CUST00760,Customer_760,Bhopal,Madhya Pradesh,Central,Premium,2022-04-11,18-25
+CUST00761,Customer_761,Indore,Madhya Pradesh,Central,New,2022-11-22,18-25
+CUST00762,Customer_762,Bangalore,Karnataka,South,Regular,2022-10-10,18-25
+CUST00763,Customer_763,Lucknow,Uttar Pradesh,North,New,2022-05-21,36-45
+CUST00764,Customer_764,Delhi,Delhi,North,Premium,2022-03-06,26-35
+CUST00765,Customer_765,Chennai,Tamil Nadu,South,New,2022-11-17,18-25
+CUST00766,Customer_766,Jaipur,Rajasthan,North,Regular,2022-06-05,55+
+CUST00767,Customer_767,Lucknow,Uttar Pradesh,North,Premium,2022-11-11,26-35
+CUST00768,Customer_768,Lucknow,Uttar Pradesh,North,Premium,2022-10-01,26-35
+CUST00769,Customer_769,Surat,Gujarat,West,Regular,2022-02-17,26-35
+CUST00770,Customer_770,Kolkata,West Bengal,East,Premium,2022-09-15,36-45
+CUST00771,Customer_771,Delhi,Delhi,North,New,2022-11-25,18-25
+CUST00772,Customer_772,Nagpur,Maharashtra,West,Premium,2022-03-28,26-35
+CUST00773,Customer_773,Bhopal,Madhya Pradesh,Central,New,2022-10-31,46-55
+CUST00774,Customer_774,Hyderabad,Telangana,South,Regular,2022-10-25,26-35
+CUST00775,Customer_775,Lucknow,Uttar Pradesh,North,Premium,2022-03-20,26-35
+CUST00776,Customer_776,Chennai,Tamil Nadu,South,New,2022-03-29,26-35
+CUST00777,Customer_777,Hyderabad,Telangana,South,New,2022-12-04,18-25
+CUST00778,Customer_778,Bhopal,Madhya Pradesh,Central,Premium,2022-11-16,18-25
+CUST00779,Customer_779,Hyderabad,Telangana,South,Premium,2022-11-06,26-35
+CUST00780,Customer_780,Bangalore,Karnataka,South,Regular,2022-06-22,26-35
+CUST00781,Customer_781,Mumbai,Maharashtra,West,Regular,2022-10-16,18-25
+CUST00782,Customer_782,Mumbai,Maharashtra,West,Regular,2022-01-22,46-55
+CUST00783,Customer_783,Hyderabad,Telangana,South,New,2022-01-15,55+
+CUST00784,Customer_784,Ahmedabad,Gujarat,West,Regular,2022-02-11,36-45
+CUST00785,Customer_785,Surat,Gujarat,West,New,2022-01-24,46-55
+CUST00786,Customer_786,Nagpur,Maharashtra,West,VIP,2022-11-25,26-35
+CUST00787,Customer_787,Bhopal,Madhya Pradesh,Central,Regular,2022-10-23,55+
+CUST00788,Customer_788,Delhi,Delhi,North,Regular,2022-05-16,18-25
+CUST00789,Customer_789,Ahmedabad,Gujarat,West,Regular,2022-11-30,55+
+CUST00790,Customer_790,Pune,Maharashtra,West,VIP,2022-04-18,55+
+CUST00791,Customer_791,Patna,Bihar,East,New,2022-10-20,36-45
+CUST00792,Customer_792,Lucknow,Uttar Pradesh,North,Regular,2022-08-02,55+
+CUST00793,Customer_793,Surat,Gujarat,West,Regular,2022-11-13,36-45
+CUST00794,Customer_794,Hyderabad,Telangana,South,Regular,2022-11-24,26-35
+CUST00795,Customer_795,Indore,Madhya Pradesh,Central,New,2022-01-16,26-35
+CUST00796,Customer_796,Indore,Madhya Pradesh,Central,Premium,2022-09-12,36-45
+CUST00797,Customer_797,Pune,Maharashtra,West,VIP,2022-11-18,18-25
+CUST00798,Customer_798,Ahmedabad,Gujarat,West,Regular,2022-10-07,36-45
+CUST00799,Customer_799,Pune,Maharashtra,West,Regular,2022-05-29,55+
+CUST00800,Customer_800,Hyderabad,Telangana,South,VIP,2022-11-25,18-25
+CUST00801,Customer_801,Bangalore,Karnataka,South,Premium,2022-06-04,36-45
+CUST00802,Customer_802,Lucknow,Uttar Pradesh,North,New,2022-09-05,46-55
+CUST00803,Customer_803,Indore,Madhya Pradesh,Central,Regular,2022-05-06,46-55
+CUST00804,Customer_804,Mumbai,Maharashtra,West,Regular,2022-12-17,55+
+CUST00805,Customer_805,Patna,Bihar,East,Regular,2022-07-27,26-35
+CUST00806,Customer_806,Bhopal,Madhya Pradesh,Central,Premium,2022-06-02,55+
+CUST00807,Customer_807,Nagpur,Maharashtra,West,VIP,2022-08-21,36-45
+CUST00808,Customer_808,Bhopal,Madhya Pradesh,Central,VIP,2022-02-07,18-25
+CUST00809,Customer_809,Patna,Bihar,East,Regular,2022-12-19,26-35
+CUST00810,Customer_810,Delhi,Delhi,North,New,2022-01-31,36-45
+CUST00811,Customer_811,Bhopal,Madhya Pradesh,Central,VIP,2022-03-22,26-35
+CUST00812,Customer_812,Pune,Maharashtra,West,Premium,2022-08-14,36-45
+CUST00813,Customer_813,Hyderabad,Telangana,South,New,2022-08-01,36-45
+CUST00814,Customer_814,Bangalore,Karnataka,South,VIP,2022-09-05,18-25
+CUST00815,Customer_815,Bhopal,Madhya Pradesh,Central,Premium,2022-08-26,36-45
+CUST00816,Customer_816,Indore,Madhya Pradesh,Central,Regular,2022-04-15,36-45
+CUST00817,Customer_817,Jaipur,Rajasthan,North,Regular,2022-06-24,26-35
+CUST00818,Customer_818,Ahmedabad,Gujarat,West,Regular,2022-11-07,18-25
+CUST00819,Customer_819,Mumbai,Maharashtra,West,New,2022-03-15,18-25
+CUST00820,Customer_820,Jaipur,Rajasthan,North,Regular,2022-06-10,26-35
+CUST00821,Customer_821,Hyderabad,Telangana,South,Premium,2022-06-13,46-55
+CUST00822,Customer_822,Patna,Bihar,East,New,2022-06-26,26-35
+CUST00823,Customer_823,Nagpur,Maharashtra,West,Regular,2022-07-24,36-45
+CUST00824,Customer_824,Delhi,Delhi,North,Regular,2022-03-08,26-35
+CUST00825,Customer_825,Ahmedabad,Gujarat,West,Regular,2022-07-09,26-35
+CUST00826,Customer_826,Bangalore,Karnataka,South,VIP,2022-09-21,46-55
+CUST00827,Customer_827,Bhopal,Madhya Pradesh,Central,Regular,2022-10-15,36-45
+CUST00828,Customer_828,Ahmedabad,Gujarat,West,Regular,2022-02-24,18-25
+CUST00829,Customer_829,Lucknow,Uttar Pradesh,North,Premium,2022-06-13,26-35
+CUST00830,Customer_830,Jaipur,Rajasthan,North,Regular,2022-05-04,18-25
+CUST00831,Customer_831,Jaipur,Rajasthan,North,New,2022-08-27,26-35
+CUST00832,Customer_832,Surat,Gujarat,West,Regular,2022-03-04,36-45
+CUST00833,Customer_833,Kolkata,West Bengal,East,New,2022-05-17,18-25
+CUST00834,Customer_834,Bhopal,Madhya Pradesh,Central,New,2022-08-19,26-35
+CUST00835,Customer_835,Patna,Bihar,East,Regular,2022-05-07,26-35
+CUST00836,Customer_836,Ahmedabad,Gujarat,West,Regular,2022-03-14,46-55
+CUST00837,Customer_837,Surat,Gujarat,West,VIP,2022-02-19,55+
+CUST00838,Customer_838,Nagpur,Maharashtra,West,Regular,2022-01-26,18-25
+CUST00839,Customer_839,Indore,Madhya Pradesh,Central,Regular,2022-05-29,36-45
+CUST00840,Customer_840,Patna,Bihar,East,Regular,2022-07-16,26-35
+CUST00841,Customer_841,Jaipur,Rajasthan,North,New,2022-11-12,26-35
+CUST00842,Customer_842,Pune,Maharashtra,West,Regular,2022-08-03,36-45
+CUST00843,Customer_843,Nagpur,Maharashtra,West,New,2022-05-08,46-55
+CUST00844,Customer_844,Patna,Bihar,East,VIP,2022-03-23,55+
+CUST00845,Customer_845,Jaipur,Rajasthan,North,New,2022-06-17,36-45
+CUST00846,Customer_846,Ahmedabad,Gujarat,West,Regular,2022-10-23,26-35
+CUST00847,Customer_847,Patna,Bihar,East,New,2022-06-10,36-45
+CUST00848,Customer_848,Bangalore,Karnataka,South,VIP,2022-04-08,26-35
+CUST00849,Customer_849,Indore,Madhya Pradesh,Central,Regular,2022-03-23,36-45
+CUST00850,Customer_850,Nagpur,Maharashtra,West,Regular,2022-09-13,26-35
+CUST00851,Customer_851,Ahmedabad,Gujarat,West,New,2022-09-21,36-45
+CUST00852,Customer_852,Ahmedabad,Gujarat,West,Premium,2022-08-28,26-35
+CUST00853,Customer_853,Chennai,Tamil Nadu,South,New,2022-09-13,18-25
+CUST00854,Customer_854,Bhopal,Madhya Pradesh,Central,Premium,2022-06-07,46-55
+CUST00855,Customer_855,Hyderabad,Telangana,South,New,2022-09-12,18-25
+CUST00856,Customer_856,Nagpur,Maharashtra,West,New,2022-01-12,26-35
+CUST00857,Customer_857,Lucknow,Uttar Pradesh,North,New,2022-02-16,26-35
+CUST00858,Customer_858,Chennai,Tamil Nadu,South,Regular,2022-07-21,18-25
+CUST00859,Customer_859,Bhopal,Madhya Pradesh,Central,Regular,2022-09-16,18-25
+CUST00860,Customer_860,Bhopal,Madhya Pradesh,Central,New,2022-08-23,18-25
+CUST00861,Customer_861,Jaipur,Rajasthan,North,Premium,2022-05-04,46-55
+CUST00862,Customer_862,Ahmedabad,Gujarat,West,Regular,2022-04-21,26-35
+CUST00863,Customer_863,Lucknow,Uttar Pradesh,North,Regular,2022-10-26,55+
+CUST00864,Customer_864,Hyderabad,Telangana,South,Regular,2022-06-30,36-45
+CUST00865,Customer_865,Chennai,Tamil Nadu,South,Regular,2022-01-25,26-35
+CUST00866,Customer_866,Ahmedabad,Gujarat,West,Regular,2022-01-26,36-45
+CUST00867,Customer_867,Delhi,Delhi,North,New,2022-05-25,26-35
+CUST00868,Customer_868,Indore,Madhya Pradesh,Central,New,2022-09-11,36-45
+CUST00869,Customer_869,Chennai,Tamil Nadu,South,Premium,2022-11-02,26-35
+CUST00870,Customer_870,Hyderabad,Telangana,South,VIP,2022-12-01,26-35
+CUST00871,Customer_871,Chennai,Tamil Nadu,South,Regular,2022-12-11,46-55
+CUST00872,Customer_872,Kolkata,West Bengal,East,New,2022-08-29,46-55
+CUST00873,Customer_873,Kolkata,West Bengal,East,Regular,2022-05-27,46-55
+CUST00874,Customer_874,Patna,Bihar,East,Regular,2022-10-02,26-35
+CUST00875,Customer_875,Jaipur,Rajasthan,North,New,2022-01-05,36-45
+CUST00876,Customer_876,Delhi,Delhi,North,New,2022-02-25,26-35
+CUST00877,Customer_877,Bangalore,Karnataka,South,Premium,2022-08-09,26-35
+CUST00878,Customer_878,Bangalore,Karnataka,South,Regular,2022-03-10,26-35
+CUST00879,Customer_879,Hyderabad,Telangana,South,New,2022-05-16,36-45
+CUST00880,Customer_880,Pune,Maharashtra,West,New,2022-07-07,18-25
+CUST00881,Customer_881,Indore,Madhya Pradesh,Central,New,2022-07-26,26-35
+CUST00882,Customer_882,Bangalore,Karnataka,South,Regular,2022-07-07,46-55
+CUST00883,Customer_883,Indore,Madhya Pradesh,Central,New,2022-01-24,26-35
+CUST00884,Customer_884,Hyderabad,Telangana,South,New,2022-07-25,18-25
+CUST00885,Customer_885,Delhi,Delhi,North,Premium,2022-01-27,18-25
+CUST00886,Customer_886,Pune,Maharashtra,West,New,2022-10-19,46-55
+CUST00887,Customer_887,Pune,Maharashtra,West,Regular,2022-10-15,26-35
+CUST00888,Customer_888,Kolkata,West Bengal,East,New,2022-04-10,26-35
+CUST00889,Customer_889,Jaipur,Rajasthan,North,New,2022-07-05,46-55
+CUST00890,Customer_890,Ahmedabad,Gujarat,West,New,2022-10-11,46-55
+CUST00891,Customer_891,Pune,Maharashtra,West,Premium,2022-05-28,26-35
+CUST00892,Customer_892,Mumbai,Maharashtra,West,Premium,2022-02-07,36-45
+CUST00893,Customer_893,Hyderabad,Telangana,South,Premium,2022-07-17,36-45
+CUST00894,Customer_894,Nagpur,Maharashtra,West,Regular,2022-09-16,36-45
+CUST00895,Customer_895,Pune,Maharashtra,West,Regular,2022-08-19,18-25
+CUST00896,Customer_896,Pune,Maharashtra,West,New,2022-10-09,46-55
+CUST00897,Customer_897,Patna,Bihar,East,New,2022-05-24,26-35
+CUST00898,Customer_898,Bhopal,Madhya Pradesh,Central,Premium,2022-11-16,26-35
+CUST00899,Customer_899,Surat,Gujarat,West,New,2022-12-15,26-35
+CUST00900,Customer_900,Indore,Madhya Pradesh,Central,New,2022-11-09,18-25
+CUST00901,Customer_901,Mumbai,Maharashtra,West,New,2022-03-02,18-25
+CUST00902,Customer_902,Nagpur,Maharashtra,West,New,2022-03-07,36-45
+CUST00903,Customer_903,Patna,Bihar,East,New,2022-02-19,18-25
+CUST00904,Customer_904,Bhopal,Madhya Pradesh,Central,Regular,2022-07-21,26-35
+CUST00905,Customer_905,Surat,Gujarat,West,Regular,2022-07-11,26-35
+CUST00906,Customer_906,Pune,Maharashtra,West,Premium,2022-06-23,18-25
+CUST00907,Customer_907,Ahmedabad,Gujarat,West,Premium,2022-10-13,55+
+CUST00908,Customer_908,Mumbai,Maharashtra,West,Regular,2022-07-07,26-35
+CUST00909,Customer_909,Kolkata,West Bengal,East,New,2022-03-15,26-35
+CUST00910,Customer_910,Chennai,Tamil Nadu,South,Regular,2022-04-12,26-35
+CUST00911,Customer_911,Bhopal,Madhya Pradesh,Central,Regular,2022-11-05,26-35
+CUST00912,Customer_912,Pune,Maharashtra,West,New,2022-09-18,18-25
+CUST00913,Customer_913,Nagpur,Maharashtra,West,Regular,2022-07-25,36-45
+CUST00914,Customer_914,Patna,Bihar,East,Regular,2022-09-14,55+
+CUST00915,Customer_915,Nagpur,Maharashtra,West,Regular,2022-01-21,26-35
+CUST00916,Customer_916,Pune,Maharashtra,West,Regular,2022-01-24,36-45
+CUST00917,Customer_917,Jaipur,Rajasthan,North,New,2022-01-20,36-45
+CUST00918,Customer_918,Indore,Madhya Pradesh,Central,VIP,2022-03-12,46-55
+CUST00919,Customer_919,Indore,Madhya Pradesh,Central,Premium,2023-01-01,26-35
+CUST00920,Customer_920,Jaipur,Rajasthan,North,New,2022-06-20,26-35
+CUST00921,Customer_921,Bhopal,Madhya Pradesh,Central,Premium,2022-08-31,26-35
+CUST00922,Customer_922,Surat,Gujarat,West,Regular,2022-09-23,36-45
+CUST00923,Customer_923,Patna,Bihar,East,Premium,2022-08-22,46-55
+CUST00924,Customer_924,Hyderabad,Telangana,South,Premium,2022-03-18,18-25
+CUST00925,Customer_925,Ahmedabad,Gujarat,West,Regular,2022-11-07,26-35
+CUST00926,Customer_926,Hyderabad,Telangana,South,New,2022-09-21,46-55
+CUST00927,Customer_927,Chennai,Tamil Nadu,South,New,2022-03-13,46-55
+CUST00928,Customer_928,Pune,Maharashtra,West,Regular,2022-06-17,55+
+CUST00929,Customer_929,Ahmedabad,Gujarat,West,Regular,2022-11-10,36-45
+CUST00930,Customer_930,Mumbai,Maharashtra,West,New,2022-06-13,26-35
+CUST00931,Customer_931,Pune,Maharashtra,West,New,2022-03-25,36-45
+CUST00932,Customer_932,Kolkata,West Bengal,East,Premium,2022-07-21,36-45
+CUST00933,Customer_933,Lucknow,Uttar Pradesh,North,VIP,2022-11-12,18-25
+CUST00934,Customer_934,Lucknow,Uttar Pradesh,North,Regular,2022-06-03,26-35
+CUST00935,Customer_935,Bhopal,Madhya Pradesh,Central,New,2022-10-31,36-45
+CUST00936,Customer_936,Pune,Maharashtra,West,New,2022-06-22,18-25
+CUST00937,Customer_937,Indore,Madhya Pradesh,Central,New,2022-09-17,36-45
+CUST00938,Customer_938,Bangalore,Karnataka,South,VIP,2022-09-18,36-45
+CUST00939,Customer_939,Nagpur,Maharashtra,West,New,2022-09-30,55+
+CUST00940,Customer_940,Ahmedabad,Gujarat,West,Regular,2022-09-08,18-25
+CUST00941,Customer_941,Patna,Bihar,East,New,2022-12-29,26-35
+CUST00942,Customer_942,Bangalore,Karnataka,South,Regular,2022-10-16,36-45
+CUST00943,Customer_943,Surat,Gujarat,West,Regular,2022-06-03,26-35
+CUST00944,Customer_944,Jaipur,Rajasthan,North,Premium,2022-09-01,36-45
+CUST00945,Customer_945,Mumbai,Maharashtra,West,New,2022-01-09,36-45
+CUST00946,Customer_946,Patna,Bihar,East,New,2022-07-08,18-25
+CUST00947,Customer_947,Pune,Maharashtra,West,New,2022-06-19,26-35
+CUST00948,Customer_948,Surat,Gujarat,West,VIP,2022-12-11,26-35
+CUST00949,Customer_949,Surat,Gujarat,West,Premium,2022-02-26,26-35
+CUST00950,Customer_950,Lucknow,Uttar Pradesh,North,Regular,2022-08-02,46-55
+CUST00951,Customer_951,Mumbai,Maharashtra,West,Regular,2022-10-26,46-55
+CUST00952,Customer_952,Delhi,Delhi,North,Regular,2022-06-07,36-45
+CUST00953,Customer_953,Lucknow,Uttar Pradesh,North,New,2022-12-19,36-45
+CUST00954,Customer_954,Pune,Maharashtra,West,VIP,2022-11-19,26-35
+CUST00955,Customer_955,Bangalore,Karnataka,South,Regular,2022-01-14,46-55
+CUST00956,Customer_956,Nagpur,Maharashtra,West,Regular,2022-11-02,36-45
+CUST00957,Customer_957,Ahmedabad,Gujarat,West,Regular,2022-08-31,36-45
+CUST00958,Customer_958,Bangalore,Karnataka,South,New,2022-05-16,46-55
+CUST00959,Customer_959,Mumbai,Maharashtra,West,New,2022-12-02,26-35
+CUST00960,Customer_960,Chennai,Tamil Nadu,South,Premium,2022-10-24,46-55
+CUST00961,Customer_961,Pune,Maharashtra,West,New,2022-10-23,18-25
+CUST00962,Customer_962,Kolkata,West Bengal,East,Regular,2022-04-27,26-35
+CUST00963,Customer_963,Hyderabad,Telangana,South,New,2022-01-27,26-35
+CUST00964,Customer_964,Ahmedabad,Gujarat,West,Regular,2022-10-26,55+
+CUST00965,Customer_965,Kolkata,West Bengal,East,New,2022-09-03,46-55
+CUST00966,Customer_966,Kolkata,West Bengal,East,Regular,2022-03-29,36-45
+CUST00967,Customer_967,Bhopal,Madhya Pradesh,Central,Premium,2022-09-26,36-45
+CUST00968,Customer_968,Patna,Bihar,East,New,2022-11-19,36-45
+CUST00969,Customer_969,Pune,Maharashtra,West,Regular,2022-11-14,46-55
+CUST00970,Customer_970,Chennai,Tamil Nadu,South,Regular,2022-07-14,26-35
+CUST00971,Customer_971,Bhopal,Madhya Pradesh,Central,Regular,2022-03-17,26-35
+CUST00972,Customer_972,Nagpur,Maharashtra,West,VIP,2022-12-15,18-25
+CUST00973,Customer_973,Pune,Maharashtra,West,Premium,2022-05-05,36-45
+CUST00974,Customer_974,Chennai,Tamil Nadu,South,New,2022-01-17,36-45
+CUST00975,Customer_975,Nagpur,Maharashtra,West,New,2022-10-21,26-35
+CUST00976,Customer_976,Delhi,Delhi,North,New,2022-12-25,18-25
+CUST00977,Customer_977,Ahmedabad,Gujarat,West,Regular,2022-02-26,46-55
+CUST00978,Customer_978,Mumbai,Maharashtra,West,New,2022-04-08,18-25
+CUST00979,Customer_979,Indore,Madhya Pradesh,Central,Regular,2022-01-10,36-45
+CUST00980,Customer_980,Jaipur,Rajasthan,North,Regular,2022-08-14,55+
+CUST00981,Customer_981,Mumbai,Maharashtra,West,Regular,2022-06-10,26-35
+CUST00982,Customer_982,Kolkata,West Bengal,East,Premium,2022-08-03,26-35
+CUST00983,Customer_983,Hyderabad,Telangana,South,New,2022-03-19,36-45
+CUST00984,Customer_984,Lucknow,Uttar Pradesh,North,New,2022-07-31,46-55
+CUST00985,Customer_985,Delhi,Delhi,North,Premium,2022-12-20,26-35
+CUST00986,Customer_986,Bhopal,Madhya Pradesh,Central,Regular,2022-04-15,55+
+CUST00987,Customer_987,Lucknow,Uttar Pradesh,North,Regular,2022-07-30,18-25
+CUST00988,Customer_988,Mumbai,Maharashtra,West,Regular,2022-09-14,26-35
+CUST00989,Customer_989,Bhopal,Madhya Pradesh,Central,New,2022-11-10,36-45
+CUST00990,Customer_990,Mumbai,Maharashtra,West,Premium,2022-08-30,46-55
+CUST00991,Customer_991,Hyderabad,Telangana,South,Premium,2022-02-01,18-25
+CUST00992,Customer_992,Hyderabad,Telangana,South,Regular,2022-12-28,46-55
+CUST00993,Customer_993,Nagpur,Maharashtra,West,New,2022-03-12,36-45
+CUST00994,Customer_994,Mumbai,Maharashtra,West,Regular,2022-09-23,26-35
+CUST00995,Customer_995,Surat,Gujarat,West,Regular,2022-04-17,18-25
+CUST00996,Customer_996,Bangalore,Karnataka,South,New,2022-10-15,46-55
+CUST00997,Customer_997,Hyderabad,Telangana,South,VIP,2022-06-16,18-25
+CUST00998,Customer_998,Bangalore,Karnataka,South,New,2022-12-06,26-35
+CUST00999,Customer_999,Ahmedabad,Gujarat,West,VIP,2022-09-02,26-35
+CUST01000,Customer_1000,Lucknow,Uttar Pradesh,North,Regular,2022-09-27,46-55
+CUST01001,Customer_1001,Delhi,Delhi,North,New,2022-07-12,36-45
+CUST01002,Customer_1002,Surat,Gujarat,West,Regular,2022-06-10,36-45
+CUST01003,Customer_1003,Hyderabad,Telangana,South,Premium,2022-03-30,26-35
+CUST01004,Customer_1004,Ahmedabad,Gujarat,West,Premium,2022-08-24,36-45
+CUST01005,Customer_1005,Indore,Madhya Pradesh,Central,Premium,2022-09-30,36-45
+CUST01006,Customer_1006,Chennai,Tamil Nadu,South,Regular,2022-06-25,46-55
+CUST01007,Customer_1007,Bhopal,Madhya Pradesh,Central,Regular,2022-10-07,46-55
+CUST01008,Customer_1008,Kolkata,West Bengal,East,Premium,2022-07-01,18-25
+CUST01009,Customer_1009,Bangalore,Karnataka,South,New,2022-12-13,36-45
+CUST01010,Customer_1010,Surat,Gujarat,West,Regular,2022-12-15,18-25
+CUST01011,Customer_1011,Surat,Gujarat,West,New,2022-11-26,26-35
+CUST01012,Customer_1012,Indore,Madhya Pradesh,Central,VIP,2022-12-21,26-35
+CUST01013,Customer_1013,Indore,Madhya Pradesh,Central,VIP,2022-05-16,26-35
+CUST01014,Customer_1014,Delhi,Delhi,North,New,2022-11-09,26-35
+CUST01015,Customer_1015,Bhopal,Madhya Pradesh,Central,Premium,2022-09-05,36-45
+CUST01016,Customer_1016,Nagpur,Maharashtra,West,VIP,2022-04-09,26-35
+CUST01017,Customer_1017,Bangalore,Karnataka,South,New,2022-05-07,36-45
+CUST01018,Customer_1018,Chennai,Tamil Nadu,South,Regular,2022-05-23,26-35
+CUST01019,Customer_1019,Delhi,Delhi,North,VIP,2022-10-13,18-25
+CUST01020,Customer_1020,Surat,Gujarat,West,New,2022-06-02,36-45
+CUST01021,Customer_1021,Mumbai,Maharashtra,West,Regular,2022-04-26,26-35
+CUST01022,Customer_1022,Patna,Bihar,East,New,2022-06-02,26-35
+CUST01023,Customer_1023,Chennai,Tamil Nadu,South,VIP,2022-05-28,36-45
+CUST01024,Customer_1024,Surat,Gujarat,West,VIP,2022-12-27,26-35
+CUST01025,Customer_1025,Lucknow,Uttar Pradesh,North,VIP,2022-04-17,18-25
+CUST01026,Customer_1026,Patna,Bihar,East,Regular,2022-12-20,26-35
+CUST01027,Customer_1027,Pune,Maharashtra,West,Premium,2022-12-27,46-55
+CUST01028,Customer_1028,Pune,Maharashtra,West,Premium,2022-09-08,36-45
+CUST01029,Customer_1029,Indore,Madhya Pradesh,Central,Regular,2022-06-12,36-45
+CUST01030,Customer_1030,Hyderabad,Telangana,South,Premium,2022-09-03,36-45
+CUST01031,Customer_1031,Delhi,Delhi,North,New,2022-06-28,18-25
+CUST01032,Customer_1032,Surat,Gujarat,West,Regular,2022-10-14,26-35
+CUST01033,Customer_1033,Indore,Madhya Pradesh,Central,New,2022-05-21,36-45
+CUST01034,Customer_1034,Nagpur,Maharashtra,West,New,2022-05-28,18-25
+CUST01035,Customer_1035,Lucknow,Uttar Pradesh,North,New,2022-03-04,26-35
+CUST01036,Customer_1036,Hyderabad,Telangana,South,Regular,2022-10-21,26-35
+CUST01037,Customer_1037,Delhi,Delhi,North,Regular,2022-12-13,26-35
+CUST01038,Customer_1038,Indore,Madhya Pradesh,Central,Premium,2022-10-06,55+
+CUST01039,Customer_1039,Bhopal,Madhya Pradesh,Central,New,2022-07-14,18-25
+CUST01040,Customer_1040,Chennai,Tamil Nadu,South,Regular,2022-07-22,26-35
+CUST01041,Customer_1041,Nagpur,Maharashtra,West,Regular,2022-06-26,18-25
+CUST01042,Customer_1042,Lucknow,Uttar Pradesh,North,Premium,2022-03-16,55+
+CUST01043,Customer_1043,Surat,Gujarat,West,Regular,2022-05-29,18-25
+CUST01044,Customer_1044,Bhopal,Madhya Pradesh,Central,Regular,2022-01-22,26-35
+CUST01045,Customer_1045,Delhi,Delhi,North,Premium,2022-05-28,36-45
+CUST01046,Customer_1046,Bhopal,Madhya Pradesh,Central,Regular,2023-01-01,36-45
+CUST01047,Customer_1047,Surat,Gujarat,West,New,2022-02-10,26-35
+CUST01048,Customer_1048,Bhopal,Madhya Pradesh,Central,New,2022-06-27,26-35
+CUST01049,Customer_1049,Mumbai,Maharashtra,West,Premium,2022-08-15,26-35
+CUST01050,Customer_1050,Kolkata,West Bengal,East,New,2022-12-02,26-35
+CUST01051,Customer_1051,Jaipur,Rajasthan,North,Premium,2022-05-12,26-35
+CUST01052,Customer_1052,Pune,Maharashtra,West,Regular,2022-09-03,26-35
+CUST01053,Customer_1053,Lucknow,Uttar Pradesh,North,VIP,2022-04-20,26-35
+CUST01054,Customer_1054,Kolkata,West Bengal,East,Premium,2022-04-14,26-35
+CUST01055,Customer_1055,Delhi,Delhi,North,VIP,2022-10-03,36-45
+CUST01056,Customer_1056,Jaipur,Rajasthan,North,Regular,2022-05-19,55+
+CUST01057,Customer_1057,Lucknow,Uttar Pradesh,North,Premium,2022-10-15,36-45
+CUST01058,Customer_1058,Kolkata,West Bengal,East,Regular,2022-12-23,18-25
+CUST01059,Customer_1059,Mumbai,Maharashtra,West,Regular,2022-05-20,18-25
+CUST01060,Customer_1060,Nagpur,Maharashtra,West,Regular,2022-03-12,55+
+CUST01061,Customer_1061,Pune,Maharashtra,West,Premium,2022-02-25,26-35
+CUST01062,Customer_1062,Nagpur,Maharashtra,West,VIP,2022-11-12,18-25
+CUST01063,Customer_1063,Ahmedabad,Gujarat,West,Premium,2022-10-28,36-45
+CUST01064,Customer_1064,Delhi,Delhi,North,Regular,2022-05-03,36-45
+CUST01065,Customer_1065,Pune,Maharashtra,West,Regular,2022-05-05,36-45
+CUST01066,Customer_1066,Kolkata,West Bengal,East,Premium,2022-01-26,26-35
+CUST01067,Customer_1067,Lucknow,Uttar Pradesh,North,New,2022-12-09,18-25
+CUST01068,Customer_1068,Patna,Bihar,East,New,2022-09-29,55+
+CUST01069,Customer_1069,Nagpur,Maharashtra,West,Regular,2022-04-26,26-35
+CUST01070,Customer_1070,Ahmedabad,Gujarat,West,New,2022-11-23,36-45
+CUST01071,Customer_1071,Indore,Madhya Pradesh,Central,New,2022-04-30,36-45
+CUST01072,Customer_1072,Bangalore,Karnataka,South,New,2022-01-27,36-45
+CUST01073,Customer_1073,Pune,Maharashtra,West,New,2022-02-21,26-35
+CUST01074,Customer_1074,Bangalore,Karnataka,South,New,2022-07-31,26-35
+CUST01075,Customer_1075,Indore,Madhya Pradesh,Central,VIP,2022-06-19,36-45
+CUST01076,Customer_1076,Jaipur,Rajasthan,North,Regular,2022-08-30,46-55
+CUST01077,Customer_1077,Lucknow,Uttar Pradesh,North,Regular,2022-02-21,46-55
+CUST01078,Customer_1078,Chennai,Tamil Nadu,South,Regular,2022-12-15,18-25
+CUST01079,Customer_1079,Surat,Gujarat,West,New,2022-03-12,18-25
+CUST01080,Customer_1080,Bhopal,Madhya Pradesh,Central,VIP,2022-01-03,46-55
+CUST01081,Customer_1081,Patna,Bihar,East,Premium,2022-10-09,36-45
+CUST01082,Customer_1082,Jaipur,Rajasthan,North,New,2022-03-22,46-55
+CUST01083,Customer_1083,Bhopal,Madhya Pradesh,Central,Regular,2022-07-28,26-35
+CUST01084,Customer_1084,Ahmedabad,Gujarat,West,Premium,2022-12-01,36-45
+CUST01085,Customer_1085,Ahmedabad,Gujarat,West,VIP,2022-09-01,36-45
+CUST01086,Customer_1086,Pune,Maharashtra,West,Regular,2022-09-02,36-45
+CUST01087,Customer_1087,Nagpur,Maharashtra,West,Regular,2022-11-30,26-35
+CUST01088,Customer_1088,Indore,Madhya Pradesh,Central,New,2022-04-13,18-25
+CUST01089,Customer_1089,Surat,Gujarat,West,VIP,2022-05-28,36-45
+CUST01090,Customer_1090,Chennai,Tamil Nadu,South,New,2022-06-14,26-35
+CUST01091,Customer_1091,Kolkata,West Bengal,East,VIP,2022-05-27,26-35
+CUST01092,Customer_1092,Nagpur,Maharashtra,West,Regular,2022-11-27,55+
+CUST01093,Customer_1093,Hyderabad,Telangana,South,Regular,2022-01-31,26-35
+CUST01094,Customer_1094,Nagpur,Maharashtra,West,Regular,2022-02-15,46-55
+CUST01095,Customer_1095,Patna,Bihar,East,New,2022-11-30,18-25
+CUST01096,Customer_1096,Delhi,Delhi,North,New,2022-10-21,36-45
+CUST01097,Customer_1097,Chennai,Tamil Nadu,South,New,2022-04-29,55+
+CUST01098,Customer_1098,Patna,Bihar,East,New,2022-10-01,18-25
+CUST01099,Customer_1099,Ahmedabad,Gujarat,West,Premium,2022-01-20,18-25
+CUST01100,Customer_1100,Hyderabad,Telangana,South,Regular,2022-03-31,26-35
+CUST01101,Customer_1101,Bhopal,Madhya Pradesh,Central,New,2022-08-02,18-25
+CUST01102,Customer_1102,Ahmedabad,Gujarat,West,VIP,2022-04-01,36-45
+CUST01103,Customer_1103,Surat,Gujarat,West,Premium,2022-01-19,46-55
+CUST01104,Customer_1104,Surat,Gujarat,West,VIP,2022-07-23,26-35
+CUST01105,Customer_1105,Lucknow,Uttar Pradesh,North,VIP,2022-09-11,26-35
+CUST01106,Customer_1106,Pune,Maharashtra,West,New,2022-04-06,26-35
+CUST01107,Customer_1107,Kolkata,West Bengal,East,Regular,2022-05-29,36-45
+CUST01108,Customer_1108,Mumbai,Maharashtra,West,Premium,2022-01-20,18-25
+CUST01109,Customer_1109,Ahmedabad,Gujarat,West,Regular,2022-01-05,36-45
+CUST01110,Customer_1110,Nagpur,Maharashtra,West,New,2022-06-02,36-45
+CUST01111,Customer_1111,Kolkata,West Bengal,East,Premium,2022-10-18,36-45
+CUST01112,Customer_1112,Bangalore,Karnataka,South,New,2022-11-05,26-35
+CUST01113,Customer_1113,Ahmedabad,Gujarat,West,New,2022-02-24,36-45
+CUST01114,Customer_1114,Hyderabad,Telangana,South,Regular,2022-06-21,18-25
+CUST01115,Customer_1115,Kolkata,West Bengal,East,Regular,2022-05-26,18-25
+CUST01116,Customer_1116,Bhopal,Madhya Pradesh,Central,Regular,2022-08-21,46-55
+CUST01117,Customer_1117,Chennai,Tamil Nadu,South,New,2022-11-25,36-45
+CUST01118,Customer_1118,Kolkata,West Bengal,East,Premium,2022-10-06,18-25
+CUST01119,Customer_1119,Chennai,Tamil Nadu,South,New,2022-09-26,26-35
+CUST01120,Customer_1120,Patna,Bihar,East,New,2022-09-10,26-35
+CUST01121,Customer_1121,Surat,Gujarat,West,Premium,2022-03-10,26-35
+CUST01122,Customer_1122,Indore,Madhya Pradesh,Central,VIP,2022-09-16,26-35
+CUST01123,Customer_1123,Patna,Bihar,East,Premium,2022-08-28,18-25
+CUST01124,Customer_1124,Chennai,Tamil Nadu,South,Premium,2022-05-20,26-35
+CUST01125,Customer_1125,Jaipur,Rajasthan,North,Regular,2022-04-09,36-45
+CUST01126,Customer_1126,Mumbai,Maharashtra,West,Regular,2022-02-27,36-45
+CUST01127,Customer_1127,Jaipur,Rajasthan,North,New,2022-06-19,36-45
+CUST01128,Customer_1128,Hyderabad,Telangana,South,Regular,2022-03-25,18-25
+CUST01129,Customer_1129,Delhi,Delhi,North,Regular,2022-08-23,55+
+CUST01130,Customer_1130,Hyderabad,Telangana,South,New,2022-11-28,46-55
+CUST01131,Customer_1131,Indore,Madhya Pradesh,Central,Premium,2022-05-12,46-55
+CUST01132,Customer_1132,Pune,Maharashtra,West,Regular,2022-04-06,46-55
+CUST01133,Customer_1133,Ahmedabad,Gujarat,West,New,2022-01-08,46-55
+CUST01134,Customer_1134,Jaipur,Rajasthan,North,New,2022-06-22,26-35
+CUST01135,Customer_1135,Bhopal,Madhya Pradesh,Central,Regular,2022-06-01,26-35
+CUST01136,Customer_1136,Hyderabad,Telangana,South,New,2022-10-18,36-45
+CUST01137,Customer_1137,Indore,Madhya Pradesh,Central,Premium,2022-12-12,36-45
+CUST01138,Customer_1138,Ahmedabad,Gujarat,West,Regular,2022-04-09,36-45
+CUST01139,Customer_1139,Lucknow,Uttar Pradesh,North,Regular,2022-03-31,26-35
+CUST01140,Customer_1140,Indore,Madhya Pradesh,Central,Regular,2022-11-09,18-25
+CUST01141,Customer_1141,Ahmedabad,Gujarat,West,Premium,2022-11-24,26-35
+CUST01142,Customer_1142,Ahmedabad,Gujarat,West,Regular,2022-07-27,46-55
+CUST01143,Customer_1143,Bhopal,Madhya Pradesh,Central,Regular,2022-08-07,36-45
+CUST01144,Customer_1144,Mumbai,Maharashtra,West,Regular,2022-09-21,26-35
+CUST01145,Customer_1145,Delhi,Delhi,North,New,2022-06-17,26-35
+CUST01146,Customer_1146,Chennai,Tamil Nadu,South,Premium,2022-02-14,26-35
+CUST01147,Customer_1147,Hyderabad,Telangana,South,Premium,2022-07-25,46-55
+CUST01148,Customer_1148,Pune,Maharashtra,West,Regular,2022-12-09,36-45
+CUST01149,Customer_1149,Indore,Madhya Pradesh,Central,Premium,2022-02-18,36-45
+CUST01150,Customer_1150,Hyderabad,Telangana,South,Premium,2022-04-05,26-35
+CUST01151,Customer_1151,Chennai,Tamil Nadu,South,Premium,2022-03-13,36-45
+CUST01152,Customer_1152,Lucknow,Uttar Pradesh,North,Premium,2022-09-02,26-35
+CUST01153,Customer_1153,Surat,Gujarat,West,Regular,2022-06-15,36-45
+CUST01154,Customer_1154,Kolkata,West Bengal,East,Regular,2022-05-08,26-35
+CUST01155,Customer_1155,Ahmedabad,Gujarat,West,Regular,2022-01-04,26-35
+CUST01156,Customer_1156,Jaipur,Rajasthan,North,Premium,2022-05-14,36-45
+CUST01157,Customer_1157,Jaipur,Rajasthan,North,New,2022-07-16,46-55
+CUST01158,Customer_1158,Kolkata,West Bengal,East,Premium,2022-05-01,18-25
+CUST01159,Customer_1159,Pune,Maharashtra,West,Premium,2022-08-17,46-55
+CUST01160,Customer_1160,Indore,Madhya Pradesh,Central,New,2022-05-17,26-35
+CUST01161,Customer_1161,Jaipur,Rajasthan,North,Premium,2022-06-18,26-35
+CUST01162,Customer_1162,Kolkata,West Bengal,East,New,2022-06-04,18-25
+CUST01163,Customer_1163,Kolkata,West Bengal,East,Regular,2022-10-26,26-35
+CUST01164,Customer_1164,Indore,Madhya Pradesh,Central,Premium,2022-10-21,26-35
+CUST01165,Customer_1165,Ahmedabad,Gujarat,West,New,2022-01-06,18-25
+CUST01166,Customer_1166,Chennai,Tamil Nadu,South,Premium,2022-05-14,26-35
+CUST01167,Customer_1167,Chennai,Tamil Nadu,South,Premium,2022-12-01,46-55
+CUST01168,Customer_1168,Chennai,Tamil Nadu,South,Regular,2022-07-04,18-25
+CUST01169,Customer_1169,Hyderabad,Telangana,South,New,2022-12-21,36-45
+CUST01170,Customer_1170,Delhi,Delhi,North,New,2022-05-01,26-35
+CUST01171,Customer_1171,Indore,Madhya Pradesh,Central,Regular,2022-02-01,36-45
+CUST01172,Customer_1172,Hyderabad,Telangana,South,VIP,2022-12-08,26-35
+CUST01173,Customer_1173,Kolkata,West Bengal,East,Regular,2022-03-02,18-25
+CUST01174,Customer_1174,Delhi,Delhi,North,New,2022-08-27,18-25
+CUST01175,Customer_1175,Indore,Madhya Pradesh,Central,Regular,2022-06-07,18-25
+CUST01176,Customer_1176,Jaipur,Rajasthan,North,Regular,2022-03-23,18-25
+CUST01177,Customer_1177,Bhopal,Madhya Pradesh,Central,Premium,2022-07-27,36-45
+CUST01178,Customer_1178,Indore,Madhya Pradesh,Central,New,2022-12-18,46-55
+CUST01179,Customer_1179,Bangalore,Karnataka,South,Premium,2022-09-15,46-55
+CUST01180,Customer_1180,Hyderabad,Telangana,South,Regular,2022-12-27,36-45
+CUST01181,Customer_1181,Hyderabad,Telangana,South,VIP,2022-06-09,18-25
+CUST01182,Customer_1182,Indore,Madhya Pradesh,Central,Regular,2022-12-20,26-35
+CUST01183,Customer_1183,Ahmedabad,Gujarat,West,Regular,2022-03-02,26-35
+CUST01184,Customer_1184,Chennai,Tamil Nadu,South,VIP,2022-11-24,26-35
+CUST01185,Customer_1185,Indore,Madhya Pradesh,Central,New,2022-06-01,26-35
+CUST01186,Customer_1186,Surat,Gujarat,West,VIP,2022-07-08,26-35
+CUST01187,Customer_1187,Bhopal,Madhya Pradesh,Central,Regular,2022-11-11,26-35
+CUST01188,Customer_1188,Jaipur,Rajasthan,North,New,2022-04-24,26-35
+CUST01189,Customer_1189,Surat,Gujarat,West,Regular,2022-04-23,46-55
+CUST01190,Customer_1190,Chennai,Tamil Nadu,South,Premium,2022-03-10,36-45
+CUST01191,Customer_1191,Delhi,Delhi,North,New,2022-09-02,26-35
+CUST01192,Customer_1192,Nagpur,Maharashtra,West,Regular,2022-03-20,46-55
+CUST01193,Customer_1193,Hyderabad,Telangana,South,Regular,2022-08-21,55+
+CUST01194,Customer_1194,Chennai,Tamil Nadu,South,Regular,2022-11-07,26-35
+CUST01195,Customer_1195,Hyderabad,Telangana,South,New,2022-07-11,26-35
+CUST01196,Customer_1196,Kolkata,West Bengal,East,Premium,2022-08-01,26-35
+CUST01197,Customer_1197,Bangalore,Karnataka,South,VIP,2022-12-26,46-55
+CUST01198,Customer_1198,Chennai,Tamil Nadu,South,VIP,2022-10-09,46-55
+CUST01199,Customer_1199,Mumbai,Maharashtra,West,Premium,2022-08-30,18-25
+CUST01200,Customer_1200,Indore,Madhya Pradesh,Central,New,2022-10-03,26-35
+CUST01201,Customer_1201,Jaipur,Rajasthan,North,Premium,2022-12-07,36-45
+CUST01202,Customer_1202,Bangalore,Karnataka,South,New,2022-04-22,26-35
+CUST01203,Customer_1203,Chennai,Tamil Nadu,South,New,2022-05-07,18-25
+CUST01204,Customer_1204,Mumbai,Maharashtra,West,Regular,2022-12-15,46-55
+CUST01205,Customer_1205,Mumbai,Maharashtra,West,Regular,2022-11-02,36-45
+CUST01206,Customer_1206,Jaipur,Rajasthan,North,Premium,2022-02-11,46-55
+CUST01207,Customer_1207,Chennai,Tamil Nadu,South,Regular,2022-09-27,46-55
+CUST01208,Customer_1208,Indore,Madhya Pradesh,Central,Regular,2022-08-17,36-45
+CUST01209,Customer_1209,Bangalore,Karnataka,South,New,2022-09-28,26-35
+CUST01210,Customer_1210,Lucknow,Uttar Pradesh,North,VIP,2022-12-27,36-45
+CUST01211,Customer_1211,Nagpur,Maharashtra,West,Regular,2022-07-05,18-25
+CUST01212,Customer_1212,Bhopal,Madhya Pradesh,Central,Regular,2022-02-09,36-45
+CUST01213,Customer_1213,Ahmedabad,Gujarat,West,New,2022-10-16,18-25
+CUST01214,Customer_1214,Delhi,Delhi,North,Premium,2022-02-27,36-45
+CUST01215,Customer_1215,Nagpur,Maharashtra,West,Regular,2022-02-01,26-35
+CUST01216,Customer_1216,Mumbai,Maharashtra,West,New,2022-10-08,18-25
+CUST01217,Customer_1217,Surat,Gujarat,West,New,2022-09-16,18-25
+CUST01218,Customer_1218,Chennai,Tamil Nadu,South,Regular,2022-04-14,18-25
+CUST01219,Customer_1219,Ahmedabad,Gujarat,West,Regular,2022-10-21,36-45
+CUST01220,Customer_1220,Ahmedabad,Gujarat,West,New,2022-10-02,36-45
+CUST01221,Customer_1221,Ahmedabad,Gujarat,West,VIP,2022-03-18,26-35
+CUST01222,Customer_1222,Kolkata,West Bengal,East,New,2022-03-26,18-25
+CUST01223,Customer_1223,Bangalore,Karnataka,South,Regular,2022-06-17,18-25
+CUST01224,Customer_1224,Mumbai,Maharashtra,West,VIP,2022-09-24,18-25
+CUST01225,Customer_1225,Chennai,Tamil Nadu,South,Regular,2022-08-15,18-25
+CUST01226,Customer_1226,Nagpur,Maharashtra,West,Regular,2022-03-01,46-55
+CUST01227,Customer_1227,Ahmedabad,Gujarat,West,Regular,2022-12-15,26-35
+CUST01228,Customer_1228,Delhi,Delhi,North,New,2022-04-16,26-35
+CUST01229,Customer_1229,Nagpur,Maharashtra,West,VIP,2022-10-26,18-25
+CUST01230,Customer_1230,Delhi,Delhi,North,Regular,2022-09-08,26-35
+CUST01231,Customer_1231,Pune,Maharashtra,West,Premium,2022-02-16,26-35
+CUST01232,Customer_1232,Ahmedabad,Gujarat,West,New,2022-09-19,36-45
+CUST01233,Customer_1233,Delhi,Delhi,North,New,2022-08-17,26-35
+CUST01234,Customer_1234,Surat,Gujarat,West,New,2022-01-29,18-25
+CUST01235,Customer_1235,Lucknow,Uttar Pradesh,North,Regular,2022-08-21,26-35
+CUST01236,Customer_1236,Lucknow,Uttar Pradesh,North,Regular,2022-03-09,26-35
+CUST01237,Customer_1237,Mumbai,Maharashtra,West,Premium,2022-09-20,26-35
+CUST01238,Customer_1238,Bangalore,Karnataka,South,Regular,2022-08-01,55+
+CUST01239,Customer_1239,Bangalore,Karnataka,South,VIP,2022-08-22,36-45
+CUST01240,Customer_1240,Bhopal,Madhya Pradesh,Central,New,2022-10-16,36-45
+CUST01241,Customer_1241,Surat,Gujarat,West,Premium,2022-01-30,26-35
+CUST01242,Customer_1242,Chennai,Tamil Nadu,South,Premium,2022-10-14,26-35
+CUST01243,Customer_1243,Delhi,Delhi,North,Premium,2022-08-25,26-35
+CUST01244,Customer_1244,Hyderabad,Telangana,South,Premium,2022-12-11,36-45
+CUST01245,Customer_1245,Delhi,Delhi,North,Premium,2022-06-07,36-45
+CUST01246,Customer_1246,Jaipur,Rajasthan,North,Regular,2022-01-12,18-25
+CUST01247,Customer_1247,Bhopal,Madhya Pradesh,Central,New,2022-07-22,26-35
+CUST01248,Customer_1248,Pune,Maharashtra,West,New,2022-05-11,26-35
+CUST01249,Customer_1249,Surat,Gujarat,West,VIP,2022-01-02,46-55
+CUST01250,Customer_1250,Surat,Gujarat,West,Regular,2022-04-22,36-45
+CUST01251,Customer_1251,Bhopal,Madhya Pradesh,Central,Premium,2022-10-24,26-35
+CUST01252,Customer_1252,Surat,Gujarat,West,Regular,2022-02-07,18-25
+CUST01253,Customer_1253,Hyderabad,Telangana,South,New,2022-01-24,36-45
+CUST01254,Customer_1254,Bhopal,Madhya Pradesh,Central,New,2022-08-05,18-25
+CUST01255,Customer_1255,Jaipur,Rajasthan,North,Regular,2022-06-26,26-35
+CUST01256,Customer_1256,Pune,Maharashtra,West,Regular,2022-12-25,18-25
+CUST01257,Customer_1257,Ahmedabad,Gujarat,West,New,2022-02-02,36-45
+CUST01258,Customer_1258,Patna,Bihar,East,Regular,2022-10-05,26-35
+CUST01259,Customer_1259,Ahmedabad,Gujarat,West,New,2022-01-31,26-35
+CUST01260,Customer_1260,Chennai,Tamil Nadu,South,Regular,2022-02-05,46-55
+CUST01261,Customer_1261,Nagpur,Maharashtra,West,New,2022-08-30,26-35
+CUST01262,Customer_1262,Surat,Gujarat,West,Premium,2022-01-17,26-35
+CUST01263,Customer_1263,Pune,Maharashtra,West,Regular,2022-05-27,26-35
+CUST01264,Customer_1264,Chennai,Tamil Nadu,South,Regular,2022-07-29,18-25
+CUST01265,Customer_1265,Surat,Gujarat,West,New,2022-04-03,36-45
+CUST01266,Customer_1266,Surat,Gujarat,West,New,2022-03-11,18-25
+CUST01267,Customer_1267,Mumbai,Maharashtra,West,Regular,2022-11-25,26-35
+CUST01268,Customer_1268,Surat,Gujarat,West,Regular,2022-11-27,36-45
+CUST01269,Customer_1269,Indore,Madhya Pradesh,Central,Regular,2022-08-04,36-45
+CUST01270,Customer_1270,Delhi,Delhi,North,New,2022-07-11,36-45
+CUST01271,Customer_1271,Bhopal,Madhya Pradesh,Central,Regular,2022-07-15,26-35
+CUST01272,Customer_1272,Hyderabad,Telangana,South,Premium,2022-08-18,18-25
+CUST01273,Customer_1273,Lucknow,Uttar Pradesh,North,Premium,2022-07-13,36-45
+CUST01274,Customer_1274,Hyderabad,Telangana,South,New,2022-07-12,26-35
+CUST01275,Customer_1275,Chennai,Tamil Nadu,South,Regular,2022-02-11,46-55
+CUST01276,Customer_1276,Lucknow,Uttar Pradesh,North,New,2022-12-16,46-55
+CUST01277,Customer_1277,Delhi,Delhi,North,New,2022-12-05,46-55
+CUST01278,Customer_1278,Bangalore,Karnataka,South,VIP,2022-10-04,26-35
+CUST01279,Customer_1279,Hyderabad,Telangana,South,New,2022-03-10,26-35
+CUST01280,Customer_1280,Bangalore,Karnataka,South,Regular,2022-12-01,36-45
+CUST01281,Customer_1281,Jaipur,Rajasthan,North,Regular,2022-06-28,26-35
+CUST01282,Customer_1282,Delhi,Delhi,North,Premium,2022-03-02,18-25
+CUST01283,Customer_1283,Bangalore,Karnataka,South,Regular,2022-04-02,46-55
+CUST01284,Customer_1284,Mumbai,Maharashtra,West,New,2022-10-03,46-55
+CUST01285,Customer_1285,Pune,Maharashtra,West,Regular,2022-07-21,26-35
+CUST01286,Customer_1286,Ahmedabad,Gujarat,West,Regular,2022-09-28,18-25
+CUST01287,Customer_1287,Indore,Madhya Pradesh,Central,New,2022-03-07,26-35
+CUST01288,Customer_1288,Surat,Gujarat,West,Regular,2022-04-25,46-55
+CUST01289,Customer_1289,Ahmedabad,Gujarat,West,New,2022-01-02,46-55
+CUST01290,Customer_1290,Chennai,Tamil Nadu,South,New,2022-01-12,26-35
+CUST01291,Customer_1291,Mumbai,Maharashtra,West,Regular,2022-06-02,18-25
+CUST01292,Customer_1292,Hyderabad,Telangana,South,New,2022-08-26,46-55
+CUST01293,Customer_1293,Chennai,Tamil Nadu,South,Regular,2022-12-11,26-35
+CUST01294,Customer_1294,Indore,Madhya Pradesh,Central,Regular,2022-10-06,26-35
+CUST01295,Customer_1295,Chennai,Tamil Nadu,South,Premium,2022-08-06,55+
+CUST01296,Customer_1296,Indore,Madhya Pradesh,Central,New,2022-09-30,18-25
+CUST01297,Customer_1297,Nagpur,Maharashtra,West,New,2022-07-14,36-45
+CUST01298,Customer_1298,Ahmedabad,Gujarat,West,New,2022-04-28,18-25
+CUST01299,Customer_1299,Delhi,Delhi,North,Regular,2022-05-07,26-35
+CUST01300,Customer_1300,Lucknow,Uttar Pradesh,North,Premium,2022-08-24,46-55
+CUST01301,Customer_1301,Hyderabad,Telangana,South,New,2022-06-27,26-35
+CUST01302,Customer_1302,Patna,Bihar,East,VIP,2022-03-21,55+
+CUST01303,Customer_1303,Chennai,Tamil Nadu,South,New,2022-05-22,36-45
+CUST01304,Customer_1304,Bhopal,Madhya Pradesh,Central,Regular,2022-04-07,26-35
+CUST01305,Customer_1305,Bhopal,Madhya Pradesh,Central,Premium,2022-02-27,26-35
+CUST01306,Customer_1306,Lucknow,Uttar Pradesh,North,Premium,2022-01-17,26-35
+CUST01307,Customer_1307,Surat,Gujarat,West,Premium,2022-12-05,26-35
+CUST01308,Customer_1308,Lucknow,Uttar Pradesh,North,Premium,2022-08-03,18-25
+CUST01309,Customer_1309,Bhopal,Madhya Pradesh,Central,Regular,2022-11-11,26-35
+CUST01310,Customer_1310,Patna,Bihar,East,Premium,2022-01-09,26-35
+CUST01311,Customer_1311,Hyderabad,Telangana,South,New,2022-05-04,36-45
+CUST01312,Customer_1312,Pune,Maharashtra,West,Premium,2022-04-16,36-45
+CUST01313,Customer_1313,Delhi,Delhi,North,Regular,2022-02-04,36-45
+CUST01314,Customer_1314,Jaipur,Rajasthan,North,Premium,2022-02-21,18-25
+CUST01315,Customer_1315,Hyderabad,Telangana,South,Regular,2022-11-01,26-35
+CUST01316,Customer_1316,Lucknow,Uttar Pradesh,North,Regular,2022-01-18,36-45
+CUST01317,Customer_1317,Bangalore,Karnataka,South,Regular,2022-08-17,26-35
+CUST01318,Customer_1318,Patna,Bihar,East,Premium,2022-11-03,18-25
+CUST01319,Customer_1319,Chennai,Tamil Nadu,South,New,2022-12-11,46-55
+CUST01320,Customer_1320,Nagpur,Maharashtra,West,New,2022-12-27,36-45
+CUST01321,Customer_1321,Bangalore,Karnataka,South,New,2022-01-25,26-35
+CUST01322,Customer_1322,Delhi,Delhi,North,New,2022-05-06,18-25
+CUST01323,Customer_1323,Mumbai,Maharashtra,West,Premium,2022-01-23,36-45
+CUST01324,Customer_1324,Bangalore,Karnataka,South,New,2022-07-25,36-45
+CUST01325,Customer_1325,Bhopal,Madhya Pradesh,Central,VIP,2022-08-13,36-45
+CUST01326,Customer_1326,Chennai,Tamil Nadu,South,Regular,2022-04-30,36-45
+CUST01327,Customer_1327,Surat,Gujarat,West,New,2022-10-04,46-55
+CUST01328,Customer_1328,Indore,Madhya Pradesh,Central,Premium,2022-04-22,26-35
+CUST01329,Customer_1329,Nagpur,Maharashtra,West,Regular,2022-01-29,18-25
+CUST01330,Customer_1330,Surat,Gujarat,West,Regular,2022-03-13,36-45
+CUST01331,Customer_1331,Patna,Bihar,East,Regular,2022-09-15,36-45
+CUST01332,Customer_1332,Chennai,Tamil Nadu,South,Premium,2022-05-29,36-45
+CUST01333,Customer_1333,Ahmedabad,Gujarat,West,New,2022-04-30,18-25
+CUST01334,Customer_1334,Delhi,Delhi,North,VIP,2022-10-22,18-25
+CUST01335,Customer_1335,Ahmedabad,Gujarat,West,VIP,2022-06-13,46-55
+CUST01336,Customer_1336,Indore,Madhya Pradesh,Central,Regular,2022-10-23,36-45
+CUST01337,Customer_1337,Chennai,Tamil Nadu,South,New,2022-11-03,46-55
+CUST01338,Customer_1338,Indore,Madhya Pradesh,Central,Regular,2022-12-11,36-45
+CUST01339,Customer_1339,Pune,Maharashtra,West,New,2022-06-14,36-45
+CUST01340,Customer_1340,Chennai,Tamil Nadu,South,New,2022-05-02,36-45
+CUST01341,Customer_1341,Jaipur,Rajasthan,North,New,2022-06-04,46-55
+CUST01342,Customer_1342,Jaipur,Rajasthan,North,Regular,2022-03-15,36-45
+CUST01343,Customer_1343,Ahmedabad,Gujarat,West,Premium,2022-12-05,36-45
+CUST01344,Customer_1344,Ahmedabad,Gujarat,West,Premium,2022-09-24,18-25
+CUST01345,Customer_1345,Delhi,Delhi,North,Premium,2022-04-24,26-35
+CUST01346,Customer_1346,Surat,Gujarat,West,Regular,2022-07-31,36-45
+CUST01347,Customer_1347,Mumbai,Maharashtra,West,Regular,2022-06-03,26-35
+CUST01348,Customer_1348,Patna,Bihar,East,Regular,2022-05-21,26-35
+CUST01349,Customer_1349,Pune,Maharashtra,West,VIP,2022-02-01,26-35
+CUST01350,Customer_1350,Indore,Madhya Pradesh,Central,New,2022-10-13,26-35
+CUST01351,Customer_1351,Kolkata,West Bengal,East,Premium,2022-10-30,26-35
+CUST01352,Customer_1352,Surat,Gujarat,West,Regular,2022-03-31,26-35
+CUST01353,Customer_1353,Chennai,Tamil Nadu,South,Regular,2022-11-17,46-55
+CUST01354,Customer_1354,Mumbai,Maharashtra,West,Premium,2022-12-14,26-35
+CUST01355,Customer_1355,Delhi,Delhi,North,Regular,2022-08-07,18-25
+CUST01356,Customer_1356,Hyderabad,Telangana,South,Premium,2022-10-12,18-25
+CUST01357,Customer_1357,Lucknow,Uttar Pradesh,North,VIP,2022-09-11,36-45
+CUST01358,Customer_1358,Nagpur,Maharashtra,West,Regular,2022-01-25,26-35
+CUST01359,Customer_1359,Nagpur,Maharashtra,West,New,2022-06-26,46-55
+CUST01360,Customer_1360,Surat,Gujarat,West,Regular,2022-11-26,36-45
+CUST01361,Customer_1361,Surat,Gujarat,West,VIP,2022-12-10,36-45
+CUST01362,Customer_1362,Mumbai,Maharashtra,West,New,2022-07-15,26-35
+CUST01363,Customer_1363,Bhopal,Madhya Pradesh,Central,Regular,2022-09-26,36-45
+CUST01364,Customer_1364,Lucknow,Uttar Pradesh,North,Regular,2022-06-13,26-35
+CUST01365,Customer_1365,Nagpur,Maharashtra,West,Premium,2022-12-23,46-55
+CUST01366,Customer_1366,Chennai,Tamil Nadu,South,New,2022-08-02,36-45
+CUST01367,Customer_1367,Surat,Gujarat,West,Premium,2022-07-29,26-35
+CUST01368,Customer_1368,Mumbai,Maharashtra,West,VIP,2022-03-18,26-35
+CUST01369,Customer_1369,Bhopal,Madhya Pradesh,Central,New,2022-06-03,18-25
+CUST01370,Customer_1370,Bhopal,Madhya Pradesh,Central,New,2022-07-12,36-45
+CUST01371,Customer_1371,Bangalore,Karnataka,South,VIP,2022-04-05,26-35
+CUST01372,Customer_1372,Ahmedabad,Gujarat,West,New,2022-10-03,36-45
+CUST01373,Customer_1373,Jaipur,Rajasthan,North,Premium,2022-08-31,26-35
+CUST01374,Customer_1374,Lucknow,Uttar Pradesh,North,Regular,2022-05-04,36-45
+CUST01375,Customer_1375,Ahmedabad,Gujarat,West,New,2022-04-26,46-55
+CUST01376,Customer_1376,Patna,Bihar,East,Premium,2022-06-03,36-45
+CUST01377,Customer_1377,Chennai,Tamil Nadu,South,Regular,2022-12-29,36-45
+CUST01378,Customer_1378,Bangalore,Karnataka,South,Regular,2022-03-15,18-25
+CUST01379,Customer_1379,Surat,Gujarat,West,Regular,2022-08-26,18-25
+CUST01380,Customer_1380,Pune,Maharashtra,West,Regular,2022-01-30,36-45
+CUST01381,Customer_1381,Lucknow,Uttar Pradesh,North,New,2022-10-15,26-35
+CUST01382,Customer_1382,Nagpur,Maharashtra,West,Regular,2022-07-31,26-35
+CUST01383,Customer_1383,Ahmedabad,Gujarat,West,VIP,2022-08-02,18-25
+CUST01384,Customer_1384,Delhi,Delhi,North,New,2022-10-13,26-35
+CUST01385,Customer_1385,Ahmedabad,Gujarat,West,Regular,2022-09-29,18-25
+CUST01386,Customer_1386,Kolkata,West Bengal,East,Regular,2022-03-10,46-55
+CUST01387,Customer_1387,Pune,Maharashtra,West,Premium,2022-07-18,26-35
+CUST01388,Customer_1388,Kolkata,West Bengal,East,New,2022-05-05,36-45
+CUST01389,Customer_1389,Kolkata,West Bengal,East,VIP,2022-05-11,18-25
+CUST01390,Customer_1390,Lucknow,Uttar Pradesh,North,Regular,2022-04-15,36-45
+CUST01391,Customer_1391,Delhi,Delhi,North,New,2022-06-19,26-35
+CUST01392,Customer_1392,Nagpur,Maharashtra,West,New,2022-11-28,46-55
+CUST01393,Customer_1393,Bangalore,Karnataka,South,New,2022-02-10,46-55
+CUST01394,Customer_1394,Kolkata,West Bengal,East,Regular,2022-08-19,26-35
+CUST01395,Customer_1395,Pune,Maharashtra,West,Regular,2022-07-09,46-55
+CUST01396,Customer_1396,Indore,Madhya Pradesh,Central,Premium,2022-02-17,55+
+CUST01397,Customer_1397,Ahmedabad,Gujarat,West,Regular,2022-10-02,46-55
+CUST01398,Customer_1398,Chennai,Tamil Nadu,South,New,2022-04-08,46-55
+CUST01399,Customer_1399,Lucknow,Uttar Pradesh,North,Regular,2022-01-27,26-35
+CUST01400,Customer_1400,Pune,Maharashtra,West,Premium,2022-05-18,36-45
+CUST01401,Customer_1401,Nagpur,Maharashtra,West,New,2022-07-13,18-25
+CUST01402,Customer_1402,Bhopal,Madhya Pradesh,Central,New,2022-12-11,18-25
+CUST01403,Customer_1403,Jaipur,Rajasthan,North,New,2022-11-06,55+
+CUST01404,Customer_1404,Mumbai,Maharashtra,West,Premium,2022-11-05,26-35
+CUST01405,Customer_1405,Ahmedabad,Gujarat,West,Regular,2022-01-21,36-45
+CUST01406,Customer_1406,Delhi,Delhi,North,Regular,2022-02-07,46-55
+CUST01407,Customer_1407,Kolkata,West Bengal,East,Premium,2022-04-07,46-55
+CUST01408,Customer_1408,Chennai,Tamil Nadu,South,Premium,2022-10-28,55+
+CUST01409,Customer_1409,Kolkata,West Bengal,East,Regular,2022-12-10,26-35
+CUST01410,Customer_1410,Delhi,Delhi,North,Premium,2022-10-14,18-25
+CUST01411,Customer_1411,Bhopal,Madhya Pradesh,Central,New,2022-04-22,26-35
+CUST01412,Customer_1412,Pune,Maharashtra,West,New,2022-09-03,18-25
+CUST01413,Customer_1413,Nagpur,Maharashtra,West,New,2022-04-17,18-25
+CUST01414,Customer_1414,Jaipur,Rajasthan,North,New,2022-06-20,26-35
+CUST01415,Customer_1415,Nagpur,Maharashtra,West,Regular,2022-06-05,36-45
+CUST01416,Customer_1416,Mumbai,Maharashtra,West,VIP,2022-01-08,36-45
+CUST01417,Customer_1417,Lucknow,Uttar Pradesh,North,New,2022-04-19,26-35
+CUST01418,Customer_1418,Nagpur,Maharashtra,West,New,2022-04-08,36-45
+CUST01419,Customer_1419,Jaipur,Rajasthan,North,Regular,2022-03-02,26-35
+CUST01420,Customer_1420,Ahmedabad,Gujarat,West,VIP,2022-09-03,18-25
+CUST01421,Customer_1421,Pune,Maharashtra,West,Regular,2022-05-05,36-45
+CUST01422,Customer_1422,Mumbai,Maharashtra,West,Regular,2022-12-23,36-45
+CUST01423,Customer_1423,Hyderabad,Telangana,South,New,2022-11-06,36-45
+CUST01424,Customer_1424,Jaipur,Rajasthan,North,New,2022-12-27,18-25
+CUST01425,Customer_1425,Kolkata,West Bengal,East,VIP,2022-04-15,46-55
+CUST01426,Customer_1426,Surat,Gujarat,West,VIP,2022-07-23,36-45
+CUST01427,Customer_1427,Bhopal,Madhya Pradesh,Central,New,2022-05-03,36-45
+CUST01428,Customer_1428,Ahmedabad,Gujarat,West,VIP,2022-10-10,36-45
+CUST01429,Customer_1429,Lucknow,Uttar Pradesh,North,Regular,2022-06-14,46-55
+CUST01430,Customer_1430,Ahmedabad,Gujarat,West,Premium,2022-05-25,36-45
+CUST01431,Customer_1431,Bhopal,Madhya Pradesh,Central,Regular,2022-07-14,36-45
+CUST01432,Customer_1432,Mumbai,Maharashtra,West,Regular,2022-08-27,55+
+CUST01433,Customer_1433,Hyderabad,Telangana,South,Regular,2022-10-01,36-45
+CUST01434,Customer_1434,Chennai,Tamil Nadu,South,Regular,2022-11-29,26-35
+CUST01435,Customer_1435,Jaipur,Rajasthan,North,New,2022-07-03,36-45
+CUST01436,Customer_1436,Bangalore,Karnataka,South,New,2022-06-07,26-35
+CUST01437,Customer_1437,Patna,Bihar,East,Regular,2022-05-14,26-35
+CUST01438,Customer_1438,Chennai,Tamil Nadu,South,Premium,2022-07-04,36-45
+CUST01439,Customer_1439,Ahmedabad,Gujarat,West,New,2022-09-20,46-55
+CUST01440,Customer_1440,Patna,Bihar,East,Regular,2022-09-12,46-55
+CUST01441,Customer_1441,Indore,Madhya Pradesh,Central,VIP,2022-08-27,26-35
+CUST01442,Customer_1442,Ahmedabad,Gujarat,West,New,2022-02-20,26-35
+CUST01443,Customer_1443,Delhi,Delhi,North,Regular,2022-08-29,26-35
+CUST01444,Customer_1444,Mumbai,Maharashtra,West,Regular,2022-06-13,55+
+CUST01445,Customer_1445,Lucknow,Uttar Pradesh,North,Premium,2022-04-15,55+
+CUST01446,Customer_1446,Surat,Gujarat,West,New,2022-07-09,36-45
+CUST01447,Customer_1447,Bhopal,Madhya Pradesh,Central,Regular,2022-06-10,46-55
+CUST01448,Customer_1448,Hyderabad,Telangana,South,Premium,2022-07-31,36-45
+CUST01449,Customer_1449,Indore,Madhya Pradesh,Central,VIP,2022-01-24,36-45
+CUST01450,Customer_1450,Bangalore,Karnataka,South,Regular,2022-10-16,18-25
+CUST01451,Customer_1451,Chennai,Tamil Nadu,South,Regular,2022-04-24,26-35
+CUST01452,Customer_1452,Jaipur,Rajasthan,North,Regular,2022-03-16,36-45
+CUST01453,Customer_1453,Mumbai,Maharashtra,West,Premium,2022-01-09,36-45
+CUST01454,Customer_1454,Jaipur,Rajasthan,North,Regular,2022-05-14,26-35
+CUST01455,Customer_1455,Pune,Maharashtra,West,New,2022-10-11,46-55
+CUST01456,Customer_1456,Delhi,Delhi,North,VIP,2022-10-27,18-25
+CUST01457,Customer_1457,Hyderabad,Telangana,South,Regular,2022-10-24,26-35
+CUST01458,Customer_1458,Nagpur,Maharashtra,West,Regular,2022-08-02,36-45
+CUST01459,Customer_1459,Patna,Bihar,East,New,2022-06-01,36-45
+CUST01460,Customer_1460,Delhi,Delhi,North,Regular,2022-03-20,36-45
+CUST01461,Customer_1461,Ahmedabad,Gujarat,West,Regular,2022-04-11,26-35
+CUST01462,Customer_1462,Delhi,Delhi,North,Regular,2022-06-18,18-25
+CUST01463,Customer_1463,Lucknow,Uttar Pradesh,North,New,2022-04-28,36-45
+CUST01464,Customer_1464,Nagpur,Maharashtra,West,Regular,2022-07-14,36-45
+CUST01465,Customer_1465,Bangalore,Karnataka,South,VIP,2022-10-19,18-25
+CUST01466,Customer_1466,Ahmedabad,Gujarat,West,New,2022-05-06,36-45
+CUST01467,Customer_1467,Patna,Bihar,East,VIP,2022-09-13,26-35
+CUST01468,Customer_1468,Indore,Madhya Pradesh,Central,Regular,2022-10-09,36-45
+CUST01469,Customer_1469,Chennai,Tamil Nadu,South,Premium,2022-12-02,46-55
+CUST01470,Customer_1470,Jaipur,Rajasthan,North,Premium,2022-12-17,18-25
+CUST01471,Customer_1471,Indore,Madhya Pradesh,Central,Regular,2022-06-22,18-25
+CUST01472,Customer_1472,Chennai,Tamil Nadu,South,Premium,2022-05-12,36-45
+CUST01473,Customer_1473,Pune,Maharashtra,West,Premium,2022-09-08,36-45
+CUST01474,Customer_1474,Nagpur,Maharashtra,West,Regular,2022-11-25,36-45
+CUST01475,Customer_1475,Ahmedabad,Gujarat,West,Regular,2022-09-09,46-55
+CUST01476,Customer_1476,Ahmedabad,Gujarat,West,Regular,2022-08-24,46-55
+CUST01477,Customer_1477,Hyderabad,Telangana,South,Premium,2022-03-28,55+
+CUST01478,Customer_1478,Ahmedabad,Gujarat,West,Premium,2022-06-30,26-35
+CUST01479,Customer_1479,Jaipur,Rajasthan,North,Premium,2022-03-28,26-35
+CUST01480,Customer_1480,Bangalore,Karnataka,South,Regular,2022-03-13,26-35
+CUST01481,Customer_1481,Pune,Maharashtra,West,Premium,2022-10-07,18-25
+CUST01482,Customer_1482,Hyderabad,Telangana,South,New,2022-09-08,36-45
+CUST01483,Customer_1483,Patna,Bihar,East,Regular,2022-04-05,26-35
+CUST01484,Customer_1484,Surat,Gujarat,West,New,2022-10-05,46-55
+CUST01485,Customer_1485,Jaipur,Rajasthan,North,Regular,2022-11-25,36-45
+CUST01486,Customer_1486,Indore,Madhya Pradesh,Central,Regular,2022-01-31,36-45
+CUST01487,Customer_1487,Patna,Bihar,East,Regular,2022-09-26,26-35
+CUST01488,Customer_1488,Bangalore,Karnataka,South,Regular,2022-01-18,18-25
+CUST01489,Customer_1489,Nagpur,Maharashtra,West,Regular,2022-02-08,18-25
+CUST01490,Customer_1490,Delhi,Delhi,North,Regular,2022-12-09,26-35
+CUST01491,Customer_1491,Chennai,Tamil Nadu,South,New,2022-01-25,18-25
+CUST01492,Customer_1492,Bhopal,Madhya Pradesh,Central,Regular,2022-01-04,36-45
+CUST01493,Customer_1493,Bhopal,Madhya Pradesh,Central,New,2022-07-31,46-55
+CUST01494,Customer_1494,Nagpur,Maharashtra,West,New,2022-03-12,46-55
+CUST01495,Customer_1495,Pune,Maharashtra,West,Regular,2022-11-19,36-45
+CUST01496,Customer_1496,Kolkata,West Bengal,East,Regular,2022-04-29,26-35
+CUST01497,Customer_1497,Patna,Bihar,East,Regular,2022-02-04,46-55
+CUST01498,Customer_1498,Bhopal,Madhya Pradesh,Central,Regular,2022-12-29,46-55
+CUST01499,Customer_1499,Jaipur,Rajasthan,North,Regular,2022-03-19,18-25
+CUST01500,Customer_1500,Chennai,Tamil Nadu,South,Premium,2022-01-05,36-45
+CUST01501,Customer_1501,Nagpur,Maharashtra,West,Regular,2022-04-22,26-35
+CUST01502,Customer_1502,Mumbai,Maharashtra,West,Regular,2022-09-16,46-55
+CUST01503,Customer_1503,Chennai,Tamil Nadu,South,New,2022-08-22,55+
+CUST01504,Customer_1504,Indore,Madhya Pradesh,Central,Regular,2022-07-11,18-25
+CUST01505,Customer_1505,Chennai,Tamil Nadu,South,Regular,2022-01-31,46-55
+CUST01506,Customer_1506,Nagpur,Maharashtra,West,Regular,2022-11-13,36-45
+CUST01507,Customer_1507,Surat,Gujarat,West,Regular,2022-11-23,55+
+CUST01508,Customer_1508,Surat,Gujarat,West,Regular,2022-12-08,26-35
+CUST01509,Customer_1509,Lucknow,Uttar Pradesh,North,Regular,2022-11-12,46-55
+CUST01510,Customer_1510,Ahmedabad,Gujarat,West,Premium,2022-09-05,18-25
+CUST01511,Customer_1511,Nagpur,Maharashtra,West,Premium,2022-12-04,26-35
+CUST01512,Customer_1512,Bangalore,Karnataka,South,Premium,2022-09-07,18-25
+CUST01513,Customer_1513,Ahmedabad,Gujarat,West,VIP,2022-01-09,55+
+CUST01514,Customer_1514,Jaipur,Rajasthan,North,New,2022-01-04,46-55
+CUST01515,Customer_1515,Ahmedabad,Gujarat,West,New,2022-09-30,46-55
+CUST01516,Customer_1516,Kolkata,West Bengal,East,New,2022-10-10,46-55
+CUST01517,Customer_1517,Kolkata,West Bengal,East,Regular,2022-07-30,18-25
+CUST01518,Customer_1518,Jaipur,Rajasthan,North,Premium,2022-01-07,26-35
+CUST01519,Customer_1519,Bhopal,Madhya Pradesh,Central,New,2022-01-09,18-25
+CUST01520,Customer_1520,Jaipur,Rajasthan,North,VIP,2022-09-29,26-35
+CUST01521,Customer_1521,Pune,Maharashtra,West,New,2022-05-21,26-35
+CUST01522,Customer_1522,Ahmedabad,Gujarat,West,VIP,2022-10-02,26-35
+CUST01523,Customer_1523,Patna,Bihar,East,Regular,2022-05-27,26-35
+CUST01524,Customer_1524,Kolkata,West Bengal,East,New,2022-01-09,18-25
+CUST01525,Customer_1525,Nagpur,Maharashtra,West,Regular,2022-09-15,18-25
+CUST01526,Customer_1526,Hyderabad,Telangana,South,New,2022-12-24,18-25
+CUST01527,Customer_1527,Indore,Madhya Pradesh,Central,New,2022-12-12,55+
+CUST01528,Customer_1528,Hyderabad,Telangana,South,Regular,2022-08-09,36-45
+CUST01529,Customer_1529,Surat,Gujarat,West,Premium,2022-04-02,55+
+CUST01530,Customer_1530,Pune,Maharashtra,West,Regular,2022-02-24,26-35
+CUST01531,Customer_1531,Hyderabad,Telangana,South,Regular,2022-02-19,26-35
+CUST01532,Customer_1532,Nagpur,Maharashtra,West,Regular,2022-09-26,36-45
+CUST01533,Customer_1533,Bhopal,Madhya Pradesh,Central,Premium,2022-03-18,26-35
+CUST01534,Customer_1534,Pune,Maharashtra,West,New,2022-05-04,26-35
+CUST01535,Customer_1535,Mumbai,Maharashtra,West,Regular,2022-04-09,26-35
+CUST01536,Customer_1536,Kolkata,West Bengal,East,New,2022-11-14,18-25
+CUST01537,Customer_1537,Indore,Madhya Pradesh,Central,New,2022-09-27,26-35
+CUST01538,Customer_1538,Ahmedabad,Gujarat,West,Regular,2022-05-10,26-35
+CUST01539,Customer_1539,Indore,Madhya Pradesh,Central,New,2022-07-01,36-45
+CUST01540,Customer_1540,Patna,Bihar,East,Regular,2022-05-17,18-25
+CUST01541,Customer_1541,Bhopal,Madhya Pradesh,Central,Premium,2022-07-23,26-35
+CUST01542,Customer_1542,Pune,Maharashtra,West,New,2022-02-10,46-55
+CUST01543,Customer_1543,Pune,Maharashtra,West,Regular,2022-07-11,18-25
+CUST01544,Customer_1544,Lucknow,Uttar Pradesh,North,New,2022-07-27,26-35
+CUST01545,Customer_1545,Bhopal,Madhya Pradesh,Central,VIP,2022-08-24,46-55
+CUST01546,Customer_1546,Nagpur,Maharashtra,West,Regular,2022-10-17,18-25
+CUST01547,Customer_1547,Lucknow,Uttar Pradesh,North,Premium,2022-05-05,18-25
+CUST01548,Customer_1548,Bangalore,Karnataka,South,Regular,2022-12-23,26-35
+CUST01549,Customer_1549,Ahmedabad,Gujarat,West,New,2022-04-26,26-35
+CUST01550,Customer_1550,Mumbai,Maharashtra,West,Regular,2022-06-03,36-45
+CUST01551,Customer_1551,Bangalore,Karnataka,South,VIP,2022-12-17,46-55
+CUST01552,Customer_1552,Jaipur,Rajasthan,North,Regular,2022-02-11,18-25
+CUST01553,Customer_1553,Surat,Gujarat,West,Premium,2022-12-01,36-45
+CUST01554,Customer_1554,Kolkata,West Bengal,East,Premium,2022-11-29,26-35
+CUST01555,Customer_1555,Nagpur,Maharashtra,West,New,2022-01-17,18-25
+CUST01556,Customer_1556,Delhi,Delhi,North,New,2022-02-17,36-45
+CUST01557,Customer_1557,Nagpur,Maharashtra,West,Regular,2022-07-27,26-35
+CUST01558,Customer_1558,Nagpur,Maharashtra,West,Regular,2022-07-14,26-35
+CUST01559,Customer_1559,Ahmedabad,Gujarat,West,Premium,2022-07-13,18-25
+CUST01560,Customer_1560,Delhi,Delhi,North,VIP,2022-10-10,26-35
+CUST01561,Customer_1561,Jaipur,Rajasthan,North,Regular,2022-09-01,26-35
+CUST01562,Customer_1562,Patna,Bihar,East,New,2022-01-29,46-55
+CUST01563,Customer_1563,Ahmedabad,Gujarat,West,Premium,2022-11-23,18-25
+CUST01564,Customer_1564,Mumbai,Maharashtra,West,New,2022-01-05,26-35
+CUST01565,Customer_1565,Indore,Madhya Pradesh,Central,Premium,2022-12-26,26-35
+CUST01566,Customer_1566,Bangalore,Karnataka,South,Regular,2022-03-29,36-45
+CUST01567,Customer_1567,Pune,Maharashtra,West,Regular,2022-02-12,36-45
+CUST01568,Customer_1568,Nagpur,Maharashtra,West,New,2022-09-13,36-45
+CUST01569,Customer_1569,Lucknow,Uttar Pradesh,North,Regular,2022-08-11,36-45
+CUST01570,Customer_1570,Bangalore,Karnataka,South,Regular,2022-11-27,46-55
+CUST01571,Customer_1571,Delhi,Delhi,North,Regular,2022-06-19,26-35
+CUST01572,Customer_1572,Ahmedabad,Gujarat,West,New,2022-10-17,26-35
+CUST01573,Customer_1573,Bhopal,Madhya Pradesh,Central,Premium,2022-02-18,46-55
+CUST01574,Customer_1574,Chennai,Tamil Nadu,South,Premium,2022-09-28,55+
+CUST01575,Customer_1575,Kolkata,West Bengal,East,New,2022-01-22,46-55
+CUST01576,Customer_1576,Surat,Gujarat,West,New,2022-04-28,26-35
+CUST01577,Customer_1577,Indore,Madhya Pradesh,Central,New,2022-04-19,18-25
+CUST01578,Customer_1578,Pune,Maharashtra,West,Regular,2022-12-21,26-35
+CUST01579,Customer_1579,Lucknow,Uttar Pradesh,North,Regular,2022-10-18,36-45
+CUST01580,Customer_1580,Delhi,Delhi,North,Regular,2022-09-01,26-35
+CUST01581,Customer_1581,Nagpur,Maharashtra,West,New,2022-05-19,26-35
+CUST01582,Customer_1582,Kolkata,West Bengal,East,Regular,2022-01-24,46-55
+CUST01583,Customer_1583,Nagpur,Maharashtra,West,Regular,2022-02-08,26-35
+CUST01584,Customer_1584,Lucknow,Uttar Pradesh,North,Regular,2022-12-17,46-55
+CUST01585,Customer_1585,Nagpur,Maharashtra,West,VIP,2022-05-24,26-35
+CUST01586,Customer_1586,Jaipur,Rajasthan,North,New,2022-10-06,26-35
+CUST01587,Customer_1587,Pune,Maharashtra,West,Regular,2022-10-16,26-35
+CUST01588,Customer_1588,Kolkata,West Bengal,East,Regular,2022-12-03,36-45
+CUST01589,Customer_1589,Lucknow,Uttar Pradesh,North,Regular,2022-01-17,18-25
+CUST01590,Customer_1590,Indore,Madhya Pradesh,Central,Premium,2022-04-02,18-25
+CUST01591,Customer_1591,Patna,Bihar,East,Regular,2022-06-11,55+
+CUST01592,Customer_1592,Bhopal,Madhya Pradesh,Central,VIP,2022-01-09,18-25
+CUST01593,Customer_1593,Ahmedabad,Gujarat,West,New,2022-04-17,36-45
+CUST01594,Customer_1594,Nagpur,Maharashtra,West,New,2022-10-28,36-45
+CUST01595,Customer_1595,Jaipur,Rajasthan,North,Premium,2022-03-15,26-35
+CUST01596,Customer_1596,Mumbai,Maharashtra,West,Regular,2022-12-31,36-45
+CUST01597,Customer_1597,Surat,Gujarat,West,New,2022-07-23,26-35
+CUST01598,Customer_1598,Delhi,Delhi,North,New,2022-02-09,36-45
+CUST01599,Customer_1599,Hyderabad,Telangana,South,New,2022-06-03,26-35
+CUST01600,Customer_1600,Lucknow,Uttar Pradesh,North,Premium,2022-03-25,36-45
+CUST01601,Customer_1601,Lucknow,Uttar Pradesh,North,New,2022-10-16,18-25
+CUST01602,Customer_1602,Patna,Bihar,East,Regular,2022-05-04,36-45
+CUST01603,Customer_1603,Chennai,Tamil Nadu,South,New,2022-10-18,18-25
+CUST01604,Customer_1604,Hyderabad,Telangana,South,Regular,2022-07-19,26-35
+CUST01605,Customer_1605,Indore,Madhya Pradesh,Central,New,2022-12-13,26-35
+CUST01606,Customer_1606,Delhi,Delhi,North,Regular,2022-10-04,18-25
+CUST01607,Customer_1607,Pune,Maharashtra,West,New,2022-06-19,46-55
+CUST01608,Customer_1608,Delhi,Delhi,North,Premium,2022-07-16,26-35
+CUST01609,Customer_1609,Bhopal,Madhya Pradesh,Central,New,2022-03-13,46-55
+CUST01610,Customer_1610,Lucknow,Uttar Pradesh,North,Regular,2022-12-19,55+
+CUST01611,Customer_1611,Indore,Madhya Pradesh,Central,Premium,2022-02-10,36-45
+CUST01612,Customer_1612,Nagpur,Maharashtra,West,Regular,2022-09-14,18-25
+CUST01613,Customer_1613,Delhi,Delhi,North,Regular,2022-06-27,26-35
+CUST01614,Customer_1614,Ahmedabad,Gujarat,West,Regular,2022-01-28,36-45
+CUST01615,Customer_1615,Bangalore,Karnataka,South,Regular,2022-02-20,26-35
+CUST01616,Customer_1616,Indore,Madhya Pradesh,Central,Regular,2022-08-12,18-25
+CUST01617,Customer_1617,Chennai,Tamil Nadu,South,VIP,2022-04-29,36-45
+CUST01618,Customer_1618,Patna,Bihar,East,Regular,2022-02-08,46-55
+CUST01619,Customer_1619,Mumbai,Maharashtra,West,Regular,2022-06-24,36-45
+CUST01620,Customer_1620,Mumbai,Maharashtra,West,Premium,2022-11-06,18-25
+CUST01621,Customer_1621,Kolkata,West Bengal,East,Regular,2022-11-11,36-45
+CUST01622,Customer_1622,Bhopal,Madhya Pradesh,Central,New,2022-11-01,26-35
+CUST01623,Customer_1623,Mumbai,Maharashtra,West,Regular,2022-07-23,26-35
+CUST01624,Customer_1624,Chennai,Tamil Nadu,South,VIP,2022-06-17,46-55
+CUST01625,Customer_1625,Kolkata,West Bengal,East,New,2022-01-16,26-35
+CUST01626,Customer_1626,Kolkata,West Bengal,East,Regular,2022-11-21,26-35
+CUST01627,Customer_1627,Pune,Maharashtra,West,New,2022-05-20,18-25
+CUST01628,Customer_1628,Bangalore,Karnataka,South,Regular,2022-08-19,46-55
+CUST01629,Customer_1629,Hyderabad,Telangana,South,New,2022-09-09,36-45
+CUST01630,Customer_1630,Jaipur,Rajasthan,North,Regular,2022-04-27,36-45
+CUST01631,Customer_1631,Pune,Maharashtra,West,Premium,2022-07-02,36-45
+CUST01632,Customer_1632,Surat,Gujarat,West,Regular,2022-10-11,18-25
+CUST01633,Customer_1633,Lucknow,Uttar Pradesh,North,Regular,2022-07-12,26-35
+CUST01634,Customer_1634,Bhopal,Madhya Pradesh,Central,Premium,2022-08-10,26-35
+CUST01635,Customer_1635,Bangalore,Karnataka,South,VIP,2022-04-06,18-25
+CUST01636,Customer_1636,Bangalore,Karnataka,South,New,2022-12-15,26-35
+CUST01637,Customer_1637,Bangalore,Karnataka,South,Regular,2022-10-27,46-55
+CUST01638,Customer_1638,Delhi,Delhi,North,New,2022-12-05,18-25
+CUST01639,Customer_1639,Surat,Gujarat,West,VIP,2022-07-14,26-35
+CUST01640,Customer_1640,Nagpur,Maharashtra,West,VIP,2022-02-13,26-35
+CUST01641,Customer_1641,Pune,Maharashtra,West,Regular,2022-11-13,26-35
+CUST01642,Customer_1642,Surat,Gujarat,West,Premium,2022-06-01,46-55
+CUST01643,Customer_1643,Lucknow,Uttar Pradesh,North,Regular,2022-05-07,26-35
+CUST01644,Customer_1644,Hyderabad,Telangana,South,Regular,2023-01-01,26-35
+CUST01645,Customer_1645,Ahmedabad,Gujarat,West,New,2022-02-07,36-45
+CUST01646,Customer_1646,Patna,Bihar,East,Premium,2022-02-12,18-25
+CUST01647,Customer_1647,Surat,Gujarat,West,New,2022-05-18,26-35
+CUST01648,Customer_1648,Bangalore,Karnataka,South,Premium,2022-03-20,26-35
+CUST01649,Customer_1649,Hyderabad,Telangana,South,Premium,2022-07-14,36-45
+CUST01650,Customer_1650,Ahmedabad,Gujarat,West,Premium,2022-12-31,55+
+CUST01651,Customer_1651,Lucknow,Uttar Pradesh,North,New,2022-11-21,36-45
+CUST01652,Customer_1652,Chennai,Tamil Nadu,South,Regular,2022-03-20,26-35
+CUST01653,Customer_1653,Ahmedabad,Gujarat,West,New,2022-07-19,46-55
+CUST01654,Customer_1654,Chennai,Tamil Nadu,South,Regular,2022-06-12,18-25
+CUST01655,Customer_1655,Lucknow,Uttar Pradesh,North,New,2022-07-04,18-25
+CUST01656,Customer_1656,Mumbai,Maharashtra,West,VIP,2022-02-24,26-35
+CUST01657,Customer_1657,Patna,Bihar,East,Regular,2022-02-16,26-35
+CUST01658,Customer_1658,Bhopal,Madhya Pradesh,Central,Regular,2022-01-03,26-35
+CUST01659,Customer_1659,Ahmedabad,Gujarat,West,Regular,2022-06-07,36-45
+CUST01660,Customer_1660,Patna,Bihar,East,Regular,2022-08-16,46-55
+CUST01661,Customer_1661,Chennai,Tamil Nadu,South,Regular,2022-07-04,26-35
+CUST01662,Customer_1662,Lucknow,Uttar Pradesh,North,Regular,2022-05-19,26-35
+CUST01663,Customer_1663,Jaipur,Rajasthan,North,VIP,2022-02-22,18-25
+CUST01664,Customer_1664,Bangalore,Karnataka,South,Regular,2022-03-09,18-25
+CUST01665,Customer_1665,Delhi,Delhi,North,VIP,2022-02-14,36-45
+CUST01666,Customer_1666,Ahmedabad,Gujarat,West,Premium,2022-04-06,26-35
+CUST01667,Customer_1667,Kolkata,West Bengal,East,New,2022-08-09,46-55
+CUST01668,Customer_1668,Surat,Gujarat,West,VIP,2022-08-18,18-25
+CUST01669,Customer_1669,Chennai,Tamil Nadu,South,New,2022-10-13,18-25
+CUST01670,Customer_1670,Lucknow,Uttar Pradesh,North,Premium,2022-10-12,26-35
+CUST01671,Customer_1671,Pune,Maharashtra,West,Regular,2022-09-20,26-35
+CUST01672,Customer_1672,Indore,Madhya Pradesh,Central,Premium,2022-07-28,18-25
+CUST01673,Customer_1673,Chennai,Tamil Nadu,South,Premium,2022-02-22,36-45
+CUST01674,Customer_1674,Ahmedabad,Gujarat,West,Premium,2022-01-14,18-25
+CUST01675,Customer_1675,Nagpur,Maharashtra,West,Premium,2022-02-15,36-45
+CUST01676,Customer_1676,Chennai,Tamil Nadu,South,Regular,2022-07-01,26-35
+CUST01677,Customer_1677,Hyderabad,Telangana,South,New,2022-10-11,18-25
+CUST01678,Customer_1678,Pune,Maharashtra,West,Regular,2022-02-17,26-35
+CUST01679,Customer_1679,Nagpur,Maharashtra,West,New,2022-11-02,46-55
+CUST01680,Customer_1680,Ahmedabad,Gujarat,West,Regular,2022-11-03,26-35
+CUST01681,Customer_1681,Delhi,Delhi,North,Regular,2022-06-16,36-45
+CUST01682,Customer_1682,Hyderabad,Telangana,South,VIP,2022-07-17,18-25
+CUST01683,Customer_1683,Pune,Maharashtra,West,Regular,2022-01-07,36-45
+CUST01684,Customer_1684,Surat,Gujarat,West,Premium,2022-05-30,26-35
+CUST01685,Customer_1685,Kolkata,West Bengal,East,New,2022-07-31,36-45
+CUST01686,Customer_1686,Surat,Gujarat,West,Premium,2022-07-18,36-45
+CUST01687,Customer_1687,Chennai,Tamil Nadu,South,VIP,2022-02-13,46-55
+CUST01688,Customer_1688,Indore,Madhya Pradesh,Central,Regular,2022-10-14,26-35
+CUST01689,Customer_1689,Chennai,Tamil Nadu,South,Regular,2022-05-05,18-25
+CUST01690,Customer_1690,Mumbai,Maharashtra,West,Premium,2022-10-20,18-25
+CUST01691,Customer_1691,Nagpur,Maharashtra,West,New,2022-09-24,46-55
+CUST01692,Customer_1692,Lucknow,Uttar Pradesh,North,Regular,2022-03-28,26-35
+CUST01693,Customer_1693,Pune,Maharashtra,West,Regular,2022-12-17,36-45
+CUST01694,Customer_1694,Chennai,Tamil Nadu,South,New,2022-07-14,26-35
+CUST01695,Customer_1695,Mumbai,Maharashtra,West,Regular,2022-03-28,26-35
+CUST01696,Customer_1696,Surat,Gujarat,West,New,2022-03-13,18-25
+CUST01697,Customer_1697,Nagpur,Maharashtra,West,New,2022-05-18,55+
+CUST01698,Customer_1698,Lucknow,Uttar Pradesh,North,New,2022-06-04,36-45
+CUST01699,Customer_1699,Bhopal,Madhya Pradesh,Central,VIP,2022-05-18,46-55
+CUST01700,Customer_1700,Indore,Madhya Pradesh,Central,Regular,2022-09-10,26-35
+CUST01701,Customer_1701,Mumbai,Maharashtra,West,VIP,2022-03-16,36-45
+CUST01702,Customer_1702,Patna,Bihar,East,Regular,2022-02-02,36-45
+CUST01703,Customer_1703,Surat,Gujarat,West,Regular,2022-03-27,26-35
+CUST01704,Customer_1704,Indore,Madhya Pradesh,Central,Regular,2022-08-11,46-55
+CUST01705,Customer_1705,Ahmedabad,Gujarat,West,Regular,2022-05-22,46-55
+CUST01706,Customer_1706,Nagpur,Maharashtra,West,New,2022-08-04,46-55
+CUST01707,Customer_1707,Patna,Bihar,East,Regular,2022-06-03,36-45
+CUST01708,Customer_1708,Patna,Bihar,East,New,2022-09-05,26-35
+CUST01709,Customer_1709,Chennai,Tamil Nadu,South,Regular,2022-02-09,26-35
+CUST01710,Customer_1710,Bhopal,Madhya Pradesh,Central,Regular,2022-07-04,55+
+CUST01711,Customer_1711,Bhopal,Madhya Pradesh,Central,New,2022-05-09,18-25
+CUST01712,Customer_1712,Hyderabad,Telangana,South,New,2022-05-07,36-45
+CUST01713,Customer_1713,Surat,Gujarat,West,Premium,2022-11-17,36-45
+CUST01714,Customer_1714,Bhopal,Madhya Pradesh,Central,Regular,2022-09-11,36-45
+CUST01715,Customer_1715,Kolkata,West Bengal,East,New,2022-11-01,55+
+CUST01716,Customer_1716,Hyderabad,Telangana,South,VIP,2022-11-12,26-35
+CUST01717,Customer_1717,Lucknow,Uttar Pradesh,North,New,2022-04-11,26-35
+CUST01718,Customer_1718,Hyderabad,Telangana,South,Regular,2022-08-23,18-25
+CUST01719,Customer_1719,Surat,Gujarat,West,VIP,2022-02-24,26-35
+CUST01720,Customer_1720,Chennai,Tamil Nadu,South,New,2022-03-11,26-35
+CUST01721,Customer_1721,Lucknow,Uttar Pradesh,North,New,2022-06-05,26-35
+CUST01722,Customer_1722,Bhopal,Madhya Pradesh,Central,New,2022-01-04,46-55
+CUST01723,Customer_1723,Indore,Madhya Pradesh,Central,Regular,2022-07-22,46-55
+CUST01724,Customer_1724,Bhopal,Madhya Pradesh,Central,New,2022-06-20,18-25
+CUST01725,Customer_1725,Lucknow,Uttar Pradesh,North,Regular,2022-11-14,26-35
+CUST01726,Customer_1726,Lucknow,Uttar Pradesh,North,New,2022-07-14,46-55
+CUST01727,Customer_1727,Nagpur,Maharashtra,West,Regular,2022-06-18,18-25
+CUST01728,Customer_1728,Bangalore,Karnataka,South,VIP,2022-08-14,18-25
+CUST01729,Customer_1729,Lucknow,Uttar Pradesh,North,Premium,2022-06-21,18-25
+CUST01730,Customer_1730,Delhi,Delhi,North,Regular,2022-08-09,36-45
+CUST01731,Customer_1731,Patna,Bihar,East,Regular,2022-11-30,18-25
+CUST01732,Customer_1732,Lucknow,Uttar Pradesh,North,Regular,2022-11-01,55+
+CUST01733,Customer_1733,Lucknow,Uttar Pradesh,North,Regular,2022-03-11,26-35
+CUST01734,Customer_1734,Mumbai,Maharashtra,West,Regular,2022-06-03,26-35
+CUST01735,Customer_1735,Chennai,Tamil Nadu,South,New,2022-06-14,26-35
+CUST01736,Customer_1736,Bhopal,Madhya Pradesh,Central,Premium,2022-11-05,26-35
+CUST01737,Customer_1737,Ahmedabad,Gujarat,West,Regular,2022-12-22,36-45
+CUST01738,Customer_1738,Mumbai,Maharashtra,West,New,2022-04-13,36-45
+CUST01739,Customer_1739,Surat,Gujarat,West,Regular,2022-09-03,36-45
+CUST01740,Customer_1740,Kolkata,West Bengal,East,Regular,2022-06-10,36-45
+CUST01741,Customer_1741,Indore,Madhya Pradesh,Central,Premium,2022-04-01,46-55
+CUST01742,Customer_1742,Bangalore,Karnataka,South,Premium,2022-07-23,46-55
+CUST01743,Customer_1743,Delhi,Delhi,North,Premium,2022-06-13,36-45
+CUST01744,Customer_1744,Patna,Bihar,East,New,2022-05-30,18-25
+CUST01745,Customer_1745,Chennai,Tamil Nadu,South,Regular,2022-12-22,18-25
+CUST01746,Customer_1746,Kolkata,West Bengal,East,Regular,2022-11-21,26-35
+CUST01747,Customer_1747,Indore,Madhya Pradesh,Central,New,2022-09-09,36-45
+CUST01748,Customer_1748,Pune,Maharashtra,West,New,2022-10-22,26-35
+CUST01749,Customer_1749,Bangalore,Karnataka,South,Premium,2022-05-05,26-35
+CUST01750,Customer_1750,Hyderabad,Telangana,South,New,2022-06-16,46-55
+CUST01751,Customer_1751,Bangalore,Karnataka,South,Regular,2022-07-12,46-55
+CUST01752,Customer_1752,Bhopal,Madhya Pradesh,Central,New,2022-05-24,46-55
+CUST01753,Customer_1753,Jaipur,Rajasthan,North,New,2022-07-21,26-35
+CUST01754,Customer_1754,Patna,Bihar,East,New,2022-07-06,36-45
+CUST01755,Customer_1755,Kolkata,West Bengal,East,VIP,2022-02-28,26-35
+CUST01756,Customer_1756,Jaipur,Rajasthan,North,Premium,2022-10-16,18-25
+CUST01757,Customer_1757,Jaipur,Rajasthan,North,VIP,2022-04-13,18-25
+CUST01758,Customer_1758,Patna,Bihar,East,Regular,2022-10-31,26-35
+CUST01759,Customer_1759,Chennai,Tamil Nadu,South,New,2022-10-07,26-35
+CUST01760,Customer_1760,Nagpur,Maharashtra,West,Regular,2022-04-03,46-55
+CUST01761,Customer_1761,Bangalore,Karnataka,South,Regular,2022-12-16,18-25
+CUST01762,Customer_1762,Chennai,Tamil Nadu,South,Premium,2022-10-09,36-45
+CUST01763,Customer_1763,Patna,Bihar,East,New,2022-01-14,26-35
+CUST01764,Customer_1764,Nagpur,Maharashtra,West,Regular,2022-08-25,26-35
+CUST01765,Customer_1765,Ahmedabad,Gujarat,West,New,2022-12-29,26-35
+CUST01766,Customer_1766,Bhopal,Madhya Pradesh,Central,Regular,2022-04-18,26-35
+CUST01767,Customer_1767,Chennai,Tamil Nadu,South,Premium,2022-08-13,36-45
+CUST01768,Customer_1768,Indore,Madhya Pradesh,Central,Regular,2022-05-30,26-35
+CUST01769,Customer_1769,Nagpur,Maharashtra,West,Regular,2022-12-21,18-25
+CUST01770,Customer_1770,Kolkata,West Bengal,East,Regular,2022-02-05,18-25
+CUST01771,Customer_1771,Bhopal,Madhya Pradesh,Central,Regular,2022-07-29,26-35
+CUST01772,Customer_1772,Delhi,Delhi,North,Premium,2022-12-11,46-55
+CUST01773,Customer_1773,Ahmedabad,Gujarat,West,Premium,2022-09-13,26-35
+CUST01774,Customer_1774,Delhi,Delhi,North,VIP,2022-03-13,36-45
+CUST01775,Customer_1775,Bangalore,Karnataka,South,Premium,2022-11-21,36-45
+CUST01776,Customer_1776,Bhopal,Madhya Pradesh,Central,Regular,2022-06-05,46-55
+CUST01777,Customer_1777,Hyderabad,Telangana,South,Regular,2022-05-04,46-55
+CUST01778,Customer_1778,Nagpur,Maharashtra,West,Regular,2022-05-10,36-45
+CUST01779,Customer_1779,Lucknow,Uttar Pradesh,North,New,2022-12-04,36-45
+CUST01780,Customer_1780,Indore,Madhya Pradesh,Central,Premium,2022-03-20,46-55
+CUST01781,Customer_1781,Lucknow,Uttar Pradesh,North,New,2022-08-05,26-35
+CUST01782,Customer_1782,Pune,Maharashtra,West,VIP,2022-07-13,26-35
+CUST01783,Customer_1783,Nagpur,Maharashtra,West,Regular,2022-02-07,18-25
+CUST01784,Customer_1784,Bhopal,Madhya Pradesh,Central,Regular,2022-08-18,46-55
+CUST01785,Customer_1785,Jaipur,Rajasthan,North,Regular,2022-11-03,46-55
+CUST01786,Customer_1786,Kolkata,West Bengal,East,Premium,2022-09-03,18-25
+CUST01787,Customer_1787,Delhi,Delhi,North,Regular,2022-10-26,36-45
+CUST01788,Customer_1788,Bhopal,Madhya Pradesh,Central,Regular,2022-07-25,26-35
+CUST01789,Customer_1789,Pune,Maharashtra,West,New,2022-10-01,18-25
+CUST01790,Customer_1790,Mumbai,Maharashtra,West,Regular,2022-09-17,55+
+CUST01791,Customer_1791,Chennai,Tamil Nadu,South,New,2022-12-21,26-35
+CUST01792,Customer_1792,Jaipur,Rajasthan,North,Premium,2022-08-03,18-25
+CUST01793,Customer_1793,Delhi,Delhi,North,Regular,2022-10-06,36-45
+CUST01794,Customer_1794,Ahmedabad,Gujarat,West,Regular,2022-01-19,36-45
+CUST01795,Customer_1795,Kolkata,West Bengal,East,New,2022-07-04,18-25
+CUST01796,Customer_1796,Lucknow,Uttar Pradesh,North,New,2022-12-26,36-45
+CUST01797,Customer_1797,Indore,Madhya Pradesh,Central,Premium,2022-10-02,26-35
+CUST01798,Customer_1798,Lucknow,Uttar Pradesh,North,New,2022-11-01,18-25
+CUST01799,Customer_1799,Chennai,Tamil Nadu,South,New,2022-11-23,18-25
+CUST01800,Customer_1800,Surat,Gujarat,West,New,2022-02-13,36-45
+CUST01801,Customer_1801,Pune,Maharashtra,West,VIP,2022-02-25,26-35
+CUST01802,Customer_1802,Nagpur,Maharashtra,West,Premium,2022-05-08,46-55
+CUST01803,Customer_1803,Lucknow,Uttar Pradesh,North,Regular,2022-12-03,46-55
+CUST01804,Customer_1804,Kolkata,West Bengal,East,New,2022-12-07,55+
+CUST01805,Customer_1805,Delhi,Delhi,North,Regular,2022-07-01,26-35
+CUST01806,Customer_1806,Lucknow,Uttar Pradesh,North,Premium,2022-03-27,55+
+CUST01807,Customer_1807,Hyderabad,Telangana,South,Regular,2022-11-28,26-35
+CUST01808,Customer_1808,Ahmedabad,Gujarat,West,New,2022-11-10,26-35
+CUST01809,Customer_1809,Mumbai,Maharashtra,West,New,2022-01-23,18-25
+CUST01810,Customer_1810,Surat,Gujarat,West,New,2022-10-16,18-25
+CUST01811,Customer_1811,Patna,Bihar,East,Regular,2022-11-27,36-45
+CUST01812,Customer_1812,Jaipur,Rajasthan,North,Premium,2022-12-13,26-35
+CUST01813,Customer_1813,Kolkata,West Bengal,East,New,2022-11-28,26-35
+CUST01814,Customer_1814,Patna,Bihar,East,New,2022-07-24,36-45
+CUST01815,Customer_1815,Surat,Gujarat,West,New,2022-06-19,26-35
+CUST01816,Customer_1816,Hyderabad,Telangana,South,VIP,2022-08-09,36-45
+CUST01817,Customer_1817,Lucknow,Uttar Pradesh,North,New,2022-02-24,26-35
+CUST01818,Customer_1818,Delhi,Delhi,North,Premium,2022-01-06,46-55
+CUST01819,Customer_1819,Lucknow,Uttar Pradesh,North,Regular,2022-02-20,46-55
+CUST01820,Customer_1820,Nagpur,Maharashtra,West,Regular,2022-05-13,26-35
+CUST01821,Customer_1821,Ahmedabad,Gujarat,West,New,2022-04-24,26-35
+CUST01822,Customer_1822,Patna,Bihar,East,New,2022-09-19,26-35
+CUST01823,Customer_1823,Indore,Madhya Pradesh,Central,Regular,2022-09-23,46-55
+CUST01824,Customer_1824,Chennai,Tamil Nadu,South,Premium,2022-10-13,26-35
+CUST01825,Customer_1825,Lucknow,Uttar Pradesh,North,Regular,2022-10-25,26-35
+CUST01826,Customer_1826,Pune,Maharashtra,West,Regular,2022-12-19,18-25
+CUST01827,Customer_1827,Delhi,Delhi,North,New,2022-10-22,26-35
+CUST01828,Customer_1828,Bangalore,Karnataka,South,VIP,2022-04-24,26-35
+CUST01829,Customer_1829,Mumbai,Maharashtra,West,Premium,2022-08-17,46-55
+CUST01830,Customer_1830,Mumbai,Maharashtra,West,New,2022-07-11,26-35
+CUST01831,Customer_1831,Chennai,Tamil Nadu,South,VIP,2022-07-20,26-35
+CUST01832,Customer_1832,Ahmedabad,Gujarat,West,Regular,2022-08-26,46-55
+CUST01833,Customer_1833,Delhi,Delhi,North,Regular,2022-12-14,46-55
+CUST01834,Customer_1834,Delhi,Delhi,North,Premium,2022-10-29,26-35
+CUST01835,Customer_1835,Hyderabad,Telangana,South,Premium,2022-12-20,26-35
+CUST01836,Customer_1836,Patna,Bihar,East,Regular,2022-09-14,26-35
+CUST01837,Customer_1837,Jaipur,Rajasthan,North,New,2022-03-19,46-55
+CUST01838,Customer_1838,Bangalore,Karnataka,South,Regular,2022-06-26,18-25
+CUST01839,Customer_1839,Pune,Maharashtra,West,VIP,2022-01-13,46-55
+CUST01840,Customer_1840,Ahmedabad,Gujarat,West,New,2022-09-05,36-45
+CUST01841,Customer_1841,Kolkata,West Bengal,East,Regular,2022-02-23,26-35
+CUST01842,Customer_1842,Lucknow,Uttar Pradesh,North,Regular,2022-06-01,18-25
+CUST01843,Customer_1843,Indore,Madhya Pradesh,Central,Regular,2022-08-01,26-35
+CUST01844,Customer_1844,Indore,Madhya Pradesh,Central,Regular,2022-02-13,26-35
+CUST01845,Customer_1845,Jaipur,Rajasthan,North,VIP,2022-03-01,18-25
+CUST01846,Customer_1846,Pune,Maharashtra,West,New,2022-03-14,36-45
+CUST01847,Customer_1847,Surat,Gujarat,West,New,2022-06-28,55+
+CUST01848,Customer_1848,Indore,Madhya Pradesh,Central,New,2022-06-09,36-45
+CUST01849,Customer_1849,Indore,Madhya Pradesh,Central,Premium,2022-06-25,36-45
+CUST01850,Customer_1850,Bangalore,Karnataka,South,Regular,2022-08-22,18-25
+CUST01851,Customer_1851,Patna,Bihar,East,New,2022-04-16,26-35
+CUST01852,Customer_1852,Pune,Maharashtra,West,Premium,2022-09-24,18-25
+CUST01853,Customer_1853,Lucknow,Uttar Pradesh,North,Premium,2022-09-05,36-45
+CUST01854,Customer_1854,Delhi,Delhi,North,Premium,2022-06-28,46-55
+CUST01855,Customer_1855,Nagpur,Maharashtra,West,VIP,2022-09-01,36-45
+CUST01856,Customer_1856,Ahmedabad,Gujarat,West,New,2022-02-19,18-25
+CUST01857,Customer_1857,Surat,Gujarat,West,Premium,2022-08-13,26-35
+CUST01858,Customer_1858,Pune,Maharashtra,West,Regular,2022-12-23,36-45
+CUST01859,Customer_1859,Chennai,Tamil Nadu,South,Premium,2022-08-20,26-35
+CUST01860,Customer_1860,Mumbai,Maharashtra,West,Premium,2022-06-13,46-55
+CUST01861,Customer_1861,Indore,Madhya Pradesh,Central,Premium,2022-02-04,46-55
+CUST01862,Customer_1862,Kolkata,West Bengal,East,Regular,2022-06-03,36-45
+CUST01863,Customer_1863,Hyderabad,Telangana,South,New,2022-01-23,26-35
+CUST01864,Customer_1864,Ahmedabad,Gujarat,West,Regular,2022-12-30,26-35
+CUST01865,Customer_1865,Ahmedabad,Gujarat,West,VIP,2022-02-28,18-25
+CUST01866,Customer_1866,Hyderabad,Telangana,South,VIP,2022-01-12,26-35
+CUST01867,Customer_1867,Nagpur,Maharashtra,West,New,2022-06-25,26-35
+CUST01868,Customer_1868,Kolkata,West Bengal,East,New,2022-11-28,36-45
+CUST01869,Customer_1869,Delhi,Delhi,North,New,2022-02-25,36-45
+CUST01870,Customer_1870,Lucknow,Uttar Pradesh,North,Premium,2022-12-13,18-25
+CUST01871,Customer_1871,Kolkata,West Bengal,East,Premium,2022-03-26,26-35
+CUST01872,Customer_1872,Jaipur,Rajasthan,North,New,2022-05-05,18-25
+CUST01873,Customer_1873,Patna,Bihar,East,Regular,2022-09-22,18-25
+CUST01874,Customer_1874,Lucknow,Uttar Pradesh,North,Premium,2022-03-31,46-55
+CUST01875,Customer_1875,Kolkata,West Bengal,East,Premium,2022-10-10,18-25
+CUST01876,Customer_1876,Mumbai,Maharashtra,West,Regular,2022-03-23,26-35
+CUST01877,Customer_1877,Pune,Maharashtra,West,Regular,2022-06-19,18-25
+CUST01878,Customer_1878,Chennai,Tamil Nadu,South,Regular,2022-10-14,46-55
+CUST01879,Customer_1879,Hyderabad,Telangana,South,New,2022-08-07,36-45
+CUST01880,Customer_1880,Delhi,Delhi,North,Regular,2022-08-25,26-35
+CUST01881,Customer_1881,Nagpur,Maharashtra,West,Regular,2022-04-29,26-35
+CUST01882,Customer_1882,Nagpur,Maharashtra,West,Premium,2022-07-27,36-45
+CUST01883,Customer_1883,Ahmedabad,Gujarat,West,Regular,2022-11-19,55+
+CUST01884,Customer_1884,Delhi,Delhi,North,Premium,2022-04-05,26-35
+CUST01885,Customer_1885,Lucknow,Uttar Pradesh,North,New,2022-04-06,46-55
+CUST01886,Customer_1886,Hyderabad,Telangana,South,Regular,2022-11-24,46-55
+CUST01887,Customer_1887,Lucknow,Uttar Pradesh,North,New,2022-12-03,46-55
+CUST01888,Customer_1888,Lucknow,Uttar Pradesh,North,New,2022-08-10,36-45
+CUST01889,Customer_1889,Surat,Gujarat,West,Premium,2022-07-22,36-45
+CUST01890,Customer_1890,Mumbai,Maharashtra,West,VIP,2022-01-15,26-35
+CUST01891,Customer_1891,Mumbai,Maharashtra,West,New,2022-11-11,36-45
+CUST01892,Customer_1892,Bhopal,Madhya Pradesh,Central,Regular,2022-04-12,26-35
+CUST01893,Customer_1893,Kolkata,West Bengal,East,Premium,2022-08-19,36-45
+CUST01894,Customer_1894,Hyderabad,Telangana,South,New,2022-10-31,26-35
+CUST01895,Customer_1895,Bangalore,Karnataka,South,Regular,2022-08-08,36-45
+CUST01896,Customer_1896,Bhopal,Madhya Pradesh,Central,Premium,2022-07-19,46-55
+CUST01897,Customer_1897,Surat,Gujarat,West,Regular,2022-01-03,18-25
+CUST01898,Customer_1898,Hyderabad,Telangana,South,New,2022-12-27,46-55
+CUST01899,Customer_1899,Delhi,Delhi,North,Regular,2022-04-20,26-35
+CUST01900,Customer_1900,Nagpur,Maharashtra,West,Premium,2022-04-16,46-55
+CUST01901,Customer_1901,Bhopal,Madhya Pradesh,Central,Regular,2022-05-23,26-35
+CUST01902,Customer_1902,Jaipur,Rajasthan,North,New,2022-12-27,26-35
+CUST01903,Customer_1903,Hyderabad,Telangana,South,Premium,2022-02-02,46-55
+CUST01904,Customer_1904,Surat,Gujarat,West,New,2022-10-23,26-35
+CUST01905,Customer_1905,Hyderabad,Telangana,South,Premium,2022-02-22,46-55
+CUST01906,Customer_1906,Nagpur,Maharashtra,West,New,2022-10-02,26-35
+CUST01907,Customer_1907,Nagpur,Maharashtra,West,VIP,2022-04-06,26-35
+CUST01908,Customer_1908,Hyderabad,Telangana,South,Regular,2022-07-07,26-35
+CUST01909,Customer_1909,Kolkata,West Bengal,East,Regular,2022-06-16,36-45
+CUST01910,Customer_1910,Bhopal,Madhya Pradesh,Central,New,2022-04-11,26-35
+CUST01911,Customer_1911,Bangalore,Karnataka,South,Regular,2022-08-23,18-25
+CUST01912,Customer_1912,Bhopal,Madhya Pradesh,Central,Premium,2022-02-28,26-35
+CUST01913,Customer_1913,Patna,Bihar,East,VIP,2022-05-15,18-25
+CUST01914,Customer_1914,Surat,Gujarat,West,Regular,2022-12-10,55+
+CUST01915,Customer_1915,Mumbai,Maharashtra,West,Regular,2022-09-08,55+
+CUST01916,Customer_1916,Chennai,Tamil Nadu,South,Premium,2022-09-28,26-35
+CUST01917,Customer_1917,Nagpur,Maharashtra,West,Premium,2022-11-24,36-45
+CUST01918,Customer_1918,Bangalore,Karnataka,South,Regular,2022-06-10,26-35
+CUST01919,Customer_1919,Bangalore,Karnataka,South,Regular,2022-11-02,36-45
+CUST01920,Customer_1920,Jaipur,Rajasthan,North,Regular,2022-07-18,46-55
+CUST01921,Customer_1921,Chennai,Tamil Nadu,South,Regular,2022-11-09,46-55
+CUST01922,Customer_1922,Bhopal,Madhya Pradesh,Central,New,2022-07-20,26-35
+CUST01923,Customer_1923,Bangalore,Karnataka,South,Regular,2022-10-28,36-45
+CUST01924,Customer_1924,Delhi,Delhi,North,Regular,2022-02-28,26-35
+CUST01925,Customer_1925,Lucknow,Uttar Pradesh,North,Premium,2022-06-28,55+
+CUST01926,Customer_1926,Nagpur,Maharashtra,West,New,2022-06-30,18-25
+CUST01927,Customer_1927,Mumbai,Maharashtra,West,Regular,2022-08-23,36-45
+CUST01928,Customer_1928,Bangalore,Karnataka,South,Regular,2022-11-13,36-45
+CUST01929,Customer_1929,Mumbai,Maharashtra,West,Regular,2022-03-30,36-45
+CUST01930,Customer_1930,Kolkata,West Bengal,East,New,2022-12-11,18-25
+CUST01931,Customer_1931,Bhopal,Madhya Pradesh,Central,Regular,2022-12-28,46-55
+CUST01932,Customer_1932,Bhopal,Madhya Pradesh,Central,Regular,2022-06-02,18-25
+CUST01933,Customer_1933,Hyderabad,Telangana,South,Regular,2022-11-11,36-45
+CUST01934,Customer_1934,Surat,Gujarat,West,Regular,2022-10-30,26-35
+CUST01935,Customer_1935,Kolkata,West Bengal,East,Regular,2022-02-13,26-35
+CUST01936,Customer_1936,Mumbai,Maharashtra,West,Premium,2022-12-11,26-35
+CUST01937,Customer_1937,Bangalore,Karnataka,South,New,2022-03-10,26-35
+CUST01938,Customer_1938,Chennai,Tamil Nadu,South,Premium,2022-06-10,18-25
+CUST01939,Customer_1939,Mumbai,Maharashtra,West,Regular,2022-03-02,18-25
+CUST01940,Customer_1940,Bangalore,Karnataka,South,New,2022-05-03,26-35
+CUST01941,Customer_1941,Indore,Madhya Pradesh,Central,New,2022-06-06,36-45
+CUST01942,Customer_1942,Pune,Maharashtra,West,Regular,2022-03-01,46-55
+CUST01943,Customer_1943,Jaipur,Rajasthan,North,Premium,2022-04-04,18-25
+CUST01944,Customer_1944,Delhi,Delhi,North,Premium,2022-07-11,26-35
+CUST01945,Customer_1945,Indore,Madhya Pradesh,Central,Premium,2022-12-22,18-25
+CUST01946,Customer_1946,Delhi,Delhi,North,Regular,2022-03-14,18-25
+CUST01947,Customer_1947,Ahmedabad,Gujarat,West,Regular,2022-09-19,36-45
+CUST01948,Customer_1948,Ahmedabad,Gujarat,West,New,2022-07-18,36-45
+CUST01949,Customer_1949,Bhopal,Madhya Pradesh,Central,Regular,2022-08-03,18-25
+CUST01950,Customer_1950,Kolkata,West Bengal,East,Regular,2022-11-02,26-35
+CUST01951,Customer_1951,Jaipur,Rajasthan,North,New,2022-03-12,18-25
+CUST01952,Customer_1952,Surat,Gujarat,West,New,2022-10-22,46-55
+CUST01953,Customer_1953,Delhi,Delhi,North,Regular,2022-07-16,55+
+CUST01954,Customer_1954,Ahmedabad,Gujarat,West,Premium,2022-08-05,18-25
+CUST01955,Customer_1955,Jaipur,Rajasthan,North,VIP,2022-04-06,26-35
+CUST01956,Customer_1956,Hyderabad,Telangana,South,VIP,2022-09-07,46-55
+CUST01957,Customer_1957,Surat,Gujarat,West,Regular,2022-11-22,46-55
+CUST01958,Customer_1958,Mumbai,Maharashtra,West,Regular,2022-10-03,26-35
+CUST01959,Customer_1959,Indore,Madhya Pradesh,Central,Regular,2022-12-22,18-25
+CUST01960,Customer_1960,Bhopal,Madhya Pradesh,Central,Premium,2022-11-27,18-25
+CUST01961,Customer_1961,Patna,Bihar,East,New,2022-03-30,36-45
+CUST01962,Customer_1962,Nagpur,Maharashtra,West,Regular,2022-10-12,26-35
+CUST01963,Customer_1963,Lucknow,Uttar Pradesh,North,Premium,2022-03-27,18-25
+CUST01964,Customer_1964,Jaipur,Rajasthan,North,Regular,2022-09-08,36-45
+CUST01965,Customer_1965,Chennai,Tamil Nadu,South,Regular,2022-05-28,18-25
+CUST01966,Customer_1966,Ahmedabad,Gujarat,West,Regular,2022-03-13,36-45
+CUST01967,Customer_1967,Lucknow,Uttar Pradesh,North,New,2022-04-06,26-35
+CUST01968,Customer_1968,Mumbai,Maharashtra,West,Regular,2022-06-11,18-25
+CUST01969,Customer_1969,Mumbai,Maharashtra,West,Regular,2022-08-19,36-45
+CUST01970,Customer_1970,Ahmedabad,Gujarat,West,New,2022-11-14,26-35
+CUST01971,Customer_1971,Nagpur,Maharashtra,West,New,2022-01-28,55+
+CUST01972,Customer_1972,Pune,Maharashtra,West,Premium,2022-07-03,26-35
+CUST01973,Customer_1973,Pune,Maharashtra,West,New,2022-01-05,26-35
+CUST01974,Customer_1974,Lucknow,Uttar Pradesh,North,Regular,2022-09-06,36-45
+CUST01975,Customer_1975,Delhi,Delhi,North,New,2022-03-11,26-35
+CUST01976,Customer_1976,Ahmedabad,Gujarat,West,VIP,2022-04-10,46-55
+CUST01977,Customer_1977,Indore,Madhya Pradesh,Central,New,2022-07-16,26-35
+CUST01978,Customer_1978,Patna,Bihar,East,Regular,2022-10-15,26-35
+CUST01979,Customer_1979,Ahmedabad,Gujarat,West,Premium,2022-09-16,18-25
+CUST01980,Customer_1980,Delhi,Delhi,North,Premium,2022-12-01,26-35
+CUST01981,Customer_1981,Patna,Bihar,East,New,2022-09-11,46-55
+CUST01982,Customer_1982,Delhi,Delhi,North,Premium,2022-07-29,46-55
+CUST01983,Customer_1983,Kolkata,West Bengal,East,Regular,2022-12-17,26-35
+CUST01984,Customer_1984,Surat,Gujarat,West,Regular,2022-09-09,26-35
+CUST01985,Customer_1985,Bangalore,Karnataka,South,New,2022-08-01,46-55
+CUST01986,Customer_1986,Delhi,Delhi,North,New,2022-12-30,46-55
+CUST01987,Customer_1987,Bangalore,Karnataka,South,Premium,2022-08-16,18-25
+CUST01988,Customer_1988,Chennai,Tamil Nadu,South,Regular,2022-09-08,26-35
+CUST01989,Customer_1989,Surat,Gujarat,West,Regular,2022-03-27,26-35
+CUST01990,Customer_1990,Lucknow,Uttar Pradesh,North,Premium,2022-02-12,46-55
+CUST01991,Customer_1991,Surat,Gujarat,West,Premium,2022-10-17,18-25
+CUST01992,Customer_1992,Jaipur,Rajasthan,North,New,2022-01-16,26-35
+CUST01993,Customer_1993,Indore,Madhya Pradesh,Central,Regular,2022-04-23,36-45
+CUST01994,Customer_1994,Kolkata,West Bengal,East,New,2022-05-30,18-25
+CUST01995,Customer_1995,Pune,Maharashtra,West,Premium,2022-01-17,26-35
+CUST01996,Customer_1996,Surat,Gujarat,West,Regular,2022-05-21,26-35
+CUST01997,Customer_1997,Jaipur,Rajasthan,North,VIP,2022-04-26,26-35
+CUST01998,Customer_1998,Chennai,Tamil Nadu,South,New,2022-10-03,26-35
+CUST01999,Customer_1999,Ahmedabad,Gujarat,West,New,2022-05-28,26-35
+CUST02000,Customer_2000,Jaipur,Rajasthan,North,New,2022-03-28,18-25
